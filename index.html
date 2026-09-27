@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f5f5f7">
+<title>Вишлист Славы · 24</title>
+<style>
+:root{--bg:#f5f5f7;--card:rgba(255,255,255,.82);--text:#1d1d1f;--muted:#6e6e73;--line:rgba(0,0,0,.08);--blue:#0071e3;--shadow:0 14px 40px rgba(0,0,0,.07)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 20% -10%,#fff 0,#f5f5f7 38%),var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
+a{color:inherit}.wrap{max-width:1120px;margin:auto;padding:64px 22px 80px}.hero{padding:22px 2px 48px}.eyebrow{font-size:14px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}h1{font-size:clamp(44px,8vw,82px);line-height:.96;letter-spacing:-.055em;margin:12px 0 20px}.lead{max-width:720px;font-size:20px;line-height:1.45;color:var(--muted);margin:0}.note{margin-top:24px;display:inline-flex;gap:8px;align-items:center;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.6);font-size:14px;color:var(--muted)}.filters{display:flex;gap:9px;flex-wrap:wrap;margin:4px 0 28px}.filter{border:0;background:#fff;border-radius:999px;padding:10px 15px;font:inherit;font-size:14px;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.04)}.filter.active{background:#1d1d1f;color:#fff}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{position:relative;overflow:hidden;min-height:320px;padding:28px;border-radius:28px;background:var(--card);border:1px solid rgba(255,255,255,.8);box-shadow:var(--shadow);backdrop-filter:blur(18px);display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease}.card:hover{transform:translateY(-2px);box-shadow:0 18px 50px rgba(0,0,0,.1)}.card.hero-card{grid-column:span 2;min-height:360px;background:linear-gradient(135deg,#161617,#303035);color:#fff}.tag{font-size:13px;font-weight:700;color:var(--muted);margin-bottom:16px}.hero-card .tag{color:#b8b8bd}.icon{font-size:38px;margin-bottom:18px}.card h2{font-size:30px;line-height:1.05;letter-spacing:-.035em;margin:0 0 10px}.price{font-size:18px;font-weight:700;margin-bottom:15px}.desc{font-size:16px;line-height:1.5;color:var(--muted);max-width:650px;margin:0 0 24px}.hero-card .desc{color:#c7c7cc}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:auto}.btn{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border-radius:999px;padding:11px 16px;background:var(--blue);color:white;font-size:14px;font-weight:650}.btn.secondary{background:#e8e8ed;color:#1d1d1f}.hero-card .btn.secondary{background:#fff;color:#1d1d1f}.small{font-size:12px;color:var(--muted);margin-top:13px;line-height:1.4}.hero-card .small{color:#a7a7ad}.section-title{font-size:28px;letter-spacing:-.03em;margin:56px 0 18px}.footer{margin-top:58px;padding-top:24px;border-top:1px solid var(--line);color:var(--muted);font-size:14px;line-height:1.6}.hidden{display:none!important}@media(max-width:720px){.wrap{padding:38px 16px 60px}.hero{padding-bottom:34px}.lead{font-size:18px}.grid{grid-template-columns:1fr}.card,.card.hero-card{grid-column:auto;min-height:300px;padding:24px;border-radius:24px}.card h2{font-size:27px}.filters{overflow-x:auto;flex-wrap:nowrap;padding-bottom:4px}.filter{white-space:nowrap}}
+</style>
+</head>
+<body>
+<main class="wrap">
+<section class="hero">
+<div class="eyebrow">Birthday wishlist · 24</div>
+<h1>Вишлист<br>Славы.</h1>
+<p class="lead">Здесь вещи, которым я действительно буду рад. Цены ориентировочные — магазин и конкретное предложение можно выбирать самостоятельно. Лучше искать с доставкой в Ижевск.</p>
+<div class="note">✦ Лучше один классный подарок, чем несколько мелочей</div>
+</section>
+
+<nav class="filters" aria-label="Фильтры">
+<button class="filter active" data-filter="all">Все</button>
+<button class="filter" data-filter="tech">Технологии</button>
+<button class="filter" data-filter="home">Умный дом</button>
+<button class="filter" data-filter="lego">LEGO</button>
+<button class="filter" data-filter="game">Игры</button>
+</nav>
+
+<section class="grid">
+<article class="card hero-card" data-cat="game tech">
+<div class="tag">ДАВНЯЯ ХОТЕЛКА</div><div class="icon">🥽</div><h2>PlayStation VR2</h2><div class="price">≈ 45 000 ₽</div>
+<p class="desc">PS5 уже есть, а PS VR2 я хочу давно. Можно обычную версию — комплект с конкретной игрой не обязателен.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=Sony%20PlayStation%20VR2" target="_blank" rel="noopener">Яндекс Маркет ↗</a><a class="btn secondary" href="https://www.ozon.ru/search/?text=Sony%20PlayStation%20VR2" target="_blank" rel="noopener">Ozon ↗</a></div>
+</article>
+
+<article class="card" data-cat="tech">
+<div class="tag">3D-ПЕЧАТЬ</div><div class="icon">🧊</div><h2>Bambu Lab A1 mini / A1</h2><div class="price">≈ 20 000–30 000 ₽</div>
+<p class="desc">Хочу именно печатать, а не просто попробовать 3D-принтер. A1 mini — отличный вариант; полноразмерный A1 или модель классом выше тоже отлично.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=Bambu%20Lab%20A1%20mini" target="_blank" rel="noopener">A1 mini ↗</a><a class="btn secondary" href="https://market.yandex.ru/search?text=Bambu%20Lab%20A1" target="_blank" rel="noopener">A1 ↗</a></div>
+</article>
+
+<article class="card" data-cat="tech home">
+<div class="tag">APPLE</div><div class="icon">◉</div><h2>Apple HomePod</h2><div class="price">≈ 30 000–45 000 ₽</div>
+<p class="desc">Именно большой HomePod, не mini. Впишется в уже существующую Apple-экосистему и умный дом.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=Apple%20HomePod%202" target="_blank" rel="noopener">Искать на Маркете ↗</a><a class="btn secondary" href="https://www.ozon.ru/search/?text=Apple%20HomePod%202" target="_blank" rel="noopener">Ozon ↗</a></div>
+</article>
+
+<article class="card" data-cat="home tech">
+<div class="tag">УМНЫЙ ДОМ · НУЖНО 3 ШТ.</div><div class="icon">▤</div><h2>Aqara Roller Shade Driver E1 ×3</h2><div class="price">≈ 18 500–21 000 ₽ за три</div>
+<p class="desc">Именно привод для рулонных штор с цепочкой. Нужны три штуки. У меня уже есть Aqara-хаб, поэтому отдельный хаб покупать не нужно.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=Aqara%20Roller%20Shade%20Driver%20E1" target="_blank" rel="noopener">Яндекс Маркет ↗</a><a class="btn secondary" href="https://www.ozon.ru/search/?text=Aqara%20Roller%20Shade%20Driver%20E1" target="_blank" rel="noopener">Ozon ↗</a></div>
+</article>
+
+<article class="card" data-cat="home tech">
+<div class="tag">УМНЫЙ ДОМ</div><div class="icon">📹</div><h2>Aqara Camera Hub G3</h2><div class="price">≈ 12 500 ₽</div>
+<p class="desc">Поворотная умная камера. Встроенный хаб здесь просто бонус — базовый Aqara-хаб у меня уже есть.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=Aqara%20Camera%20Hub%20G3" target="_blank" rel="noopener">Яндекс Маркет ↗</a><a class="btn secondary" href="https://www.ozon.ru/search/?text=Aqara%20Camera%20Hub%20G3" target="_blank" rel="noopener">Ozon ↗</a></div>
+</article>
+
+<article class="card" data-cat="tech">
+<div class="tag">ДОМАШНЯЯ ИНФРАСТРУКТУРА</div><div class="icon">▥</div><h2>Домашний сервер / мощный mini-PC</h2><div class="price">ориентир ≈ 20 000–40 000 ₽</div>
+<p class="desc">Для Foundry VTT, Docker, нескольких .NET-приложений и домашних сервисов. Возможность запускать небольшие локальные AI-модели — большой плюс.</p>
+<div class="actions"><a class="btn" href="https://t.me/GrinZZ" target="_blank" rel="noopener">Спросить @GrinZZ ↗</a><a class="btn secondary" href="https://www.ozon.ru/search/?text=mini%20pc%20ryzen%207%2032gb" target="_blank" rel="noopener">Посмотреть варианты ↗</a></div>
+<div class="small">По конкретной конфигурации лучше обязательно посоветоваться с @GrinZZ — он знает железо и поможет выбрать нормальный вариант.</div>
+</article>
+
+<article class="card" data-cat="tech">
+<div class="tag">АУДИО</div><div class="icon">🎙️</div><h2>Хороший USB-микрофон</h2><div class="price">≈ 15 000–25 000 ₽</div>
+<p class="desc">Например RØDE NT-USB+ или аналогичного класса. MIDI, мониторы и наушники уже есть; хороший микрофон — как раз пробел.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=Rode%20NT-USB%2B" target="_blank" rel="noopener">RØDE NT-USB+ ↗</a><a class="btn secondary" href="https://www.ozon.ru/search/?text=Rode%20NT-USB%2B" target="_blank" rel="noopener">Ozon ↗</a></div>
+</article>
+
+<article class="card" data-cat="lego">
+<div class="tag">LEGO · STAR WARS</div><div class="icon">✦</div><h2>LEGO Star Wars с минифигурками</h2><div class="price">≈ 10 000–25 000 ₽</div>
+<p class="desc">Интересуют полноценные корабли, сцены и большие наборы с минифигурками — не шлемы, бюсты и не R2-D2. Наборов Star Wars у меня пока нет.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=LEGO%20Star%20Wars%2075389" target="_blank" rel="noopener">Dark Falcon 75389 ↗</a><a class="btn secondary" href="https://market.yandex.ru/search?text=LEGO%20Star%20Wars%20%D0%BC%D0%B8%D0%BD%D0%B8%D1%84%D0%B8%D0%B3%D1%83%D1%80%D0%BA%D0%B8" target="_blank" rel="noopener">Другие наборы ↗</a></div>
+</article>
+
+<article class="card" data-cat="lego">
+<div class="tag">LEGO · TECHNIC</div><div class="icon">⚙️</div><h2>Большой LEGO Technic</h2><div class="price">≈ 15 000–35 000 ₽</div>
+<p class="desc">Чем сложнее механика и сборка, тем интереснее. Technic у меня пока нет, поэтому можно выбирать без риска дубля.</p>
+<div class="actions"><a class="btn" href="https://market.yandex.ru/search?text=LEGO%20Technic%2042177" target="_blank" rel="noopener">Mercedes G 500 42177 ↗</a><a class="btn secondary" href="https://market.yandex.ru/search?text=LEGO%20Technic%20%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9%20%D0%BD%D0%B0%D0%B1%D0%BE%D1%80" target="_blank" rel="noopener">Другие Technic ↗</a></div>
+</article>
+
+<article class="card" data-cat="lego">
+<div class="tag">LEGO · HARRY POTTER / MINECRAFT</div><div class="icon">🧱</div><h2>Большой набор с минифигурками</h2><div class="price">от ≈ 10 000 ₽</div>
+<p class="desc">Harry Potter и Minecraft люблю, но часть наборов уже есть. Поэтому перед покупкой лучше просто проверить конкретный набор у Алёны.</p>
+<div class="actions"><a class="btn" href="https://t.me/alenashubina" target="_blank" rel="noopener">Спросить Алёну ↗</a><a class="btn secondary" href="https://market.yandex.ru/search?text=LEGO%20Harry%20Potter%20Minecraft" target="_blank" rel="noopener">Посмотреть наборы ↗</a></div>
+</article>
+</section>
+
+<footer class="footer">
+<p><strong>Небольшая просьба:</strong> цены здесь ориентировочные и со временем меняются. Яндекс Маркет, Ozon и Wildberries — ок; главное, чтобы продавец и товар выглядели надёжно.</p>
+<p>Если хочется подарить что-то не из списка — технологии, Apple, умный дом и сложный LEGO почти всегда хорошее направление. Но лучше не брать мелкие аксессуары «в дополнение» к вещи, которой у меня ещё нет.</p>
+</footer>
+</main>
+<script>
+const buttons=document.querySelectorAll('.filter'), cards=document.querySelectorAll('.card');
+buttons.forEach(b=>b.addEventListener('click',()=>{buttons.forEach(x=>x.classList.remove('active'));b.classList.add('active');const f=b.dataset.filter;cards.forEach(c=>c.classList.toggle('hidden',f!=='all'&&!c.dataset.cat.split(' ').includes(f)));}));
+</script>
+</body>
+</html>
