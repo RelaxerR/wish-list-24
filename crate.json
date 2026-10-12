@@ -1,0 +1,7782 @@
+{
+"updatedAt": "2026-10-12T16:00:00+04:00",
+"source": "/Volumes/SamsungT7/Music/DJ (теги ID3)",
+"tracks": [
+{
+"artist": "Kamazz",
+"title": "Текила - любовь (Andy Shik Remix)",
+"bpm": 124,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Zivert",
+"title": "Эгоистка (Silver Ace & Onix Remix)",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Блестящие",
+"title": "А я всё летала (Chad & Mike Prado Extended Mix)",
+"bpm": 125,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Icegergert & Zivert",
+"title": "Банк (Deep Alive Remix Extended)",
+"bpm": 124,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Андрей Губин",
+"title": "Ночь (Ayur Tsyrenov extended remix)",
+"bpm": 122,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Amirchik",
+"title": "Розовый вечер (Ramirez Extended Remix)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Елена Терлеева",
+"title": "Солнце (Alexx Slam Remix)",
+"bpm": 128,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Джиган, Artik & Asti, NILETTO",
+"title": "Худи (Colett Extended Remix)",
+"bpm": 124,
+"key": "Fm",
+"camelot": "4A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "Валентин Стрыкало",
+"title": "Наше лето (Slim x Corto Remix)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Полина Гагарина",
+"title": "Спектакль окончен (Khan Edit)",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Бонд с кнопкой",
+"title": "Кухни (Corto x Slim Remix Extended)",
+"bpm": 126,
+"key": "2A",
+"camelot": "2A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Татьяна Буланова",
+"title": "Мой ненаглядный (JONVS Remix)",
+"bpm": 126,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Люся Чеботина",
+"title": "Каблук (Colett Extended Remix)",
+"bpm": 124,
+"key": "2A",
+"camelot": "2A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "AY YOLA",
+"title": "Homay (Green & Vizitt Remix)",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Женя Трофимов",
+"title": "Самолеты (Red Line & Hardovich Remix)",
+"bpm": 122,
+"key": "Em",
+"camelot": "9A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Коста Лакоста & Ольга Серябкина",
+"title": "По улицам (Red Line & Tarabrin Remix)",
+"bpm": 126,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Юлия Савичева",
+"title": "Москва-Владивосток (Andy Shik Remix)",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Anna Asti",
+"title": "Плачу на техно (Colett Extended Remix)",
+"bpm": 124,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Ваня Дмитриенко, Аня Пересильд",
+"title": "Силуэт (Ruslan Mishin & Andy Shik Remix)",
+"bpm": 126,
+"key": "Em",
+"camelot": "9A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Света",
+"title": "Что мне делать (Chad & Mike Prado vs. DJ Vini Extended Mix)",
+"bpm": 126,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Моя Мишель",
+"title": "Зима в сердце",
+"bpm": 108,
+"key": "Eb",
+"camelot": "5B",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Gavrilina",
+"title": "Сердце упало вниз (Muzvizor intro)",
+"bpm": 132,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Ицык Цыпер feat. Игорь цыба",
+"title": "Дымок (Muzvizor intro short)",
+"bpm": 134,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Gayle",
+"title": "abcdefu (angrier) (Muzvizor intro)",
+"bpm": 122,
+"key": "C#m",
+"camelot": "12A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "JID, 21 savage, Baby tate",
+"title": "Surround sound (Muzvizor intro)",
+"bpm": 76,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Yves Prin",
+"title": "Astérix et Cléopatre Le gâteau empoisonné (Muzvizor intro)",
+"bpm": 109,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Zerb & Sofiya Nzau",
+"title": "Mwaki (Muzvizor intro)",
+"bpm": 120,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Afro",
+"block": "other"
+},
+{
+"artist": "Nyusha",
+"title": "Выбирать чудо",
+"bpm": 100,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Аигел",
+"title": "Пыяла (Muzvizor intro)",
+"bpm": 125,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Raffaella Carrà, Jaxomy, Agatino",
+"title": "Pedro (Romero remix) (Muzvizor intro)",
+"bpm": 76,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Acraze feat. Cherish",
+"title": "Do it do it",
+"bpm": 125,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Jazzdauren",
+"title": "Дарите женщинам цветы (Muzvizor intro)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Комбинация",
+"title": "Не забывай (Muzvizor intro)",
+"bpm": 132,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Татьяна Куртукова",
+"title": "Матушка (Muzvizor intro)",
+"bpm": 94,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Mekhman",
+"title": "Копия пиратская (Muzvizor intro)",
+"bpm": 95,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Dubli Agil",
+"title": "Chipi chipi chapa chapa dubi dubi daba daba (Muzvizor intro)",
+"bpm": 148,
+"key": "8A",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Ap$ent",
+"title": "Можно я с тобой (Muzvizor intro)",
+"bpm": 127,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Akon",
+"title": "Bananza (Belly dancer)",
+"bpm": 105,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Nikos band",
+"title": "Georgian disco (Muzvizor intro)",
+"bpm": 120,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Joezi, Lizwi",
+"title": "Amathole",
+"bpm": 123,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Kim Petras",
+"title": "XXX",
+"bpm": 112,
+"key": "Am",
+"camelot": "8A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Катя Лель",
+"title": "Мой мармеладный (intro)",
+"bpm": 120,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Tiagz, Fuerza Regida, El Alfa",
+"title": "Tacata (Remix) (Muzvizor Intro)",
+"bpm": 134,
+"key": "Em",
+"camelot": "9A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Bbno$, Rich Brian",
+"title": "Edamame (Muzvizor intro)",
+"bpm": 106,
+"key": "F#m",
+"camelot": "11A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Sunscreen",
+"title": "That's not my name (Muzvizor intro)",
+"bpm": 73,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "6arelyhuman",
+"title": "Faster n harder",
+"bpm": 70,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Icona pop",
+"title": "I love it (Muzvizor intro)",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Peggy Gou",
+"title": "Nanana",
+"bpm": 130,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Ed Sheeran",
+"title": "Don't",
+"bpm": 95,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "V $ X V PRiNCE / Витя АК",
+"title": "Подводная лодка",
+"bpm": 85,
+"key": "G#m",
+"camelot": "1A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "ALBLAK 52, ICEGERGERT",
+"title": "Top Dawg (Prime ''London Bridge'' Blend)",
+"bpm": 90,
+"key": "Fm",
+"camelot": "4A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "Swoy",
+"title": "Life is Love",
+"bpm": 125,
+"key": "G#m",
+"camelot": "1A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "Velvet Music",
+"title": "Megamix 20 (Юбилейный Mashup)",
+"bpm": 125,
+"key": "Em",
+"camelot": "9A",
+"genre": "pop",
+"block": "sing"
+},
+{
+"artist": "maxxytren / bulk_machine",
+"title": "ГИМН КАЧКОВ",
+"bpm": 126,
+"key": "Fm",
+"camelot": "4A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "Elvira T",
+"title": "Всё решено",
+"bpm": 92,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "ruspop",
+"block": "sing"
+},
+{
+"artist": "Swoy / Roustam",
+"title": "Elista Acid",
+"bpm": 126,
+"key": "C#m",
+"camelot": "12A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "The Khitrov",
+"title": "Russian Gangster",
+"bpm": 122,
+"key": "Fm",
+"camelot": "4A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "K+Lab",
+"title": "Ya whole style",
+"bpm": 93,
+"key": "Em",
+"camelot": "9A",
+"genre": "electronics",
+"block": "other"
+},
+{
+"artist": "DJ Madd",
+"title": "Take It Down Low",
+"bpm": 130,
+"key": "G#m",
+"camelot": "1A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "OZMA",
+"title": "Play",
+"bpm": 88,
+"key": "Fm",
+"camelot": "4A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "Curbi / Helen",
+"title": "Superpowers",
+"bpm": 125,
+"key": "Em",
+"camelot": "9A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "ASTRXNXM",
+"title": "Смотря какой FABRIC",
+"bpm": 120,
+"key": "G#m",
+"camelot": "1A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "Big Baby Tape & Kizaru",
+"title": "Problem (KNOCKOUT & DrapShift Bootleg)",
+"bpm": 135,
+"key": "12A",
+"camelot": "12A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "4eholl",
+"title": "Самурай с бутылкой",
+"bpm": 135,
+"key": "Gm",
+"camelot": "6A",
+"genre": "electronics",
+"block": "other"
+},
+{
+"artist": "Murat Grayson / AQUO / Peshta Gora",
+"title": "Standing On The Shore",
+"bpm": 123,
+"key": "F#m",
+"camelot": "11A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "kizaru, ICEGERGERT",
+"title": "Baddadan x Fake Id (Kostuchenko Blend)",
+"bpm": 80,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Open format",
+"block": "sing"
+},
+{
+"artist": "Denis Dyakov",
+"title": "Geometrium",
+"bpm": 124,
+"key": "G",
+"camelot": "9B",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "Icegergert X Fabian Mazur",
+"title": "Casino (Andrew Jester Blend)",
+"bpm": 90,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Jahmal TGK / VibeTGK / Регион снега",
+"title": "Нам ли жить в печали",
+"bpm": 73,
+"key": "F#m",
+"camelot": "11A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "КлоуКома, SQWOZ BAB",
+"title": "КОЛПАКИ (TARRGA Blend)",
+"bpm": 140,
+"key": "Fm",
+"camelot": "4A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Mikey B / shanesa / Local",
+"title": "Long as You Can",
+"bpm": 87,
+"key": "Gm",
+"camelot": "6A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "BAHCHA",
+"title": "Начальник голубей",
+"bpm": 125,
+"key": "F#m",
+"camelot": "11A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT, Zivert",
+"title": "БАНК (Muzvizor Intro)",
+"bpm": 100,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Ryki / Kyle Watson",
+"title": "Such A Mess",
+"bpm": 118,
+"key": "Cm",
+"camelot": "5A",
+"genre": "pop",
+"block": "sing"
+},
+{
+"artist": "Icegergert, Kizaru",
+"title": "Fake ID (Yuri Rider DNB Edit)",
+"bpm": 87,
+"key": "Fm",
+"camelot": "4A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "Keeno / Telomic",
+"title": "Listen Close",
+"bpm": 87,
+"key": "Dm",
+"camelot": "7A",
+"genre": "dnb",
+"block": "other"
+},
+{
+"artist": "Lida",
+"title": "Коля, Коля",
+"bpm": 73,
+"key": "Am",
+"camelot": "8A",
+"genre": "Other",
+"block": "other"
+},
+{
+"artist": "Frivolous",
+"title": "Cryin'",
+"bpm": 125,
+"key": "Fm",
+"camelot": "4A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "АК-47 / De Lacure",
+"title": "Здесь никто не курит",
+"bpm": 130,
+"key": "Cm",
+"camelot": "5A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "Legit Trip",
+"title": "Little Helper 307-3",
+"bpm": 124,
+"key": "Dm",
+"camelot": "7A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "Levity / Dem Jointz",
+"title": "Flip It",
+"bpm": 80,
+"key": "Bm",
+"camelot": "10A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "Bryz",
+"title": "Emotion",
+"bpm": 123,
+"key": "B",
+"camelot": "1B",
+"genre": "electronics",
+"block": "other"
+},
+{
+"artist": "Calabasa",
+"title": "Who's The Blacksheep",
+"bpm": 123,
+"key": "Am",
+"camelot": "8A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "Toman",
+"title": "Sometimes Is Not Forever",
+"bpm": 129,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "house",
+"block": "tech"
+},
+{
+"artist": "LYNY",
+"title": "Section",
+"bpm": 70,
+"key": "Cm",
+"camelot": "5A",
+"genre": "electronics",
+"block": "other"
+},
+{
+"artist": "Phlegmatic Dogs",
+"title": "Bastard",
+"bpm": 126,
+"key": "Gm",
+"camelot": "6A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "Glazz",
+"title": "КАК ТАМ С ДЕНЬГАМИ",
+"bpm": 128,
+"key": "Fm",
+"camelot": "4A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "Rootkit",
+"title": "Dreams",
+"bpm": 87,
+"key": "Gm",
+"camelot": "6A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "Joviee",
+"title": "For U",
+"bpm": 70,
+"key": "Cm",
+"camelot": "5A",
+"genre": "electronics",
+"block": "other"
+},
+{
+"artist": "Kizaru, Icegergert",
+"title": "Fake Id (Index-1 Remix Extended)",
+"bpm": 120,
+"key": "Cm",
+"camelot": "5A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "АК-47 / Триагрутрика / Витя АК / VibeTGK / Jahmal TGK",
+"title": "Я кладу на вас",
+"bpm": 85,
+"key": "F#m",
+"camelot": "11A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "Kizaru, Big Baby Tape x Dillon Francis",
+"title": "Stick Out (Excitation DFR Edit)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Document One",
+"title": "Run the Block",
+"bpm": 87,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "dnb",
+"block": "other"
+},
+{
+"artist": "kizaru / Big Moochie Grape",
+"title": "Midnight Blues",
+"bpm": 139,
+"key": "Am",
+"camelot": "8A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "NLW / Phlegmatic Dogs",
+"title": "Get It",
+"bpm": 126,
+"key": "Dm",
+"camelot": "7A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "SQWOZ BAB",
+"title": "TOKYO (Muzvizor Intro)",
+"bpm": 97,
+"key": "Em",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "The Sponges",
+"title": "Space Funk '75",
+"bpm": 124,
+"key": "F#m",
+"camelot": "11A",
+"genre": "dance",
+"block": "sing"
+},
+{
+"artist": "LIL KRYSTALLL / Лоя / OBLADAET / Markul",
+"title": "Я БУДУ Remix",
+"bpm": 71,
+"key": "F#m",
+"camelot": "11A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "SQWOZ BAB",
+"title": "Zidane (S0NIC Blend)",
+"bpm": 124,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Bass",
+"block": "other"
+},
+{
+"artist": "Teemid",
+"title": "Love at First Sight",
+"bpm": 120,
+"key": "Fm",
+"camelot": "4A",
+"genre": "electronics",
+"block": "other"
+},
+{
+"artist": "Icegergert, Sky Rae",
+"title": "Наследство (Index-1 Remix Extended)",
+"bpm": 124,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "Баста / Эрика Лундмоен / MG ZEA",
+"title": "+100500",
+"bpm": 72,
+"key": "Cm",
+"camelot": "5A",
+"genre": "rusrap",
+"block": "other"
+},
+{
+"artist": "Kercha",
+"title": "Yellow Moon",
+"bpm": 139,
+"key": "Dm",
+"camelot": "7A",
+"genre": "electronics",
+"block": "other"
+},
+{
+"artist": "Guma",
+"title": "Гори (DJ Safiter remix)",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "One-T, Cool-T",
+"title": "The magic key (Muzvizor intro)",
+"bpm": 102,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "Andeen K, L'One",
+"title": "Все танцуют локтями (Andeen K extended mix)",
+"bpm": 126,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Lmfao, Marten Horger",
+"title": "Sexy and i know it 2023 (Alex Shik mashup)",
+"bpm": 125,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Грибы",
+"title": "Копы",
+"bpm": 115,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Little Richard",
+"title": "Tutti Frutti (DJ AlexMINI edit)",
+"bpm": 95,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Пика, Tony Igy",
+"title": "Патимейкер (Big Bro blend)",
+"bpm": 126,
+"key": "11A",
+"camelot": "11A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "Busta Rhymes",
+"title": "Touch it (Howl remix)",
+"bpm": 105,
+"key": "3A",
+"camelot": "3A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Макс Корж",
+"title": "Малый повзрослел (Tribeat & Alex Ecko remix)",
+"bpm": 86,
+"key": "Em",
+"camelot": "9A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Rasa",
+"title": "Погудим (Lykov autumn edit 2022)",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Piero Pirupa, Gala, Sidepiece",
+"title": "We don't need, Freed from desire, Don't keep me waiting (Aurelios mashup mix)",
+"bpm": 125,
+"key": "Dm",
+"camelot": "7A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Shouse, Belters Only, James Hype",
+"title": "Won't forget you (Pat c's mmfg mashup)",
+"bpm": 126,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Винтаж",
+"title": "Ева (Denis Bravo edit) (Muzvizor intro)",
+"bpm": 124,
+"key": "C#m",
+"camelot": "12A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Коста Лакоста, Элджей",
+"title": "Бронежилет (Rakurs & Pavlov remix)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "Gazan",
+"title": "Суетолог (Alex Shik mashup)",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Robin S, Kuba & Neitan",
+"title": "Show me love (Alex Shik mashup)",
+"bpm": 126,
+"key": "Em",
+"camelot": "9A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Teriyaki Boyz",
+"title": "Tokyo drift (Kevin Aleksander bootleg)",
+"bpm": 127,
+"key": "3A",
+"camelot": "3A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Instasamka",
+"title": "Как Mommy (Denis Repin edit)",
+"bpm": 122,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Instasamka vs. Justin Timberlake, Timbaland",
+"title": "За деньги Sexyback (Denis Repin blend)",
+"bpm": 115,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Beyonce, Captown, Chris Brown",
+"title": "Gangsta (Nitrex partybreak)(Acapella in)",
+"bpm": 103,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Lady Gaga",
+"title": "Bloody Mary (Esquire & Igor Blaska remix)",
+"bpm": 124,
+"key": "8A",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "A.V.G",
+"title": "Она кайф (Mikis remix)",
+"bpm": 128,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Burt Cope",
+"title": "Outta my head",
+"bpm": 88,
+"key": "9A",
+"camelot": "9A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Reel 2 Real",
+"title": "I like to move it (Nome bootleg)",
+"bpm": 125,
+"key": "Dm",
+"camelot": "7A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "City Girls, Cardi B, Badaytoff",
+"title": "Twerk (Baloo edit)",
+"bpm": 105,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape, Aarne",
+"title": "Hoodak",
+"bpm": 72,
+"key": "Gm",
+"camelot": "6A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "Джарахов, Sqwoz bab",
+"title": "Daga baga",
+"bpm": 128,
+"key": "Em",
+"camelot": "9A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "Iowa",
+"title": "Бьёт бит (Denis Repin redrum)",
+"bpm": 110,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Jay-Z ft. Alicia Keys",
+"title": "Empire State Of Mind (Trinix Remix)",
+"bpm": 93,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Soulja Boy vs. Afrojack",
+"title": "Crank that (Smassh 'Tech Wows' edit)",
+"bpm": 126,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Liili, Vanotek",
+"title": "Hot (remix) (Muzvizor intro)",
+"bpm": 123,
+"key": "F#m",
+"camelot": "11A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "DJ Dark ft. Nooran sisters",
+"title": "Patakha guddi (intro edit)",
+"bpm": 125,
+"key": "Fm",
+"camelot": "4A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "Mandrazo",
+"title": "Get ur freak on",
+"bpm": 90,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Jason Derulo, Da Phonk, Rogerson",
+"title": "Talk dirty (redrum)",
+"bpm": 105,
+"key": "11A",
+"camelot": "11A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Britney Spears",
+"title": "Oops i did it again (Laesan bootleg)",
+"bpm": 100,
+"key": "12A",
+"camelot": "12A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Gwen Stefani",
+"title": "Hollaback girl (Coka Cobra & Kaya remix)",
+"bpm": 126,
+"key": "9A",
+"camelot": "9A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "DJ Kuba, Neitan, Bounce Inc.",
+"title": "Work my body (extended mix)",
+"bpm": 125,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "T-Fest, Скриптонит",
+"title": "Ламбада (Ramirez & Pavlov extended remix)",
+"bpm": 125,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Король и Шут",
+"title": "Кукла колдуна (Mkis drum'n'bass remix)",
+"bpm": 87,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Каста",
+"title": "Вокруг шум",
+"bpm": 96,
+"key": "Fm",
+"camelot": "4A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "Armani White",
+"title": "Diamond dallas (intro edit)",
+"bpm": 95,
+"key": "6A",
+"camelot": "6A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "T & Sugah",
+"title": "Your way",
+"bpm": 87,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Fisher & Acraze, Mexovaya 8.1",
+"title": "Losing Do it Koilek (Akhmetoff edit)",
+"bpm": 125,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Bushido Zho & Dadoo",
+"title": "Vodila (Kody blend intro dirty version)",
+"bpm": 97,
+"key": "Em",
+"camelot": "9A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "Jennifer Lopez, Jake Tarry",
+"title": "Jenny from the block (Sir Gio bootleg)",
+"bpm": 126,
+"key": "11A",
+"camelot": "11A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "Estradarada",
+"title": "Минимал",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Dadoo, Скриптонит",
+"title": "Поворот (Nitrex edit)",
+"bpm": 105,
+"key": "Em",
+"camelot": "9A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Fred again.., The Blessed Madonna",
+"title": "Marea (we’ve lost dancing)",
+"bpm": 123,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "BEAUZ, ellis & Sarah De Warren",
+"title": "IRL (Extended Mix)",
+"bpm": 125,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Skrillex & Boys Noize",
+"title": "Fine Day Anthem (Extended Mix)",
+"bpm": 138,
+"key": "G#m",
+"camelot": "1A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Fred again..",
+"title": "Kammy (like i do) Extended",
+"bpm": 132,
+"key": "Gm",
+"camelot": "6A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "After Wes",
+"title": "Never Felt (Ricky Stark Intro)",
+"bpm": 131,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Babsy.",
+"title": "Psilocybin (Ricky Stark Intro)",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Tyla",
+"title": "Water (Marshmello Extended Remix)",
+"bpm": 124,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Alex Keeper, Homem, doVicente",
+"title": "Wish You Well (Ricky Stark Intro)",
+"bpm": 128,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Tiësto",
+"title": "Drifting (Extended Mix)",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Angrybaby",
+"title": "HOLD YOU (Ricky Stark Intro)",
+"bpm": 132,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Fred again.. & Swedish House Mafia feat. Future",
+"title": "Turn On The Lights again..",
+"bpm": 128,
+"key": "F#m",
+"camelot": "11A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Rootkit",
+"title": "Dreaming (feat. Cammie Robinson) (Gibson Parker Remix) (Ricky Stark Intro)",
+"bpm": 126,
+"key": "Cm",
+"camelot": "5A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Nyday",
+"title": "Anything For You (Ricky Stark Intro)",
+"bpm": 120,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Lieutenant 71",
+"title": "Only With You (Ricky Stark Intro)",
+"bpm": 120,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Armin van Buuren & Xoro Feat Yola",
+"title": "God Is In The Soundwaves (Extended Mix)",
+"bpm": 72,
+"key": "C#m",
+"camelot": "12A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Jend",
+"title": "Beside Me (Ricky Stark Intro)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Ship Wrek & Disco Lines",
+"title": "Where Do I Belong (Ricky Stark Intro)",
+"bpm": 125,
+"key": "Dm",
+"camelot": "7A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Jung Kook",
+"title": "Seven (TAIGA Remix)",
+"bpm": 128,
+"key": "G#m",
+"camelot": "1A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Dizaro",
+"title": "This Moment (Ricky Stark Intro)",
+"bpm": 126,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "BUNT.",
+"title": "Paperplanes (Ricky Stark Intro)",
+"bpm": 128,
+"key": "Cm",
+"camelot": "5A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "KODYN, Alissa Feudo",
+"title": "I Miss You (Ricky Stark Intro)",
+"bpm": 120,
+"key": "Db",
+"camelot": "3B",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "CUOVAI",
+"title": "On Me (Extended Mix)",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "BICEP",
+"title": "GLUE",
+"bpm": 130,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Gavin Moss, Tom Polo, Mars Twins",
+"title": "Find a Way (Ricky Stark Intro)",
+"bpm": 122,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "BUNT. & Nate Traveller",
+"title": "Clouds (Extended Mix)",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Atrip",
+"title": "All Night (Extended Mix)",
+"bpm": 132,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Rommii",
+"title": "what we had was real (Ricky Stark Intro)",
+"bpm": 127,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Jaded",
+"title": "Show My Love (Icarus Remix (Extended))",
+"bpm": 134,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "devin",
+"title": "everything... and more (Ricky Stark Intro)",
+"bpm": 134,
+"key": "G#m",
+"camelot": "1A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "BICEP",
+"title": "GLUE (Rialians On Earth Remix)",
+"bpm": 130,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Freejak",
+"title": "Sol d'en Serra (Extended Mix)",
+"bpm": 130,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Fred again..",
+"title": "Danielle (smile on my face)",
+"bpm": 130,
+"key": "F",
+"camelot": "7B",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "NASAYA",
+"title": "CIEL (Ricky Stark Intro)",
+"bpm": 130,
+"key": "C#m",
+"camelot": "12A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Swimming Paul",
+"title": "Fknow It",
+"bpm": 132,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Винтаж X Bxnny",
+"title": "Ева (HIMIK blend)",
+"bpm": 124,
+"key": "C#m",
+"camelot": "12A",
+"genre": "AFRO",
+"block": "other"
+},
+{
+"artist": "BYP X Miyagi",
+"title": "Тамада (105-115 BPM+Original) (HIMIK blend)",
+"bpm": 115,
+"key": "F#m",
+"camelot": "11A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "MATRANG X Dan Tanev, Miguel",
+"title": "Медуза (HIMIK blend)",
+"bpm": 120,
+"key": "Dm",
+"camelot": "7A",
+"genre": "AFRO",
+"block": "other"
+},
+{
+"artist": "Yanix X J Balvin, Willy William",
+"title": "Party (HIMIK blend)",
+"bpm": 114,
+"key": "9A",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "50 CENT X Элджей, Feduk (110-115 BPM+Original)",
+"title": "Розовое вино (HIMIK blend)",
+"bpm": 110,
+"key": "3A",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "T-fest X Ahadadream",
+"title": "Ни вчера ни завтра (HIMIK blend)",
+"bpm": 70,
+"key": "Am",
+"camelot": "8A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "ЛСП X YGG",
+"title": "Baby (HIMIK blend)",
+"bpm": 140,
+"key": "Fm",
+"camelot": "4A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Entype X Club Angel",
+"title": "Не нужна (HIMIK blend)",
+"bpm": 135,
+"key": "Gm",
+"camelot": "6A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "50 CENT X Элджей, Feduk",
+"title": "Розовое вино (HIMIK blend)",
+"bpm": 110,
+"key": "2A",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Bushido Zho X S.AY, Qarti",
+"title": "SOS (HIMIK blend)",
+"bpm": 145,
+"key": "4A",
+"camelot": "4A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Mona",
+"title": "Попрошу Тебя (DJ Smell Extended Remix)",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Artik & Asti",
+"title": "Модный Поп (Index-1 Remix Extended)",
+"bpm": 124,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Бьянка x Slim, Corto",
+"title": "Музыка (Pitchugin Mashup)",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Винтаж",
+"title": "Знак Водолея (Eddie G & Starkov Extended Remix)",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Filatov, Karas",
+"title": "Иногда (Pitchugin Edit)",
+"bpm": 126,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Zivert",
+"title": "Гудбай (Corto x Slim Remix Extended)",
+"bpm": 124,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Анна Немченко",
+"title": "Танцпол Везде (Alexx Slam & KIRILLSLEM Remix)",
+"bpm": 127,
+"key": "Em",
+"camelot": "9A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Люся Чеботина",
+"title": "ПО БАРАБАНУ (Silver Ace Remix)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Gorilla Zippo",
+"title": "Танцую До Утра (Red Line & M1CH3L P Remix)",
+"bpm": 126,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Лёша Свик, Niletto, Mary Gu x Alexx Slam",
+"title": "Аритмия (Pitchugin Mashup)",
+"bpm": 126,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Казаки Делают Хиты x Eugene Star",
+"title": "Облака (Makhno Blend)",
+"bpm": 122,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Гости Из Будущего x Wolfgang Gartner, Corto, Slim",
+"title": "Беги От Меня (Pitchugin Mashup)",
+"bpm": 126,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Ваня Дмитриенко",
+"title": "Шёлк (Ruslan Mishin & Andy Shik Remix)",
+"bpm": 126,
+"key": "Em",
+"camelot": "9A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Артём Качер, Ани Лорак",
+"title": "Вулканы (Andy Shik & Ruslan Mishin Remix)",
+"bpm": 126,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "МОТ",
+"title": "Одинок.Net (Andy Shik & Ruslan Mishin Remix)",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "DjShark",
+"title": "Останусь (Red Line & M1CH3L P Remix)",
+"bpm": 124,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Банд’Эрос",
+"title": "Про Красивую Жизнь (Ramirez & Pavlov Extended Remix)",
+"bpm": 126,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Rasa ,Dashi ,Иксы",
+"title": "Ты Меня Забудь (Slim & Silver Ace Remix)",
+"bpm": 126,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Моя Мишель x Smash",
+"title": "Волна В Сердце (Pitchugin Mashup)",
+"bpm": 126,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Jakone, Kiliana, Reflex",
+"title": "Потому Что Не Было Тебя (Alexx Slam Remix)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "ANNA ASTI",
+"title": "Царица (Kolya Funk Blend)",
+"bpm": 125,
+"key": "4A",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Bearwolf",
+"title": "Один в поле воин (Ramirez x Arefiev Remix)",
+"bpm": 126,
+"key": "9A",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Клава Кока",
+"title": "Покинула чат (Muzvizor intro)",
+"bpm": 72,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Минаева",
+"title": "Шоколадка (Tony Shell remix)",
+"bpm": 119,
+"key": "9A",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "БандЭрос",
+"title": "Адьос (Silver Ace Remix)",
+"bpm": 124,
+"key": "6A",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Iowa",
+"title": "Улыбайся (Neiji intro)",
+"bpm": 130,
+"key": "9A",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Люся Чеботина",
+"title": "Солнце Монако (Muzvizor intro)",
+"bpm": 135,
+"key": "F#m",
+"camelot": "11A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "DJ ILYA LAVROV blend",
+"title": "Мокрые Кроссы",
+"bpm": 128,
+"key": "10A",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Татьяна Куртукова",
+"title": "Матушка (Two A Remix)",
+"bpm": 124,
+"key": "7A",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Тима Белорусских",
+"title": "Незабудка (Intro Edit)",
+"bpm": 144,
+"key": "5A",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "MACAN, A.V.G",
+"title": "Привыкаю (Index-1 Remix)",
+"bpm": 128,
+"key": "6A",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Дима Билан, Мари Краймбрери",
+"title": "It's My Life (Index-1 Remix)",
+"bpm": 123,
+"key": "10A",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Serebro",
+"title": "Мама Люба (Sasha First & Daniel Dee Remix)",
+"bpm": 124,
+"key": "3A",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "uniqe, nkeeei, ARTEM SHILOVETS, Wipo",
+"title": "Гламур (RAKURS Remix)",
+"bpm": 126,
+"key": "1A",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Краски",
+"title": "Оранжевое Солнце (Muzvizor Intro)",
+"bpm": 71,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "BLIZKEY",
+"title": "Горы (DJ SAM & RUBTSOV Remix)",
+"bpm": 127,
+"key": "1A",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Bearwolf",
+"title": "Godzilla (SAM & RUBTSOV Remix)",
+"bpm": 126,
+"key": "9A",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Клава Кока & Niletto",
+"title": "Краш (Muzvizor intro)",
+"bpm": 150,
+"key": "12A",
+"camelot": "12A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Jakone",
+"title": "Але Але (Index-1 Remix)",
+"bpm": 124,
+"key": "6A",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Betsy, Мария Янковская",
+"title": "Сигма Бой (Extended edit)",
+"bpm": 125,
+"key": "11A",
+"camelot": "11A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Niletto",
+"title": "Любимка (Muzvizor intro)",
+"bpm": 130,
+"key": "6A",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Jakone, Kiliana",
+"title": "Асфальт (Andy Shik & Centriado Remix)",
+"bpm": 125,
+"key": "7A",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Юрий Шатунов",
+"title": "Седая ночь (Muzvizor intro)",
+"bpm": 129,
+"key": "9A",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "NILETTO",
+"title": "Счастливым (Andy Shik Remix)",
+"bpm": 124,
+"key": "8A",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Jazzdauren",
+"title": "Дарите женщинам цветы (Index-1 Remix)",
+"bpm": 123,
+"key": "8A",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Макс Корж",
+"title": "Жить в кайф (Denis Repin intro)",
+"bpm": 127,
+"key": "Am",
+"camelot": "8A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Иванушки international",
+"title": "Тополиный пух (DJ Graff ext mix)",
+"bpm": 72,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "RASA",
+"title": "Пчеловод",
+"bpm": 128,
+"key": "1A",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Ирина Кайратовна x SELL OUT MC & TORIE",
+"title": "Айдахар (A.Belov MashUp)",
+"bpm": 126,
+"key": "4A",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Люся Чеботина",
+"title": "За бывшего (Andy Shik & Alex-One Remix)",
+"bpm": 128,
+"key": "2A",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Бьянка, ТРАВМА, RVMZES, DVRKLXGHT",
+"title": "Наступит ночь (Corto x Slim Remix)",
+"bpm": 126,
+"key": "10A",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Турбомода",
+"title": "Каникулы (Muzvizor Intro) (Short)",
+"bpm": 139,
+"key": "5A",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape",
+"title": "Turbo (Majestic) (Index-1 Remix)",
+"bpm": 128,
+"key": "9A",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Джиган feat. Artik & Asti & Niletto",
+"title": "Худи (DJ Brooklyn Edit)",
+"bpm": 126,
+"key": "4A",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Burito",
+"title": "По волнам (Muzvizor Intro)",
+"bpm": 105,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Betsy, Мария Янковская, DJ Kuba, Neitan, EMDI",
+"title": "Sigma Boy (Festus Blend)",
+"bpm": 125,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Tech, Bass",
+"block": "tech"
+},
+{
+"artist": "ЕГОР КРИД x Eurythmics",
+"title": "Самая самая (Ricky Stark Funky Blend)",
+"bpm": 126,
+"key": "5A",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "The Weeknd x Serebro",
+"title": "Отпусти Меня (Armando Blend)",
+"bpm": 126,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Nyusha",
+"title": "Цунами",
+"bpm": 120,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "SQWOZ BAB, O-SHUN",
+"title": "TOKYO (Festus Mash Up)",
+"bpm": 128,
+"key": "Em",
+"camelot": "9A",
+"genre": "Tech, Bass",
+"block": "tech"
+},
+{
+"artist": "Stromae x LegacyOfficial, Curlyheads",
+"title": "Alors of Dance (H4RDY Blend)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "Morgenshtern",
+"title": "Yung hefner (Andy Air 'Maxim' troll transition 2)",
+"bpm": 107,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Quest_Pistols",
+"title": "Непохожие",
+"bpm": 122,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Ваня Дмитриенко",
+"title": "Шёлк (Muzvizor Intro)",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ANNA ASTI",
+"title": "Плачу на техно (Muzvizor Intro)",
+"bpm": 128,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape, Aarne x Bonka & Kaitlyn",
+"title": "SuperSonic (GYPSY edit)",
+"bpm": 127,
+"key": "Fm",
+"camelot": "4A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Валерия, Kesha",
+"title": "Часики TiK ToK (kanash mashup, Ksenon Blend)",
+"bpm": 120,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "SEREBRO",
+"title": "Мало тебя (Nei Blend)",
+"bpm": 130,
+"key": "8A",
+"camelot": "8A",
+"genre": "UK, 2 Step\nUK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "uniqe, nkeeei, ARTEM SHILOVETS",
+"title": "ГОЛАЯ (Muzvizor Intro)",
+"bpm": 127,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "XOLIDAYBOY x Block & Crown x Nirvana",
+"title": "Пожары (Evgeny Spirit & Usmanov Blend)",
+"bpm": 126,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Пошлая Молли",
+"title": "Нон Стоп",
+"bpm": 130,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "БАНД'ЭРОС",
+"title": "Коламбия Пикчерз не представляет",
+"bpm": 88,
+"key": "C#m",
+"camelot": "12A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Macan",
+"title": "Asphalt 8 (Triseven extended mix)",
+"bpm": 123,
+"key": "10A",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "MONA",
+"title": "Попрошу тебя (Muzvizor Intro)",
+"bpm": 113,
+"key": "G#m",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Quest Pistols Show ft. MONATIK",
+"title": "Мокрая (Slim X Corto Vip Remix Extended)",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "Fisher",
+"title": "Losing It (Sportmode Rmx)",
+"bpm": 140,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Dubstep",
+"block": "dubstep"
+},
+{
+"artist": "Винтаж x Avicii",
+"title": "Ева (Nemnogo Jirniy, Ricky Stark Re-Blend)",
+"bpm": 126,
+"key": "E",
+"camelot": "12B",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Илюша",
+"title": "Домик в майнкрафте",
+"bpm": 115,
+"key": "Am",
+"camelot": "8A",
+"genre": "Other",
+"block": "other"
+},
+{
+"artist": "",
+"title": "Nirvana x Rivera - Smells Like Teen Spirit (NITREX Tech Edit) (promodj.com)",
+"bpm": 126,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Remix",
+"block": "other"
+},
+{
+"artist": "Instasamka, Лолита",
+"title": "На титанике (Muzvizor intro)",
+"bpm": 105,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Нюша",
+"title": "Выше (HIMIK Intro-Outro)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Дима Билан",
+"title": "Номер Один (Nei 'DJ JA' Blend)",
+"bpm": 115,
+"key": "3A",
+"camelot": "3A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Шура",
+"title": "Ты не верь слезам (Ricky Stark Intro)",
+"bpm": 120,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Татьяна Буланова x ÖWNBOSS",
+"title": "Мой ненаглядный (Ricky Stark Blend)",
+"bpm": 125,
+"key": "Am",
+"camelot": "8A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "J Balvin & Skrillex",
+"title": "In Da Getto (Andrew Lux Remix)",
+"bpm": 128,
+"key": "G#m",
+"camelot": "1A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "Skrillex ft. Sirah",
+"title": "Bangarang (Alboa Edit)",
+"bpm": 128,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Вера Брежнева",
+"title": "Любовь спасёт мир (Muzvizor Intro)",
+"bpm": 123,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Барбарики",
+"title": "С днем рождения",
+"bpm": 140,
+"key": "Dm",
+"camelot": "7A",
+"genre": "pop",
+"block": "sing"
+},
+{
+"artist": "DJ SMASH X Fred again.., The Blessed Madonna",
+"title": "Moscow Never Sleeps Marea (Eidly Extended Mashup)",
+"bpm": 123,
+"key": "Ab",
+"camelot": "4B",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "5sta Family, Eva Miller",
+"title": "Зачем (Ricky Stark Intro)",
+"bpm": 101,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Дора x Lady Gaga",
+"title": "Дорадура (Teenspirit Mashup)",
+"bpm": 122,
+"key": "E",
+"camelot": "12B",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "SQWOZ BAB",
+"title": "ROMANTIC (Muzvizor Intro)",
+"bpm": 120,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "L'One x Babysitters",
+"title": "Все танцуют локтями (Ricky Stark Blend)",
+"bpm": 128,
+"key": "Fm",
+"camelot": "4A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "Burito",
+"title": "Мама (Sasha Dith Moombahton Remix)",
+"bpm": 105,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Moombahton",
+"block": "other"
+},
+{
+"artist": "Iowa, Tones and I",
+"title": "Dance маршрутка (Denis Repin edit)",
+"bpm": 98,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT x Банд'Эрос",
+"title": "Casino (Armando Blend)",
+"bpm": 88,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "PHARAOH",
+"title": "Black Siemens (Nei Blend)",
+"bpm": 130,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Uma2rman, Минаева",
+"title": "Я так ждала тебя, Вова (Muzvizor Intro)",
+"bpm": 120,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Quest Pistols Show feat. Open Kids",
+"title": "Круче всех",
+"bpm": 126,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape",
+"title": "Chuchuka (Ruslan Kam Blend)",
+"bpm": 127,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Bass",
+"block": "other"
+},
+{
+"artist": "Oliver Heldens & Shaun Frank ft Delaney Jane",
+"title": "Shades Of Grey (Cesar Castilla Bootleg) (Clean Extended)",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "ТРАВМА",
+"title": "Закричу на весь мир (Muzvizor Intro)",
+"bpm": 75,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "LMFAO X Odd Mob",
+"title": "Sexy And I Know It (Andrew Jester Blend)",
+"bpm": 132,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "Банд’Эрос",
+"title": "Манхэттен (HIMIK Intro-Outro)",
+"bpm": 75,
+"key": "F#m",
+"camelot": "11A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Иван Дорн",
+"title": "Стыцамен (Muzvizor intro)",
+"bpm": 115,
+"key": "C#m",
+"camelot": "12A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Макс Корж x Nirvana, Kealen",
+"title": "Малый Повзрослел (Pitchugin Mashup)",
+"bpm": 126,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "J.Balvin, Skrillex X Элджей",
+"title": "Suzuki + original (HIMIK blend)",
+"bpm": 125,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Монеточка",
+"title": "Каждый раз (Muzvizor intro)",
+"bpm": 113,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Dom Dolla",
+"title": "San Frandisco",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "",
+"block": "sing"
+},
+{
+"artist": "Винтаж",
+"title": "Ясный мой свет (Muzvizor Intro)",
+"bpm": 132,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Gorilla Zippo x Afrojack",
+"title": "Танцую до утра (Ricky Stark Blend)",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Винтаж",
+"title": "Роман (Nei Blend)",
+"bpm": 120,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Ваня Дмитриенко, Аня Пересильд",
+"title": "Силуэт (SLIM, CORTO remix extended)",
+"bpm": 125,
+"key": "Em",
+"camelot": "9A",
+"genre": "Club",
+"block": "sing"
+},
+{
+"artist": "Saluki, Voskresenskii",
+"title": "Покажи как ты танцуешь (TARRGA Blend)",
+"bpm": 140,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Uk, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Flo Rida vs. Бумбокс",
+"title": "Вахтёрам (Pauk mashup) (Muzvizor intro)",
+"bpm": 104,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Krapiva Jazz",
+"title": "Тепло сохрани",
+"bpm": 106,
+"key": "Em",
+"camelot": "9A",
+"genre": "Other",
+"block": "other"
+},
+{
+"artist": "Валерий Меладзе",
+"title": "Небеса (Ricky Stark Short)",
+"bpm": 130,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "SEREBRO",
+"title": "Перепутала (Index-1 Remix Extended)",
+"bpm": 125,
+"key": "Am",
+"camelot": "8A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "PSY",
+"title": "Gangnam Style",
+"bpm": 132,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Morgenshtern x Traumatize",
+"title": "MERIN (DJ Nei Blend)",
+"bpm": 88,
+"key": "9A",
+"camelot": "9A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "",
+"title": "Jay Robinson, Scrufizzer - Prt (Extended Mix) (hitmos.fm)",
+"bpm": 128,
+"key": "Am",
+"camelot": "8A",
+"genre": "Garage",
+"block": "ukg"
+},
+{
+"artist": "LMFAO, Lauren Bennett & GoonRock",
+"title": "Party Rock Anthem (Bauti Flip)",
+"bpm": 138,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Uk, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "ICEGERGERT, Zivert",
+"title": "БАНК (Denis Repin intro)",
+"bpm": 100,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Блестящие и Arash x Hugel",
+"title": "Восточные сказки (Rude Boy Mash up)",
+"bpm": 122,
+"key": "Em",
+"camelot": "9A",
+"genre": "AFRO",
+"block": "other"
+},
+{
+"artist": "Полина Гагарина",
+"title": "Драмы больше нет (DJ Play intro)",
+"bpm": 126,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Ёлка X Dimitri Vegas x Vin Diesel x Zion",
+"title": "Прованс (Eidly Blend)",
+"bpm": 126,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "t.A.T.u.",
+"title": "Нас не догонят (Corto x Slim Remix) Intro",
+"bpm": 126,
+"key": "C#m",
+"camelot": "12A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "MORGENSHTERN x SKRILLEX",
+"title": "РАТАТА ТАТА (Ricky Stark Transition 124-138 Edit)",
+"bpm": 138,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Ёлка",
+"title": "На большом воздушном шаре",
+"bpm": 132,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Элджей",
+"title": "Бошки дымятся (Prime ''Whistle'' Blend)",
+"bpm": 104,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "BLIZKEY x Joel Corry, Stromae",
+"title": "Горы (Ricky Stark Blend)",
+"bpm": 124,
+"key": "G#m",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "BRANYA, MACAN",
+"title": "Пополам (Ruslan Kam Blend)",
+"bpm": 127,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Indie Dance",
+"block": "sing"
+},
+{
+"artist": "Пошлая Молли",
+"title": "Контракт (Marshall Intro)",
+"bpm": 110,
+"key": "F",
+"camelot": "7B",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Натали",
+"title": "О, Боже, какой мужчина",
+"bpm": 122,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "NYUSHA",
+"title": "Выбирать чудо (Bykov Short)",
+"bpm": 103,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Skrillex & Damian _Jr. Gong_ Marley",
+"title": "Make It Bun Dem (Juntaro Remix)",
+"bpm": 130,
+"key": "F#m",
+"camelot": "11A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "Нюша",
+"title": "Выбирать чудо (Index-1 Remix)",
+"bpm": 115,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "Элджей, FEDUK x Calvin Harris",
+"title": "Розовое Вино (Ricky Stark Blend)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "Леонид Агутин",
+"title": "Остров (Yuri Rider Latino Edit)",
+"bpm": 125,
+"key": "F#m",
+"camelot": "11A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Григорий Лепс",
+"title": "Самый лучший день (Muzvizor Intro)",
+"bpm": 85,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "MBAND",
+"title": "Она вернётся (HIMIK Intro-Outro)",
+"bpm": 90,
+"key": "G#m",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "1O4",
+"title": "Куртка (Saint Bam, Evergreen Remix) I svezhatinka",
+"bpm": 75,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Other",
+"block": "other"
+},
+{
+"artist": "",
+"title": "glazz_-_KAK_TAM_S_DENGAMI_(mp3.mn)",
+"bpm": 128,
+"key": "Fm",
+"camelot": "4A",
+"genre": "DUBSTEP",
+"block": "dubstep"
+},
+{
+"artist": "Skrillex, Fred Again.., Flowdan",
+"title": "Rumble (Gusto Palace Bootleg)",
+"bpm": 128,
+"key": "Am",
+"camelot": "8A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Imagine Dragons",
+"title": "Believer (Muzvizor intro)",
+"bpm": 93,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Daddy Yankee",
+"title": "Gasolina (OnlyTunes Edit)",
+"bpm": 125,
+"key": "4A",
+"camelot": "4A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Serebro",
+"title": "Мама Люба (Alexx Slam VIP Remix)",
+"bpm": 130,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "Ёлка x Me & My Thoothbrush",
+"title": "Грею счастье (YASHA! 'Disco' Blend)",
+"bpm": 120,
+"key": "Dm",
+"camelot": "7A",
+"genre": "DISCO, FUNK",
+"block": "sing"
+},
+{
+"artist": "Travis Scott",
+"title": "Goosebumps (Gorillat X Fraxure Remix) Final",
+"bpm": 142,
+"key": "Em",
+"camelot": "9A",
+"genre": "Dubstep",
+"block": "dubstep"
+},
+{
+"artist": "Моя Мишель",
+"title": "Зима в сердце (GAMBELLA Remix)",
+"bpm": 128,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ЛСП, Feduk, Егор Крид x Eminem",
+"title": "Холостяк (Armando Blend)",
+"bpm": 112,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Скриптонит x Beltran x Breaking Beattz",
+"title": "Бар (GYPSY edit)",
+"bpm": 129,
+"key": "Bm",
+"camelot": "10A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "5sta Family",
+"title": "Вместе мы (Muzvizor intro)",
+"bpm": 100,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Нюша x Eddie G & Malyx",
+"title": "Цунами (Hardovich Blend)",
+"bpm": 126,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "JILLZAY ft. Magg '98 Cheenah Benz Скриптонит 104 Truwer Kolyaolya",
+"title": "Бар 2 Лесбухи (Sulim x DJ Chicago Remix)",
+"bpm": 125,
+"key": "Dm",
+"camelot": "7A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "Винтаж",
+"title": "Знак Водолея (Index-1 remix extended)",
+"bpm": 125,
+"key": "Am",
+"camelot": "8A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Fraxy",
+"title": "Mr. Saxobeat (Fraxy 2025 Remix) (Muzvizor Intro)",
+"bpm": 140,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Dubstep",
+"block": "dubstep"
+},
+{
+"artist": "Звонкий",
+"title": "Голоса (Ricky Stark Blend)",
+"bpm": 100,
+"key": "Am",
+"camelot": "8A",
+"genre": "DISCO, FUNK",
+"block": "sing"
+},
+{
+"artist": "Полина Гагарина",
+"title": "Спектакль окончен (Alexx Slam VIP Extended Remix)",
+"bpm": 128,
+"key": "Em",
+"camelot": "9A",
+"genre": "CLUB",
+"block": "sing"
+},
+{
+"artist": "",
+"title": "Velvet Music - Megamix 20 (hitmos.fm)",
+"bpm": 125,
+"key": "Em",
+"camelot": "9A",
+"genre": "",
+"block": "sing"
+},
+{
+"artist": "Валерий Меладзе",
+"title": "Салют, Вера! (SLIM X CORTO Remix Extended)",
+"bpm": 128,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT, SKY RAE",
+"title": "Наследство (Muzvizor Intro)",
+"bpm": 84,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Skrillex feat. Sirah",
+"title": "Kyoto (Spin Off Reboot)",
+"bpm": 136,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Gorillaz x Aazar & Bellecour",
+"title": "Feel Good Inc (H4RDY Blend)",
+"bpm": 130,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "Savage",
+"title": "Only You",
+"bpm": 108,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Bad boys blue",
+"title": "Youre A Woman",
+"bpm": 118,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Женя Белоусов",
+"title": "Девочка Моя Синеглазая",
+"bpm": 119,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ice MC",
+"title": "Think About The Way",
+"bpm": 133,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Блестящие",
+"title": "А я всё летала",
+"bpm": 120,
+"key": "E",
+"camelot": "12B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Status Quo",
+"title": "In The Army Now",
+"bpm": 105,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Dr. Alban",
+"title": "Its My Life",
+"bpm": 129,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Женя Белоусов",
+"title": "Девчонка - Девчоночка",
+"bpm": 114,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "La Bouche",
+"title": "Be my lover",
+"bpm": 135,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Рома Жуков",
+"title": "Млечный путь",
+"bpm": 123,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "ДДТ",
+"title": "Что такое осень",
+"bpm": 94,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Heath Hunter",
+"title": "Revolution In Paradise",
+"bpm": 110,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Blue System",
+"title": "My Bed Is Too Big",
+"bpm": 113,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Земфира",
+"title": "Ариведерчи",
+"bpm": 70,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Руки Вверх!",
+"title": "18 мне уже",
+"bpm": 70,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Король и Шут",
+"title": "Прыгну со скалы",
+"bpm": 76,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Алена Апина",
+"title": "Ксюша",
+"bpm": 122,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Кай Метов",
+"title": "Position Number 2",
+"bpm": 124,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "2 Brothers On The 4th Floor",
+"title": "Living in Cyberspace",
+"bpm": 138,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Рома Жуков",
+"title": "Девчонки, мои девчонки",
+"bpm": 136,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Radiorama",
+"title": "Yeti",
+"bpm": 105,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Сплин",
+"title": "Моё сердце",
+"bpm": 131,
+"key": "D",
+"camelot": "10B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Мираж",
+"title": "Я не хочу",
+"bpm": 124,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Квартал",
+"title": "Парамарибо",
+"bpm": 131,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Nautilus Pompilius",
+"title": "Дыхание",
+"bpm": 108,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ветлицкая Наталья",
+"title": "Плейбой",
+"bpm": 105,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Земфира",
+"title": "Ромашки",
+"bpm": 72,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "ЧайФ",
+"title": "Никто не услышит (Ой-йо)",
+"bpm": 89,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Secret Service",
+"title": "Flash In The Night",
+"bpm": 126,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "No Mercy",
+"title": "Please Don't Go",
+"bpm": 125,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Кипелов",
+"title": "Я свободен",
+"bpm": 72,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Юрий Лоза",
+"title": "Плот",
+"bpm": 90,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Отпетые мошенники",
+"title": "Люби меня, люби",
+"bpm": 97,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "La Bouche",
+"title": "S.O.S.",
+"bpm": 133,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ласковый Бык",
+"title": "Пацаны",
+"bpm": 89,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Алиса",
+"title": "Трасса Е-95",
+"bpm": 118,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "O-Zone",
+"title": "Dragostea Din Tei",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Edward Maya",
+"title": "Stereo Love",
+"bpm": 127,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Земляне",
+"title": "Трава у дома",
+"bpm": 127,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Сплин",
+"title": "Выхода нет",
+"bpm": 85,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ирина Аллегрова",
+"title": "Фотография",
+"bpm": 117,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Alain Roudier, Франц Шуберт",
+"title": "Klavierstücke D. 946 No. 2 in E-Flat Major",
+"bpm": 123,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Mr. President",
+"title": "Coco Jambo",
+"bpm": 100,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "На-На",
+"title": "Фаина",
+"bpm": 111,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Kylie Minogue",
+"title": "Can't Get You Out of My Head",
+"bpm": 126,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Наталья Гулькина",
+"title": "Это Китай",
+"bpm": 127,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Kaoma",
+"title": "Lambada",
+"bpm": 119,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Safri Duo",
+"title": "Played-A-Live (The Bongo Song)",
+"bpm": 138,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Silent Circle",
+"title": "Touch in the Night",
+"bpm": 123,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Валерия",
+"title": "Самолёт",
+"bpm": 112,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Sabrina",
+"title": "Boys",
+"bpm": 120,
+"key": "Ab",
+"camelot": "4B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ветлицкая Наталья",
+"title": "Посмотри В Глаза",
+"bpm": 108,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Desireless",
+"title": "Voyage, voyage",
+"bpm": 124,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ласковый май",
+"title": "Белые розы",
+"bpm": 118,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Шура",
+"title": "Отшумели летние дожди",
+"bpm": 101,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Culture Beat",
+"title": "Crying In The Rain",
+"bpm": 70,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Боярский Михаил",
+"title": "Зеленоглазое такси",
+"bpm": 104,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Мурат Насыров",
+"title": "Мальчик хочет в Тамбов",
+"bpm": 98,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "5sta family",
+"title": "Я буду",
+"bpm": 90,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Lighthouse Family",
+"title": "Run",
+"bpm": 77,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Opus",
+"title": "Life if life",
+"bpm": 94,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Jessica Jay",
+"title": "Casablanca",
+"bpm": 95,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Мумий Тролль",
+"title": "Утекай",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Joy",
+"title": "Touch by nouch",
+"bpm": 120,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "ЧайФ",
+"title": "Аргентина-Ямайка - 5:0",
+"bpm": 85,
+"key": "E",
+"camelot": "12B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Новые Самоцветы",
+"title": "Всё, что в жизни есть у меня",
+"bpm": 103,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Игорь Николаев",
+"title": "Выпьем за любовь",
+"bpm": 130,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ice MC",
+"title": "Its A Rainy Day",
+"bpm": 135,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ника",
+"title": "Карие глаза",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Алсу",
+"title": "Зимний сон",
+"bpm": 112,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "ВИА Гра",
+"title": "Я не вернусь",
+"bpm": 123,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "David Usher",
+"title": "Black Black Heart",
+"bpm": 84,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Scotch",
+"title": "Disco band",
+"bpm": 113,
+"key": "Eb",
+"camelot": "5B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Наталья Гулькина",
+"title": "Айвенго",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Celine Dion",
+"title": "A New Day Has Come",
+"bpm": 120,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "София Ротару",
+"title": "Лаванда",
+"bpm": 138,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "MIKE MAREEN",
+"title": "Agent Of Liberty",
+"bpm": 138,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Crazy Frog",
+"title": "Axel f",
+"bpm": 138,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "E-rotic",
+"title": "Dr. Love",
+"bpm": 115,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Анжелика Варум",
+"title": "Ля-ля-фа",
+"bpm": 79,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Vivienne",
+"title": "Mambo Italiano",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Sandra",
+"title": "In the Heat of the Night",
+"bpm": 123,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "C.C. Catch",
+"title": "Strangers By Night",
+"bpm": 116,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Леонид Агутин",
+"title": "Хоп Хэй Лала Лэй",
+"bpm": 120,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ласковый май",
+"title": "Вечер холодной зимы",
+"bpm": 120,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Maxx",
+"title": "No More ( I Can't Stand It)",
+"bpm": 138,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ace Of Base",
+"title": "All That She Wants",
+"bpm": 94,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Король и Шут",
+"title": "Лесник",
+"bpm": 87,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Божья Коровка",
+"title": "Гранитный камушек в груди",
+"bpm": 137,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Chris Norman",
+"title": "Hunters Of The Night",
+"bpm": 117,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "С. Разина",
+"title": "Бабочка-ночь",
+"bpm": 75,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Технология",
+"title": "Странные Танцы",
+"bpm": 135,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Kate Ryan",
+"title": "Désenchantée",
+"bpm": 70,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Найк Борзов",
+"title": "Верхом на звезде",
+"bpm": 128,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Алиса",
+"title": "Веретено",
+"bpm": 112,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Натали",
+"title": "Считалочка",
+"bpm": 132,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Loose Shus",
+"title": "Threesome",
+"bpm": 125,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Secret Service",
+"title": "Ten oclock postman",
+"bpm": 133,
+"key": "F",
+"camelot": "7B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Toto Cutugno",
+"title": "LItaliano",
+"bpm": 121,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Жасмин",
+"title": "Перепишу любовь",
+"bpm": 132,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "MoDo",
+"title": "1,2,polizei",
+"bpm": 70,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Каролина",
+"title": "Звездный вечер",
+"bpm": 129,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Sunfly Karaoke",
+"title": "Sha La La La La in the Style of Vengaboys",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "2 Unlimited",
+"title": "No limit",
+"bpm": 71,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "DJ Masters United",
+"title": "U Cant Touch This (as made famous by MC Hammer)",
+"bpm": 133,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Ляпис Трубецкой",
+"title": "Ты кинула",
+"bpm": 133,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Boytronic",
+"title": "I Will Survive",
+"bpm": 123,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Николай Носков",
+"title": "Это здорово",
+"bpm": 91,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Modern Talking",
+"title": "Brother Louie",
+"bpm": 118,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Алена Апина",
+"title": "Леха",
+"bpm": 71,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Роман Рябцев",
+"title": "Нажми на кнопку",
+"bpm": 123,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "С. Владимирская",
+"title": "Мальчик мой",
+"bpm": 81,
+"key": "B",
+"camelot": "1B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "",
+"title": "Зимний сад",
+"bpm": 134,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Леприконсы",
+"title": "Хали-гали, паратрупер",
+"bpm": 72,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Форум",
+"title": "Белая ночь",
+"bpm": 136,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Captain Jack",
+"title": "Dream A Dream",
+"bpm": 71,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Paradiso",
+"title": "Bailando",
+"bpm": 133,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Журавлёва Марина",
+"title": "Белая черемуха",
+"bpm": 129,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Никита",
+"title": "Улетели навсегда",
+"bpm": 130,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Каролина",
+"title": "Дискобар",
+"bpm": 71,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Гости из будущего",
+"title": "Беги от меня",
+"bpm": 125,
+"key": "E",
+"camelot": "12B",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "С. Васюта и гр. Сладкий сон",
+"title": "На белом покрывале января",
+"bpm": 135,
+"key": "Em",
+"camelot": "9A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Bosson",
+"title": "One In A Million",
+"bpm": 100,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Игорь Николаев",
+"title": "Мельница",
+"bpm": 119,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Владимир Маркин",
+"title": "Колокола",
+"bpm": 120,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Светлана Разина",
+"title": "Ты будешь плакать",
+"bpm": 71,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "[muzmo.ru] Сплин",
+"title": "Орбит без сахара [muzmo.ru]",
+"bpm": 137,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Михей и Джуманджи",
+"title": "Туда",
+"bpm": 90,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Олег Газманов",
+"title": "Мои ясные дни",
+"bpm": 85,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Игорь Скляр",
+"title": "Комарово",
+"bpm": 108,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "E-Type",
+"title": "Set The World On Fire",
+"bpm": 136,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Мираж",
+"title": "Звезды нас ждут",
+"bpm": 119,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Рома Жуков",
+"title": "Я Люблю Вас",
+"bpm": 131,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Веселые Ребята",
+"title": "Не Волнуйся, Тетя",
+"bpm": 108,
+"key": "Am",
+"camelot": "8A",
+"genre": "Disco",
+"block": "sing"
+},
+{
+"artist": "Pharaoh, Boulevard depo",
+"title": "5 минут назад (Muzvizor clean intro)",
+"bpm": 76,
+"key": "Am",
+"camelot": "8A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Ленинград",
+"title": "Экспонат (Muzvizor clean intro)",
+"bpm": 122,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Morgenshtern",
+"title": "Последняя любовь (Denis Repin censored intro)",
+"bpm": 120,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Morgenshtern",
+"title": "Чёрный русский (Muzvizor clean intro)",
+"bpm": 116,
+"key": "Em",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "MORGENSHTERN",
+"title": "Yung Hefner (Muzvizor Intro) (Clean)",
+"bpm": 107,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Sqwoz bab & The First station",
+"title": "АУФ (Oleji censored intro)",
+"bpm": 70,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "ЛСП, Feduk, Егор Крид",
+"title": "Холостяк",
+"bpm": 98,
+"key": "Gm",
+"camelot": "6A",
+"genre": "",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape, Kizaru",
+"title": "Million (Muzvizor clean)",
+"bpm": 83,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Pepel nahudi",
+"title": "Заново завоевать (Muzvizor clean intro)",
+"bpm": 130,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Акулич, Молодой Платон",
+"title": "Подарок (Muzvizor clean intro)",
+"bpm": 131,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Руки Вверх",
+"title": "Ай-яй девчёнка",
+"bpm": 70,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ANNA ASTI x Oomloud",
+"title": "Царица (AKSEL Edit)",
+"bpm": 126,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Tech, Bass",
+"block": "tech"
+},
+{
+"artist": "Alblak 52",
+"title": "+7(952)812 (Muzvizor clean intro)",
+"bpm": 76,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Король и Шут",
+"title": "Танец злобного гения",
+"bpm": 134,
+"key": "Em",
+"camelot": "9A",
+"genre": "Other",
+"block": "other"
+},
+{
+"artist": "Aarne, Bushido Zho",
+"title": "Вместе (Muzvizor clean intro)",
+"bpm": 72,
+"key": "Em",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape, Aarne",
+"title": "Hoodak (Muzvizor clean intro)",
+"bpm": 72,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "T-Fest, Скриптонит, Millbrook",
+"title": "Ламбада (Marc Newy blend)",
+"bpm": 87,
+"key": "Dm",
+"camelot": "7A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "Тима Белорусских",
+"title": "Мокрые кроссы",
+"bpm": 72,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Элджей",
+"title": "Hey, Guys (intro edit) (Muzvizor clean)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "GAYAZOV$ BROTHER$",
+"title": "МАЛИНОВАЯ ЛАДА (Muzvizor New Year Intro)",
+"bpm": 117,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Григорий Лепс, Стас Пьеха",
+"title": "Она не твоя",
+"bpm": 125,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Guf, Baller, V s X V Prince",
+"title": "Шараут (Muzvizor clean intro)",
+"bpm": 88,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Стас Пьеха и Григорий Лепс vs QT-HIGH",
+"title": "Она не твоя (Ricky Stark AfroHouse Blend)",
+"bpm": 122,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Afro",
+"block": "other"
+},
+{
+"artist": "Ицык Цыпер, Игорь Цыба",
+"title": "Нефертити (Muzvizor clean intro)",
+"bpm": 120,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Мумий тролль",
+"title": "Медведица (Muzvizor intro)",
+"bpm": 130,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "CMH & Рома Жёлудь",
+"title": "Люби меня (Muzvizor clean intro)",
+"bpm": 132,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "MORGENSHTERN",
+"title": "Cristal & МОЁТ (Short Edit) (Censored)",
+"bpm": 105,
+"key": "5A",
+"camelot": "5A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Heronwater, Bushido Zho",
+"title": "Дай мне посмотреть (Muzvizor clean intro)",
+"bpm": 81,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Big baby tape",
+"title": "Like a g6 (Muzvizor clean intro)",
+"bpm": 123,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Филипп Киркоров",
+"title": "Цвет настроения синий (Muzvizor new year intro)",
+"bpm": 128,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Bushido Zho",
+"title": "Далеко (Muzvizor clean intro)",
+"bpm": 130,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Тима Белорусских",
+"title": "МОКРЫЕ КРОССЫ (Nei 'Bushbaby' Blend)",
+"bpm": 138,
+"key": "Bm",
+"camelot": "10A",
+"genre": "UK, 2 STEP",
+"block": "ukg"
+},
+{
+"artist": "Скриптонит, Райда",
+"title": "Baby mama (Muzvizor Intro) (Clean)",
+"bpm": 104,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Баста",
+"title": "Моя игра",
+"bpm": 88,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Aarne, Bushido Zho, Anikv",
+"title": "Тесно (Muzvizor clean intro)",
+"bpm": 134,
+"key": "Am",
+"camelot": "8A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "T-Fest ft. Скриптонит",
+"title": "Ламбада (Muzvizor Intro) (Clean)",
+"bpm": 96,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "SEREBRO",
+"title": "Дай мне шанс (Muzvizor Intro)",
+"bpm": 122,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "IOWA",
+"title": "Fashion Girl (Muzvizor Intro)",
+"bpm": 110,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Эндшпиль",
+"title": "10 (Muzvizor redrum)",
+"bpm": 105,
+"key": "Am",
+"camelot": "8A",
+"genre": "Moombahton",
+"block": "other"
+},
+{
+"artist": "Rude Boy",
+"title": "Ветер перемен (Outro impact version)",
+"bpm": 87,
+"key": "Ab",
+"camelot": "4B",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "A Studio",
+"title": "Так же как все (Alex Shik Radio Edit)",
+"bpm": 122,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "MACAN, Detach",
+"title": "Самый Пьяный Округ В Мире (Andy Air breaks edit)",
+"bpm": 134,
+"key": "Em",
+"camelot": "9A",
+"genre": "UK, 2 step",
+"block": "ukg"
+},
+{
+"artist": "David Guetta, Pitbull",
+"title": "Lets Go Hotel Room Servise (Toneplay edit)",
+"bpm": 129,
+"key": "G#m",
+"camelot": "1A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "SLAVA SKRIPKA",
+"title": "Бобр (Denis Repin remix)",
+"bpm": 100,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Open format",
+"block": "sing"
+},
+{
+"artist": "Sub Focus, Fireboy DML & IRAH",
+"title": "Original Don (Extended Mix)",
+"bpm": 87,
+"key": "Fm",
+"camelot": "4A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "Teriyaki Boyz",
+"title": "Tokyo Drift",
+"bpm": 127,
+"key": "3A",
+"camelot": "3A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Сергей Арутюнов, Валерий Сюткин, Иван Воробьев, Гости из будущего",
+"title": "Я то что надо (Denis Repin edit)",
+"bpm": 125,
+"key": "E",
+"camelot": "12B",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "КАЗАКИ ДЕЛАЮТ ХИТЫ",
+"title": "Облака (Muzvizor Intro)",
+"bpm": 124,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Nikko, Надежда Кадышева",
+"title": "Плывет Веночек (Mr Chyesee blend)",
+"bpm": 135,
+"key": "Em",
+"camelot": "9A",
+"genre": "UK, 2 step",
+"block": "ukg"
+},
+{
+"artist": "The Pussycat Dolls",
+"title": "Buttons",
+"bpm": 105,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "XOLIDAYBOY x Katy Perry",
+"title": "LOVE AGAIN (Ricky Stark Dance Blend)",
+"bpm": 120,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Nemiga",
+"title": "Катасрофически (Alex Shik Remix)",
+"bpm": 122,
+"key": "Am",
+"camelot": "8A",
+"genre": "Indie dance",
+"block": "sing"
+},
+{
+"artist": "Kylie Cantrall",
+"title": "Denim (Muzvizor Intro)",
+"bpm": 114,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "BEARWOLF",
+"title": "ТОПИМ (Muzvizor Intro)",
+"bpm": 120,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Detsl aka Le Truk",
+"title": "Пятница (Ricky Stark 'Танцы обниманцы' Edit)",
+"bpm": 105,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Aarne, BUSHIDO ZHO",
+"title": "Sos x Get Shaky (GRMR Remix) (WZDQ Edit)",
+"bpm": 142,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Uk, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "КРОСЫ, SMRIN, PODLESNOV",
+"title": "Чучука",
+"bpm": 133,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "Поле чудес",
+"title": "Барабан (Denis Repin remaster edit)",
+"bpm": 109,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Hip-hop",
+"block": "sing"
+},
+{
+"artist": "Филипп Киркоров, Prodigy",
+"title": "Я эту жизнь тебе отдам (Rude Boy remix)",
+"bpm": 136,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Open format",
+"block": "sing"
+},
+{
+"artist": "Richard Villa",
+"title": "Dropping it",
+"bpm": 126,
+"key": "G",
+"camelot": "9B",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Genesi Вадим",
+"title": "У тебя будильник (Andy Air ONYX intro)",
+"bpm": 126,
+"key": "Eb",
+"camelot": "5B",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Джиган, Artik & Asti, NILETTO",
+"title": "Худи (Nei 'В. Пресняков' Blend)",
+"bpm": 118,
+"key": "4A",
+"camelot": "4A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "RASA, DASHI",
+"title": "MANDALA (Muzvizor Intro)",
+"bpm": 130,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Avicii",
+"title": "Levels",
+"bpm": 126,
+"key": "E",
+"camelot": "12B",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Артем Пора Домой, Jahmal TGK",
+"title": "Прости за любовь (Muzvizor Intro)",
+"bpm": 80,
+"key": "Bm",
+"camelot": "10A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "Delta Heavy",
+"title": "White Flag VIP",
+"bpm": 87,
+"key": "Cm",
+"camelot": "5A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "Miyagi",
+"title": "Бадабум (DJ NEI 'breaks' Blend)",
+"bpm": 127,
+"key": "11A",
+"camelot": "11A",
+"genre": "HIP-HOP",
+"block": "sing"
+},
+{
+"artist": "SOLIDNAYA, David Guetta",
+"title": "Как любовь (Rude Boy mash up)",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Tommy Cash",
+"title": "Espresso Macchiato (Denis Repin edit)",
+"bpm": 125,
+"key": "Em",
+"camelot": "9A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Ваня Дмитриенко, Аня Пересильд",
+"title": "Силуэт (Denis Repin remix) mst 2",
+"bpm": 125,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Desiigner x Fisher x Tujamo x 50 Cent",
+"title": "Timmy Turner ( DJ Fresh Vip Mix )",
+"bpm": 126,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Alblak 52, Alice Deejay, Savage",
+"title": "+7952812 (Andy Air edit)",
+"bpm": 87,
+"key": "G#m",
+"camelot": "1A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "Ирина Дубцова",
+"title": "О Нем (Alex Shik Radio Edit)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "Indie dance",
+"block": "sing"
+},
+{
+"artist": "Татьяна Буланова",
+"title": "Один день",
+"bpm": 94,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Ваня Дмитриенко",
+"title": "Шёлк (Alex Shik radio edit)",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "Indie dance",
+"block": "sing"
+},
+{
+"artist": "Dima Bilan",
+"title": "Nomer Odin (Andy Air 'Trash' edit)",
+"bpm": 140,
+"key": "Dm",
+"camelot": "7A",
+"genre": "UK, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Михаил Шуфутинский, ICEGERGRT, SKY RAE",
+"title": "Наследство Марджанджи (Denis Repin, Denis Solovyov mash up)",
+"bpm": 94,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "DnB отбивка",
+"title": "Saint Rider & LIRA - Прекрасное далёко",
+"bpm": 87,
+"key": "Am",
+"camelot": "8A",
+"genre": "Отбивка",
+"block": "other"
+},
+{
+"artist": "tripperbeats",
+"title": "Skyfall",
+"bpm": 86,
+"key": "Cm",
+"camelot": "5A",
+"genre": "DnB",
+"block": "other"
+},
+{
+"artist": "SABI, Aygün Kazımova",
+"title": "Я твой стресс (S.O.S. cover) (Muzvizor Intro)",
+"bpm": 96,
+"key": "Bm",
+"camelot": "10A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "КАЗАКИ ДЕЛАЮТ ХИТЫ",
+"title": "Облака (Nei 'DG' Blend)",
+"bpm": 130,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Руслан Набиев",
+"title": "По ресторанам (Nei Blend)",
+"bpm": 148,
+"key": "12A",
+"camelot": "12A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Masters At Work",
+"title": "Work (Nei 'sammy virji Blend)",
+"bpm": 136,
+"key": "6A",
+"camelot": "6A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "gotlibgotlibgotlib",
+"title": "aromat (Nei 'stormzy' Blend)",
+"bpm": 94,
+"key": "2A",
+"camelot": "2A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Gorilla Zippo",
+"title": "Танцую до утра (Nei 'nostatic' Blend)",
+"bpm": 130,
+"key": "5A",
+"camelot": "5A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Моя Мишель",
+"title": "Иногда (Nei Blend)",
+"bpm": 120,
+"key": "9A",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "КАЗАКИ ДЕЛАЮТ ХИТЫ",
+"title": "Мой ненаглядный (Nei DNB Blend)",
+"bpm": 87,
+"key": "C#m",
+"camelot": "12A",
+"genre": "DNB",
+"block": "other"
+},
+{
+"artist": "Gorillaz",
+"title": "Feel Good Inc (Nei Blend)",
+"bpm": 130,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Ямаджи х Фейджи",
+"title": "Минимум (Nei Blend)",
+"bpm": 130,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "MAYOT, SEEMEE, 163ONMYNECK",
+"title": "БИЗНЕС (Nei Blend)",
+"bpm": 131,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Voskresenskii, Saluki",
+"title": "Покажи как ты танцуешь (Nei 'updown' Blend)",
+"bpm": 130,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Iowa",
+"title": "Простая песня (Dj Graff party edit)",
+"bpm": 105,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "T-Fest",
+"title": "Ни вчера, ни завтра (Muzvizor Intro)",
+"bpm": 140,
+"key": "8A",
+"camelot": "8A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Мария Янковская, POLI",
+"title": "Sigma girl (Muzvizor Intro)",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Макс Корж",
+"title": "Небо поможет нам (Muzvizor intro)",
+"bpm": 128,
+"key": "Dm",
+"camelot": "7A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Dj Smash, Morgenshtern",
+"title": "Новая Волна (Clean Version)",
+"bpm": 125,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Руки Вверх! x T-FEST",
+"title": "18 мне уже x Ни вчера, ни завтра (Ricky Stark And Barutkin Blend)",
+"bpm": 70,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "uniqe, nkeeei, ARTEM SHILOVETS, Wipo",
+"title": "ГЛАМУР (Muzvizor Intro) (Clean)",
+"bpm": 107,
+"key": "1A",
+"camelot": "1A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "5sta family",
+"title": "Зачем (Muzvizor intro)",
+"bpm": 101,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "TIGO,Migrant",
+"title": "Планы на завтра (Muzvizor Intro)",
+"bpm": 132,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "FRIENDLY THUG 52 NGG",
+"title": "No Gletcher Gang 2 (Muzvizor Intro) (Clean)",
+"bpm": 152,
+"key": "12A",
+"camelot": "12A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "GORILLA GLUE, LIL NAKUR",
+"title": "Браги два бидона (Muzvizor Intro) (Clean)",
+"bpm": 149,
+"key": "12A",
+"camelot": "12A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "NILETTO",
+"title": "Счастливым (Muzvizor Intro)",
+"bpm": 120,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Макс Корж",
+"title": "Малый Повзрослел (Muzvizor Clean Intro)",
+"bpm": 70,
+"key": "Em",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Jakone",
+"title": "Дорога дальняя (Denis Repin edit)",
+"bpm": 125,
+"key": "C#m",
+"camelot": "12A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ANNA ASTI",
+"title": "Гроза (Muzvizor Intro)",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "FACE",
+"title": "Я роняю запад (Marshall Intro) (Clean)",
+"bpm": 132,
+"key": "3A",
+"camelot": "3A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Каста",
+"title": "Вокруг шум (Denis Repin intro)",
+"bpm": 96,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Винтаж, Травма, Skidri, Dvrklxght",
+"title": "Плохая девочка (Denis Repin edit)",
+"bpm": 110,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "MACAN, A.V.G",
+"title": "Привыкаю (Muzvizor Intro)",
+"bpm": 124,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "N1NT3ND0",
+"title": "Ламбада (Muzvizor Intro) (Clean)",
+"bpm": 85,
+"key": "7A",
+"camelot": "7A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Lovv66",
+"title": "Май май (Muzvizor intro)",
+"bpm": 70,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Hip Hop",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT",
+"title": "Casino (Muzvizor Intro) (Clean)",
+"bpm": 90,
+"key": "6A",
+"camelot": "6A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Hleb",
+"title": "Эба",
+"bpm": 128,
+"key": "Em",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "SOLIDNAYA, SAKXRA",
+"title": "Пахнешь как (Muzvizor Intro)",
+"bpm": 130,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "A.V.G, Tatar",
+"title": "Ножевой (Denis Repin edit)",
+"bpm": 125,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Morgenshtern",
+"title": "Новый мерин (Muzvizor clean intro)",
+"bpm": 90,
+"key": "Em",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Toxi$, Lida",
+"title": "ТРЯСИ (Muzvizor Intro) (Clean)",
+"bpm": 112,
+"key": "12A",
+"camelot": "12A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "kizaru, ICEGERGERT",
+"title": "Fake ID (Muzvizor Intro) (Clean)",
+"bpm": 80,
+"key": "5A",
+"camelot": "5A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Филипп Киркоров",
+"title": "Я эту жизнь тебе отдам (Muzvizor Intro)",
+"bpm": 132,
+"key": "3A",
+"camelot": "3A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "GONE.Fludd",
+"title": "КУБИК ЛЬДА (Marshall Intro) (Clean)",
+"bpm": 126,
+"key": "11A",
+"camelot": "11A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Группа Поручик Ржевский",
+"title": "Ночь и бал (Muzvizor Intro)",
+"bpm": 132,
+"key": "9A",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Dabro",
+"title": "Юность (intro edit)",
+"bpm": 124,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "XOLIDAYBOY",
+"title": "LOVE AGAIN (Muzvizor Intro)",
+"bpm": 79,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Rock",
+"block": "sing"
+},
+{
+"artist": "Betsy, Мария Янковская",
+"title": "Сигма Бой (Muzvizor Intro)",
+"bpm": 125,
+"key": "F#m",
+"camelot": "11A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT, SKY RAE",
+"title": "Наследство (Muzvizor Intro) (Clean)",
+"bpm": 84,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Элджей, Feduk",
+"title": "Розовое вино (Muzvizor intro)",
+"bpm": 115,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape",
+"title": "Turbo (Majestic) (Muzvizor Intro)",
+"bpm": 132,
+"key": "Em",
+"camelot": "9A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Miyagi & Эндшпиль",
+"title": "I got love",
+"bpm": 106,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip Hop",
+"block": "sing"
+},
+{
+"artist": "AY YOLA",
+"title": "Homay",
+"bpm": 103,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Instasamka",
+"title": "За деньги да",
+"bpm": 115,
+"key": "Am",
+"camelot": "8A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "SQWOZ BAB",
+"title": "TOKYO (Muzvizor Intro) (Clean)",
+"bpm": 97,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Элджей, FEDUK",
+"title": "Розовое вино (Muzvizor Clean Intro)",
+"bpm": 115,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Бонд с кнопкой",
+"title": "Кухни (Muzvizor Intro)",
+"bpm": 133,
+"key": "Db",
+"camelot": "3B",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Мот",
+"title": "День и Ночь (Gette Aca Edit)",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "SODA LUV",
+"title": "Легит чек (Muzvizor Intro) (Clean)",
+"bpm": 125,
+"key": "3A",
+"camelot": "3A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Jah Khalib",
+"title": "Если чё, я Баха (Muzvizor intro)",
+"bpm": 96,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Hip Hop",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT",
+"title": "Worldwide (Muzvizor Intro) (Clean)",
+"bpm": 90,
+"key": "7A",
+"camelot": "7A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Slawa Marlow",
+"title": "Снова я напиваюсь (Muzvizor intro)",
+"bpm": 104,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Yanix",
+"title": "Party (Muzvizor Intro) (Clean)",
+"bpm": 115,
+"key": "11A",
+"camelot": "11A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "MACAN, Jakone",
+"title": "2002 (Muzvizor Intro) (Clean)",
+"bpm": 95,
+"key": "3A",
+"camelot": "3A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Big Baby Tape, Aarne",
+"title": "Supersonic (Muzvizor Intro)",
+"bpm": 120,
+"key": "Ab",
+"camelot": "4B",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "OBLADAET, ICEGERGERT",
+"title": "NAME (Muzvizor Intro) (Clean)",
+"bpm": 80,
+"key": "10A",
+"camelot": "10A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Скриптонит",
+"title": "Не расслабляйся (Muzvizor Intro) (Clean)",
+"bpm": 130,
+"key": "5A",
+"camelot": "5A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Macan",
+"title": "Aspalt 8 (intro clean)",
+"bpm": 124,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Wallem",
+"title": "Харизма (Muzvizor Intro)",
+"bpm": 88,
+"key": "G#m",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Серёга",
+"title": "Чёрный бумер (Denis Repin intro edit)",
+"bpm": 85,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "uniqe, nkeeei, ARTEM SHILOVETS",
+"title": "ТАНЦУЙ (Muzvizor Intro) (Clean)",
+"bpm": 105,
+"key": "11A",
+"camelot": "11A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "INSTASAMKA",
+"title": "BOSS (Muzvizor Intro)",
+"bpm": 115,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT",
+"title": "Гектор (Muzvizor Intro) (Clean)",
+"bpm": 105,
+"key": "3A",
+"camelot": "3A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "Элджей & Feduk",
+"title": "Розовое вино (Dj Graff moomb party mix)",
+"bpm": 107,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Artik & Asti",
+"title": "Гармония",
+"bpm": 114,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Gayazovs brothers",
+"title": "Фаина",
+"bpm": 111,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "NILETTO",
+"title": "Любимка",
+"bpm": 130,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Bruno Mars, Mark Ronson",
+"title": "Uptown funk",
+"bpm": 115,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Ray Charles",
+"title": "Hit the road Jack",
+"bpm": 85,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "2 Маши",
+"title": "Мама я танцую",
+"bpm": 128,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Егор Крид",
+"title": "Самая самая",
+"bpm": 126,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Эльбрус Джанмирзоев",
+"title": "Бродяга",
+"bpm": 90,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Rus pop",
+"block": "sing"
+},
+{
+"artist": "Luis Fonsi feat. Daddy Yankee",
+"title": "Despacito",
+"bpm": 89,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Бандэрос",
+"title": "Про красивую жизнь",
+"bpm": 125,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "5sta Family",
+"title": "Зачем",
+"bpm": 101,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Gayazovs brothers, Filatov, Karas",
+"title": "Пошла жара",
+"bpm": 107,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Anna Asti",
+"title": "По барам",
+"bpm": 111,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Stromae",
+"title": "Alors on dance",
+"bpm": 120,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Beyonce",
+"title": "Single ladies",
+"bpm": 97,
+"key": "Em",
+"camelot": "9A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Rihanna",
+"title": "S&M",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Don Omar",
+"title": "Danza kuduro",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "Jennifer Lopez",
+"title": "Lets get loud",
+"bpm": 131,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Icona pop",
+"title": "I love it",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "Zara Larsson",
+"title": "Puss Puss",
+"bpm": 127,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Eric Bellinger",
+"title": "Ten Down",
+"bpm": 111,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "PTYGMATIC",
+"title": "Memphis Town Dub",
+"bpm": 132,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rauw Alejandro, Saso",
+"title": "Caribeño",
+"bpm": 70,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Sum",
+"bpm": 114,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Biicla, DJ Stonik1917",
+"title": "Girls + Boys",
+"bpm": 70,
+"key": "Am",
+"camelot": "8A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Zara Larsson",
+"title": "Hot & Sexy",
+"bpm": 125,
+"key": "F#m",
+"camelot": "11A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Get It Off",
+"bpm": 103,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "HoneyLuv, IDRIS",
+"title": "Euro Flow",
+"bpm": 128,
+"key": "Dm",
+"camelot": "7A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Ben Hemsley & Gaskin",
+"title": "If Your Girl (CamUKG Remix)",
+"bpm": 138,
+"key": "Fm",
+"camelot": "4A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Young Thug",
+"title": "Whoopty Doo",
+"bpm": 73,
+"key": "Gm",
+"camelot": "6A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Cucina Sonora, Pentola",
+"title": "think of u",
+"bpm": 71,
+"key": "D",
+"camelot": "10B",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Doja Cat, SZA",
+"title": "Take Me Dancing",
+"bpm": 112,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Tame Impala",
+"title": "Dracula",
+"bpm": 115,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "glaive",
+"title": "Veni Vidi Vici",
+"bpm": 133,
+"key": "B",
+"camelot": "1B",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Mariah Carey",
+"title": "Mi",
+"bpm": 74,
+"key": "Cm",
+"camelot": "5A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Sarz, Victony",
+"title": "Up",
+"bpm": 120,
+"key": "Gm",
+"camelot": "6A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Eric Bellinger, Daecolm",
+"title": "Pull Up",
+"bpm": 113,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Sarz, WurlD",
+"title": "Nice n'Slow",
+"bpm": 87,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Skepta, Fred again.., PlaqueBoyMax",
+"title": "Victory Lap (Qlank Remix)",
+"bpm": 132,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Doja Cat",
+"title": "Cards",
+"bpm": 110,
+"key": "1A",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "glaive",
+"title": "Crying, Laughing, Loving, Lying",
+"bpm": 74,
+"key": "Am",
+"camelot": "8A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Eric Bellinger, Vscript",
+"title": "Rich Man",
+"bpm": 105,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "MK, Clementine Douglas",
+"title": "Come Find Me",
+"bpm": 127,
+"key": "Am",
+"camelot": "8A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Disko Teck",
+"title": "Reasxn",
+"bpm": 136,
+"key": "Am",
+"camelot": "8A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Thakzin, MORDA, Leko M",
+"title": "Galela",
+"bpm": 116,
+"key": "C#m",
+"camelot": "12A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "The Boy",
+"bpm": 115,
+"key": "Gm",
+"camelot": "6A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Monaleo",
+"title": "Sexy Soulaan",
+"bpm": 104,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Eric Bellinger",
+"title": "In Your Skin",
+"bpm": 106,
+"key": "Cm",
+"camelot": "5A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Josh Baker, The Egyptian Lover, Rome Fortune",
+"title": "Dr Feel Right",
+"bpm": 128,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Ladida",
+"bpm": 126,
+"key": "Am",
+"camelot": "8A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Mariah Carey, The Clark Sisters",
+"title": "Jesus I Do",
+"bpm": 116,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Alessi Rose",
+"title": "First Original Thought",
+"bpm": 117,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "T!M",
+"title": "DREAMING REFIX",
+"bpm": 138,
+"key": "F#m",
+"camelot": "11A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Danny Brown",
+"title": "Starburst",
+"bpm": 86,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Disclosure, Chris Lake, Leven Kali",
+"title": "one2three",
+"bpm": 130,
+"key": "Dm",
+"camelot": "7A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Khalid",
+"title": "out of body",
+"bpm": 111,
+"key": "Am",
+"camelot": "8A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Kashin, DJ CURRY",
+"title": "BADMAN",
+"bpm": 70,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Sarz, Asake, Gunna",
+"title": "Happiness",
+"bpm": 105,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Young Thug, 21 Savage",
+"title": "Walk Down",
+"bpm": 81,
+"key": "Cm",
+"camelot": "5A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Ty Dolla $ign, Kodak Black, YG",
+"title": "SMILE BODY PRETTY FACE",
+"bpm": 96,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Capo Lee",
+"title": "Liff (Morty UKG Bootleg)",
+"bpm": 138,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Zara Larsson",
+"title": "Blue Moon",
+"bpm": 75,
+"key": "Eb",
+"camelot": "5B",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Eyes Shut",
+"bpm": 73,
+"key": "Gm",
+"camelot": "6A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Bite The Bait",
+"bpm": 71,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Syd",
+"title": "GMFU",
+"bpm": 117,
+"key": "Cm",
+"camelot": "5A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Thakzin, Thandazo, Tete",
+"title": "The Calling",
+"bpm": 116,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Dei V, Blessd",
+"title": "BB",
+"bpm": 92,
+"key": "Fm",
+"camelot": "4A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Thakzin, Mhaw Keys",
+"title": "One Light Many Hands",
+"bpm": 118,
+"key": "Fm",
+"camelot": "4A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Hyphen",
+"title": "Bumpa & Bump",
+"bpm": 132,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Diazepin",
+"title": "bittersweet",
+"bpm": 136,
+"key": "Fm",
+"camelot": "4A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Zara Larsson",
+"title": "Midnight Sun",
+"bpm": 76,
+"key": "Bm",
+"camelot": "10A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Sarz, Lojay",
+"title": "Billions",
+"bpm": 114,
+"key": "C#m",
+"camelot": "12A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "On 2 Something",
+"bpm": 75,
+"key": "Fm",
+"camelot": "4A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Tate McRae",
+"title": "TIT FOR TAT",
+"bpm": 84,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Young Thug, Travis Scott",
+"title": "Pipe Down",
+"bpm": 73,
+"key": "Cm",
+"camelot": "5A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Eric Bellinger, Tina Savage",
+"title": "Understood (Remix)",
+"bpm": 101,
+"key": "F#m",
+"camelot": "11A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Doja Cat",
+"title": "AAAHH MEN",
+"bpm": 115,
+"key": "F#m",
+"camelot": "11A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Words 2 Say",
+"bpm": 99,
+"key": "Am",
+"camelot": "8A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Mariah Carey",
+"title": "I Won't Allow It",
+"bpm": 112,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Never Enough",
+"bpm": 113,
+"key": "F#m",
+"camelot": "11A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Ice Spice",
+"title": "Baddie Baddie",
+"bpm": 72,
+"key": "C#m",
+"camelot": "12A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Zara Larsson",
+"title": "Eurosummer",
+"bpm": 122,
+"key": "Em",
+"camelot": "9A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Wasta",
+"title": "Business Office",
+"bpm": 70,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "glaive",
+"title": "Nouveau Riche",
+"bpm": 99,
+"key": "F#m",
+"camelot": "11A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rauw Alejandro, Wisin, Nengo Flow",
+"title": "CONTRABANDO",
+"bpm": 108,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Tee Grizzley",
+"title": "Back To Michigan",
+"bpm": 133,
+"key": "G#m",
+"camelot": "1A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Rochelle Jordan",
+"title": "Close 2 Me",
+"bpm": 132,
+"key": "Fm",
+"camelot": "4A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "glaive",
+"title": "Asheville",
+"bpm": 134,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "NEW",
+"block": "sing"
+},
+{
+"artist": "Arkady Antsyrev",
+"title": "Vot Tak Vot",
+"bpm": 123,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Okain",
+"title": "Season Two (Original Mix)",
+"bpm": 124,
+"key": "8A",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Harry Romero",
+"title": "Night @ The Black (Phil Weeks Extended Ghetto Dub)",
+"bpm": 125,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Qmusse",
+"title": "Red Box (Original Mix)",
+"bpm": 123,
+"key": "Gm",
+"camelot": "6A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Sydney",
+"title": "Dirty Business",
+"bpm": 123,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Doug Bass",
+"title": "Be Light (Original Mix)",
+"bpm": 123,
+"key": "Em",
+"camelot": "9A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Arkady Antsyrev",
+"title": "Prosvet",
+"bpm": 126,
+"key": "8A",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Simplex Sensus",
+"title": "Unofficial Date",
+"bpm": 123,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Deep Active Sound",
+"title": "Nightbird",
+"bpm": 124,
+"key": "12A",
+"camelot": "12A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Onur Ozman",
+"title": "Akzeptanz (Deep Active Sound Remix)",
+"bpm": 122,
+"key": "4A",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Sebbe",
+"title": "My Girl (Deep Active Sound Remix)",
+"bpm": 124,
+"key": "6A",
+"camelot": "6A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Archie Hamilton",
+"title": "The Universe",
+"bpm": 125,
+"key": "7A",
+"camelot": "7A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Mario Aureo",
+"title": "All Night Long (Original Mix)",
+"bpm": 121,
+"key": "Cm",
+"camelot": "5A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Dirty Culture",
+"title": "Deliriant Groove",
+"bpm": 122,
+"key": "6A",
+"camelot": "6A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Dirty Culture",
+"title": "Zambila (Original Mix)",
+"bpm": 124,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Mario Aureo, Daniel Solar",
+"title": "Jubilee",
+"bpm": 125,
+"key": "6A",
+"camelot": "6A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "From P60",
+"title": "Realize",
+"bpm": 125,
+"key": "1A",
+"camelot": "1A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Maxxa",
+"title": "Love Keep Me Afloat",
+"bpm": 120,
+"key": "2A",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Postino",
+"title": "Sailor & Gambler",
+"bpm": 124,
+"key": "Am",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Bas Amro, El Mundo, Mulder, Satori (NL)",
+"title": "Frisse Wind",
+"bpm": 125,
+"key": "8A",
+"camelot": "8A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Chris Special",
+"title": "Mind Games",
+"bpm": 123,
+"key": "Dm",
+"camelot": "7A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Qmusse",
+"title": "Jazz Is Everything",
+"bpm": 124,
+"key": "5A",
+"camelot": "5A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Deep Active Sound",
+"title": "I Never Felt",
+"bpm": 126,
+"key": "6A",
+"camelot": "6A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Dennis Cruz",
+"title": "To Burn (ft. Leo Wood) (Extended Mix)",
+"bpm": 123,
+"key": "7A",
+"camelot": "7A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Submantra",
+"title": "The Sound Of The Underground",
+"bpm": 125,
+"key": "2A",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Aki Bergen",
+"title": "Get On",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Arkady Antsyrev",
+"title": "Know That",
+"bpm": 127,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Sam Haas",
+"title": "Alone Together",
+"bpm": 124,
+"key": "Fm",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Joey Negro and The Sunburst Band",
+"title": "Journey To The Sun (Dennis Ferrer Remix) (Edit)",
+"bpm": 126,
+"key": "Dm",
+"camelot": "7A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Sam Haas",
+"title": "Changing Lanes",
+"bpm": 121,
+"key": "4A",
+"camelot": "4A",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "Club Angel",
+"title": "Control Dem",
+"bpm": 135,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "cutted files",
+"title": "In the Course Of",
+"bpm": 128,
+"key": "Gm",
+"camelot": "6A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Gapto Fobia",
+"title": "Nice Tide",
+"bpm": 128,
+"key": "Eb",
+"camelot": "5B",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "bullet tooth, Xpansions",
+"title": "Move Your Body",
+"bpm": 136,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Sammy Virji",
+"title": "I Guess We're Not The Same (Extended Mix)",
+"bpm": 140,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Basement Jaxx",
+"title": "Fly Life (salute Remix)",
+"bpm": 137,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Chris Brown, Benny Benassi",
+"title": "Beautiful People",
+"bpm": 128,
+"key": "Eb",
+"camelot": "5B",
+"genre": "House",
+"block": "tech"
+},
+{
+"artist": "camoufly",
+"title": "beggin' u 2",
+"bpm": 132,
+"key": "Em",
+"camelot": "9A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "ATRIP",
+"title": "GUMMI",
+"bpm": 140,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "стил, NØKK",
+"title": "Красиво",
+"bpm": 134,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Charlie Shell, Tayla",
+"title": "Focus",
+"bpm": 134,
+"key": "Bb",
+"camelot": "6B",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Disclosure",
+"title": "Arachnids",
+"bpm": 138,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Uk, 2 step",
+"block": "ukg"
+},
+{
+"artist": "Иракли х Solardo, Hayley May",
+"title": "Лондон-Париж (Prime Blend)",
+"bpm": 130,
+"key": "C#m",
+"camelot": "12A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Выше",
+"bpm": 125,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Linkin Park",
+"title": "In The End (NOT FROM PHILLY remix)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Наследство (VIP) (CLEAN)",
+"bpm": 132,
+"key": "C#m",
+"camelot": "12A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "MONATIK х Dennis Cruz",
+"title": "Кружит (Chekanin blend)",
+"bpm": 122,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Корни х Fiorez",
+"title": "25 Этаж (Prime Blend)",
+"bpm": 126,
+"key": "Fm",
+"camelot": "4A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Big Baby Tape, Aarne",
+"title": "Supersonic (Ruslan Kam Blend)",
+"bpm": 127,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Егор Крид х Malarkey, Gotlucky",
+"title": "Самая (Prime Blend)",
+"bpm": 128,
+"key": "Bm",
+"camelot": "10A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Татьяна Буланова х Bingo Players",
+"title": "Ясный Мой Свет (Prime Blend)",
+"bpm": 128,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Жить в кайф (2024 Version)",
+"bpm": 126,
+"key": "Gm",
+"camelot": "6A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Macan x Kryder",
+"title": "Привыкаю (Chekanin blend)",
+"bpm": 124,
+"key": "Dm",
+"camelot": "7A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "Юлия Савичева х Candidate, Saigon",
+"title": "Если В Сердце Живет Любовь (Prime Blend)",
+"bpm": 128,
+"key": "Am",
+"camelot": "8A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "CREAM SODA",
+"title": "Никаких Больше Вечеринок (Ruslan Kam Blend)",
+"bpm": 127,
+"key": "Am",
+"camelot": "8A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "Oppidan, Dread MC",
+"title": "Tiga",
+"bpm": 132,
+"key": "G#m",
+"camelot": "1A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "NIA ARCHIVES X BUSHBABY",
+"title": "BAIANA96 (SENOR ROAR EDIT)",
+"bpm": 139,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Wiley",
+"title": "Wot Do U Call It (Gabriel Munoz Edit)",
+"bpm": 135,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Liot",
+"title": "Warlord s Daughta",
+"bpm": 135,
+"key": "C#m",
+"camelot": "12A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "PinkPantheress",
+"title": "Just For Me (J4FB remix)",
+"bpm": 140,
+"key": "Gm",
+"camelot": "6A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Flowdan",
+"title": "Welcome To London (Bakey Edit)",
+"bpm": 136,
+"key": "Am",
+"camelot": "8A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Bullet Tooth",
+"title": "Trully Dub",
+"bpm": 135,
+"key": "2A",
+"camelot": "2A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "P Money",
+"title": "Wagwarn Mumsy (feat. D Double E, Jme, Frisco) (cloubee Edit)",
+"bpm": 140,
+"key": "G#m",
+"camelot": "1A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "IsGwan",
+"title": "On a Ragga Tip Dub",
+"bpm": 138,
+"key": "Am",
+"camelot": "8A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "GRESHA",
+"title": "i just want (u 2nite)",
+"bpm": 136,
+"key": "F#m",
+"camelot": "11A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "TeeJ",
+"title": "Where n When",
+"bpm": 140,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Upgrade",
+"title": "Function WITEK Edit",
+"bpm": 140,
+"key": "C#m",
+"camelot": "12A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Sammy Virji",
+"title": "find my way home",
+"bpm": 136,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "JFL",
+"title": "No Diet",
+"bpm": 135,
+"key": "Am",
+"camelot": "8A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Pyrate & Bermal",
+"title": "Freak Like Me Dub",
+"bpm": 137,
+"key": "Em",
+"camelot": "9A",
+"genre": "UK, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "N4TEE",
+"title": "94 BITZZ",
+"bpm": 137,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Последняя любовь (DIRTY)",
+"bpm": 150,
+"key": "F#m",
+"camelot": "11A",
+"genre": "Dubstep",
+"block": "dubstep"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Один в поле воин again",
+"bpm": 138,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Катя (2025 Version)",
+"bpm": 70,
+"key": "E",
+"camelot": "12B",
+"genre": "TRANCE",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "2027 x ЛИСА (DIRTY)",
+"bpm": 127,
+"key": "Am",
+"camelot": "8A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Я поднимаюсь над землей",
+"bpm": 128,
+"key": "F#m",
+"camelot": "11A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Маленькие девочки",
+"bpm": 132,
+"key": "Am",
+"camelot": "8A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Я тебя не отдам",
+"bpm": 125,
+"key": "Am",
+"camelot": "8A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Бобр x Зимний сон x Rock Your Body (VK FEST Version)",
+"bpm": 70,
+"key": "Dm",
+"camelot": "7A",
+"genre": "TRANCE",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Планы x Ветром стать",
+"bpm": 88,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Асфальт",
+"bpm": 126,
+"key": "Dm",
+"camelot": "7A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "LIPSTICK x Он чужой (SHORT EDIT for MUZVIZOR) (CLEAN)",
+"bpm": 70,
+"key": "Bm",
+"camelot": "10A",
+"genre": "TRANCE",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "GODZILLA",
+"bpm": 128,
+"key": "Fm",
+"camelot": "4A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Я твой номер один",
+"bpm": 125,
+"key": "Am",
+"camelot": "8A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Сериал",
+"bpm": 75,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TRANCE",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Тесно (2024 Version)",
+"bpm": 130,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TRANCE",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Ягода Малинка (ГОП FM Version)",
+"bpm": 139,
+"key": "Gm",
+"camelot": "6A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Плачь и смотри",
+"bpm": 121,
+"key": "Am",
+"camelot": "8A",
+"genre": "Indie Dance",
+"block": "sing"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Мечта сбывается",
+"bpm": 130,
+"key": "C#m",
+"camelot": "12A",
+"genre": "HOUSE",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Солнышко в руках",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Наступит ночь",
+"bpm": 126,
+"key": "G#m",
+"camelot": "1A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Остров (2025 Version)",
+"bpm": 128,
+"key": "F#m",
+"camelot": "11A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "БАОБАБ (VIP) (CLEAN)",
+"bpm": 130,
+"key": "Fm",
+"camelot": "4A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Ты меня забудь (2024 Version)",
+"bpm": 126,
+"key": "Bm",
+"camelot": "10A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Ультрамариновые танцы",
+"bpm": 130,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "52 x Малинки (2025 Version) (CLEAN)",
+"bpm": 137,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "ОТПУСКАЙ (2025)",
+"bpm": 135,
+"key": "G#m",
+"camelot": "1A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Ветер меняет направление",
+"bpm": 128,
+"key": "Em",
+"camelot": "9A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Моя хулиганка x Satisfaction",
+"bpm": 126,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Танцую до утра (SHORT EDIT for MUZVIZOR)",
+"bpm": 130,
+"key": "F#m",
+"camelot": "11A",
+"genre": "TECH",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "AMSTERDAM (SHORT EDIT for MUZVIZOR) (CLEAN)",
+"bpm": 130,
+"key": "Em",
+"camelot": "9A",
+"genre": "TRANCE",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Адская колыбельная",
+"bpm": 127,
+"key": "Fm",
+"camelot": "4A",
+"genre": "TRANCE",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "OH YEAH x ALIBI (SHORT EDIT for MUZVIZOR)",
+"bpm": 128,
+"key": "Bm",
+"camelot": "10A",
+"genre": "Big Room",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "MUZVIZOR 2026 INTRO (DIRTY)",
+"bpm": null,
+"key": "Em",
+"camelot": "9A",
+"genre": "Other",
+"block": "other"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Пыяла",
+"bpm": 130,
+"key": "F#m",
+"camelot": "11A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Силуэт",
+"bpm": 127,
+"key": "Am",
+"camelot": "8A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Здравствуй x FE!N (SHORT EDIT for MUZVIZOR) (CLEAN)",
+"bpm": 128,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "На большом воздушном шаре",
+"bpm": 130,
+"key": "Am",
+"camelot": "8A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "DJ BALDIN",
+"title": "Пожары x Nirvana",
+"bpm": 128,
+"key": "Fm",
+"camelot": "4A",
+"genre": "TECHNO",
+"block": "tech"
+},
+{
+"artist": "Timbaland & Nelly Furtado x Steve Aoki",
+"title": "Give It To Me (orbien Blend)",
+"bpm": 128,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Bass",
+"block": "other"
+},
+{
+"artist": "ALBLAK52 x Volac",
+"title": "+7952812 (orbien x ALEXANDROV & NEDLIN Blend)",
+"bpm": 125,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Tech",
+"block": "tech"
+},
+{
+"artist": "SLAVA MARLOW",
+"title": "Ты горишь как огонь (PS Project & Astro remix)",
+"bpm": 124,
+"key": "Fm",
+"camelot": "4A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "",
+"title": "Баста - Моя игра (Red Line & M1CH3L P Radio Remix) (promodj.com)",
+"bpm": 110,
+"key": "Fm",
+"camelot": "4A",
+"genre": "",
+"block": "sing"
+},
+{
+"artist": "ПОШЛАЯ МОЛЛИ х Иван Дорн",
+"title": "Нон_стоп x Стыцмем (BOGOWDAN MASH UP)",
+"bpm": 130,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Pop",
+"block": "sing"
+},
+{
+"artist": "ICEGERGERT x Virtual Riot",
+"title": "Псих (orbien Blend)",
+"bpm": 87,
+"key": "G#m",
+"camelot": "1A",
+"genre": "DNB",
+"block": "other"
+},
+{
+"artist": "MORGENSHTERN x Troyboi",
+"title": "WATAFUK?! (orbien Blend)",
+"bpm": 87,
+"key": "Cm",
+"camelot": "5A",
+"genre": "Open format",
+"block": "sing"
+},
+{
+"artist": "Bushido Zho",
+"title": "SLIM SHADY (AXLUST Edit )",
+"bpm": 70,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "BUSHIDO ZHO, Scally Milano, Полка",
+"title": "днями и ночами (Marshall Intro)",
+"bpm": 129,
+"key": "G#m",
+"camelot": "1A",
+"genre": "Hip-Hop",
+"block": "sing"
+},
+{
+"artist": "BUSHIDO ZHO X Skrillex",
+"title": "SOS (Andrew Jester Blend)",
+"bpm": 70,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Ed Sheeran, Feduk, Slava Marlow",
+"title": "Shivers (Yudzhin remix)",
+"bpm": 124,
+"key": "Em",
+"camelot": "9A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "SEEMEE x BUSHIDO ZHO",
+"title": "DUMB (NOHRIN BLEND)",
+"bpm": 100,
+"key": "Em",
+"camelot": "9A",
+"genre": "Open Format",
+"block": "sing"
+},
+{
+"artist": "Aarne, BUSHIDO ZHO, ANIKV",
+"title": "Тесно x Shakir (WZDQ Edit)",
+"bpm": 132,
+"key": "Dm",
+"camelot": "7A",
+"genre": "Uk, 2 Step",
+"block": "ukg"
+},
+{
+"artist": "Cкриптонит x Smoothies & BIFO",
+"title": "Не расслабляйся (orbien blend)",
+"bpm": 132,
+"key": "Fm",
+"camelot": "4A",
+"genre": "Open format",
+"block": "sing"
+},
+{
+"artist": "BUSHIDO ZHO, Scally Milano, Polka x Carroll",
+"title": "Днями и ночами (ANSIA & MOONZIM Blend)",
+"bpm": 132,
+"key": "C#m",
+"camelot": "12A",
+"genre": "Tech House",
+"block": "tech"
+},
+{
+"artist": "SLAVA MARLOW & Biicla",
+"title": "Где найти силы (Intro Clean)",
+"bpm": 130,
+"key": "Ebm",
+"camelot": "2A",
+"genre": "TECH, BASS",
+"block": "tech"
+},
+{
+"artist": "",
+"title": "Пошлая Молли - Нон стоп (K3MP3R Remix) (promodj.com)",
+"bpm": 83,
+"key": "Fm",
+"camelot": "4A",
+"genre": "",
+"block": "sing"
+},
+{
+"artist": "SQWOZ BAB",
+"title": "КУПЕР (RomaBravo Remix)",
+"bpm": 101,
+"key": "C#m",
+"camelot": "12A",
+"genre": "",
+"block": "sing"
+},
+{
+"artist": "Heronwater, BUSHIDO ZHO",
+"title": "Дай мне посмотреть x W.T.F (WZDQ Edit)",
+"bpm": 130,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "",
+"title": "Biicla, Slava Marlow - Где Найти Силы (TONG8 Remix) (promodj.com)",
+"bpm": 86,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "",
+"block": "sing"
+},
+{
+"artist": "Zoloto",
+"title": "Дома (Intro Clean)",
+"bpm": 124,
+"key": "G#m",
+"camelot": "1A",
+"genre": "POP",
+"block": "sing"
+},
+{
+"artist": "ZOLOTO",
+"title": "Вот и всё (Ricky Stark Ai Disco Cover)",
+"bpm": 110,
+"key": "Bb",
+"camelot": "6B",
+"genre": "Nu Disco",
+"block": "sing"
+},
+{
+"artist": "Aarne, Big Baby Tape, BUSHIDO ZHO x Eleganto",
+"title": "City Boy x King (Don Tim Edit)",
+"bpm": 128,
+"key": "Bbm",
+"camelot": "3A",
+"genre": "BASS",
+"block": "other"
+},
+{
+"artist": "SLAVA MARLOW",
+"title": "Снова я напиваюсь (Alex Shik Remix)",
+"bpm": 125,
+"key": "Cm",
+"camelot": "5A",
+"genre": "POP",
+"block": "sing"
+}
+]
+}
