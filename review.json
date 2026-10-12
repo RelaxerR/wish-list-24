@@ -1,8 +1,8 @@
 {
  "version": 1,
- "updatedAt": "2026-10-12T16:00:00+04:00",
- "responsesSeen": 0,
- "summary": "Четыре волны: tech house → хиты, чтобы попеть → UK garage → dubstep, и по кругу. Заказанные треки встают в сет вместо моих.",
+ "updatedAt": "2026-10-13T00:03:48+04:00",
+ "responsesSeen": 1,
+ "summary": "Пришла первая заявка: Zivert и Ёлка уже в сете — в первой и третьей волне. «Cold Carti» найти не удалось — напиши, пожалуйста, исполнителя и точное название.",
  "set": [
   {
    "artist": "DJ BALDIN",
@@ -69,20 +69,23 @@
    "wave": 1
   },
   {
-   "artist": "t.A.T.u.",
-   "title": "Нас не догонят (Corto x Slim Remix) Intro",
-   "from": [],
+   "artist": "Zivert",
+   "title": "Эгоистка (Silver Ace & Onix Remix)",
+   "from": [
+    "Алёна"
+   ],
    "suggested": false,
-   "inCrate": true,
+   "wave": 1,
    "block": "sing",
-   "genre": "POP",
+   "genre": "Club",
    "bpm": 126,
-   "key": "C#m",
-   "camelot": "12A",
-   "note": "Вход в «попеть» (волна 1). 9A → 12A не дружат: переход катом, эхо-аутом или на перкуссии.",
-   "pack": "09-02-26",
+   "key": "Am",
+   "camelot": "8A",
+   "note": "Заказ «Zivert» (без названия) — взят ремикс из папки. Вход в «попеть»: 9A → 8A гармонично.",
    "sources": [],
-   "wave": 1
+   "inCrate": true,
+   "pack": null,
+   "download": null
   },
   {
    "artist": "Макс Корж",
@@ -95,7 +98,7 @@
    "bpm": 127,
    "key": "Am",
    "camelot": "8A",
-   "note": "12A → 8A не дружат: переход катом, эхо-аутом или на перкуссии.",
+   "note": "8A → 8A: длинный бленд.",
    "pack": "918-holi-fest-2025",
    "sources": [],
    "wave": 1
@@ -360,20 +363,23 @@
    "wave": 2
   },
   {
-   "artist": "Rootkit",
-   "title": "Dreaming (feat. Cammie Robinson) (Gibson Parker Remix) (Ricky Stark Intro)",
-   "from": [],
+   "artist": "Ёлка X Dimitri Vegas x Vin Diesel x Zion",
+   "title": "Прованс (Eidly Blend)",
+   "from": [
+    "Алёна"
+   ],
    "suggested": false,
-   "inCrate": true,
+   "wave": 3,
    "block": "tech",
    "genre": "House",
    "bpm": 126,
-   "key": "Cm",
-   "camelot": "5A",
-   "note": "Вход в tech (волна 3). Та же тональность, что у предыдущего (5A): можно длинный бленд. Скачок темпа 140 → 126 BPM: не тяни бленд, заходи с фразы.",
-   "pack": "249-stutter-house",
+   "key": "Ebm",
+   "camelot": "2A",
+   "note": "Заказ «Ёлка» (без названия) — взят бленд «Прованса» из папки. Вход в tech (волна 3) после 140 BPM: заходи катом с фразы. 2A → 5A не дружат: уходи на перкуссии.",
    "sources": [],
-   "wave": 3
+   "inCrate": true,
+   "pack": null,
+   "download": null
   },
   {
    "artist": "Aki Bergen",
@@ -386,7 +392,7 @@
    "bpm": 125,
    "key": "Cm",
    "camelot": "5A",
-   "note": "Та же тональность, что у предыдущего (5A): можно длинный бленд.",
+   "note": "2A → 5A не гармонично: переход на перкуссии/эффекте.",
    "pack": "374-ricky-stark-deep-style-mix-part-6",
    "sources": [],
    "wave": 3
@@ -724,7 +730,16 @@
    "wave": 4
   }
  ],
- "rejected": [],
+ "rejected": [
+  {
+   "artist": null,
+   "title": "Cold Carti",
+   "from": [
+    "Алёна"
+   ],
+   "reason": "Трек не находится в открытых источниках — уточни исполнителя и название (возможно, Playboi Carti?)."
+  }
+ ],
  "suggestions": [
   {
    "artist": "BAAUER",
@@ -767,5 +782,31 @@
    "download": "https://muzvizor.com/genres/dubstep"
   }
  ],
- "library": {}
+ "library": {
+  "zivert|эгоистка (silver ace & onix remix)": {
+   "bpm": 126,
+   "key": "Am",
+   "camelot": "8A",
+   "genre": "Club",
+   "sources": [
+    "crate.json"
+   ]
+  },
+  "ёлка x dimitri vegas x vin diesel x zion|прованс (eidly blend)": {
+   "bpm": 126,
+   "key": "Ebm",
+   "camelot": "2A",
+   "genre": "House",
+   "sources": [
+    "crate.json"
+   ]
+  },
+  "|cold carti": {
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "genre": null,
+   "sources": []
+  }
+ }
 }
