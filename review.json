@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-12T15:10:00+04:00",
+  "responsesSeen": 2,
+  "summary": "Заявок от гостей пока нет: в таблице только тестовые строки, я их отсеял. Чтобы было от чего отталкиваться, собрал стартовый скелет одной волны сета: tech house → треки, чтобы попеть → разгон в UK garage → разрешение в dubstep. Как только гости накидают своё, их треки встанут в волны вместо моих заглушек.",
+  "set": [
+    {
+      "artist": "FISHER",
+      "title": "Losing It",
+      "from": [],
+      "suggested": true,
+      "block": "tech",
+      "genre": "Tech House",
+      "bpm": 125,
+      "key": "G major",
+      "camelot": "9B",
+      "note": "Мягкий вход в tech: узнаваемый дроп, 125 BPM даёт запас, чтобы разгонять волну дальше.",
+      "sources": ["https://www.mixgraph.io/tracks/fisher-losing-it"]
+    },
+    {
+      "artist": "Dom Dolla",
+      "title": "Saving Up",
+      "from": [],
+      "suggested": true,
+      "block": "tech",
+      "genre": "Tech House",
+      "bpm": 130,
+      "key": "E♭ minor",
+      "camelot": "2A",
+      "note": "Пик tech-блока. По тональности с соседями не дружит (2A против 9B), так что переход лучше делать на перкуссии или эффектом, а не долгим блендом.",
+      "sources": ["https://www.mixgraph.io/tracks/dom-dolla-saving-up-extended"]
+    },
+    {
+      "artist": "Calvin Harris",
+      "title": "Feel So Close",
+      "from": [],
+      "suggested": true,
+      "block": "sing",
+      "genre": "Dance Pop",
+      "bpm": 128,
+      "key": "G",
+      "camelot": null,
+      "note": "Мостик из tech в «попеть»: темп почти тот же, весь зал знает припев. Мажор или минор по источникам не уточнён, проверь на слух.",
+      "sources": ["https://songbpm.com/@calvin-harris/feel-so-close", "https://sfrbeats.com/tools/bpm/calvin-harris/feel-so-close"]
+    },
+    {
+      "artist": "The Killers",
+      "title": "Mr. Brightside",
+      "from": [],
+      "suggested": true,
+      "block": "sing",
+      "genre": "Indie Rock",
+      "bpm": 148,
+      "key": "D♭ major",
+      "camelot": "3B",
+      "note": "Караоке-пик волны. Темп прыгает, так что заходи катом на первой строчке. После него зал заряжен для разгона в UKG.",
+      "sources": ["https://songbpm.com/@the-killers/mr-brightside"]
+    },
+    {
+      "artist": "Interplanetary Criminal, Koffee",
+      "title": "Slow Burner",
+      "from": [],
+      "suggested": true,
+      "block": "ukg",
+      "genre": "UK Garage",
+      "bpm": 136,
+      "key": "G major",
+      "camelot": "9B",
+      "note": "Старт UKG-разгона: высокая энергия, вокал цепляет тех, кто только что пел.",
+      "sources": ["https://tunebat.com/Info/Slow-Burner-Interplanetary-Criminal-Original-Koffee/1Siu5Bnrt90vtjUddXeTUg"]
+    },
+    {
+      "artist": "Skrillex, Fred again.., Flowdan",
+      "title": "Rumble",
+      "from": [],
+      "suggested": true,
+      "block": "dubstep",
+      "genre": "Dubstep / Grime",
+      "bpm": 140,
+      "key": "F♯ minor",
+      "camelot": "11A",
+      "note": "Идеальный мост из garage в dubstep: 140 BPM и UK-грув. Разгон с 136 до 140 почти незаметен.",
+      "sources": ["https://www.mixgraph.io/tracks/skrillex-rumble"]
+    },
+    {
+      "artist": "Skream",
+      "title": "Midnight Request Line",
+      "from": [],
+      "suggested": true,
+      "block": "dubstep",
+      "genre": "Dubstep",
+      "bpm": 140,
+      "key": "C minor",
+      "camelot": "5A",
+      "note": "Классика жанра как разрешение волны. Тональность источники дают по-разному (Mixgraph: C minor, SongBPM: C♯ major), проверь в своём софте.",
+      "sources": ["https://www.mixgraph.io/tracks/skream-midnight-request-line", "https://songbpm.com/@skream/midnight-request-line"]
+    }
+  ],
+  "rejected": [
+    { "artist": "", "title": "Тест", "from": ["Вячеслав"], "reason": "Тестовая заявка, не трек." },
+    { "artist": "", "title": "Тест 2", "from": ["Вячеслав"], "reason": "Тестовая заявка, не трек." },
+    { "artist": "", "title": "Тест 3", "from": ["Вячеслав"], "reason": "Тестовая заявка, не трек." }
+  ],
+  "suggestions": [],
+  "library": {}
+}
