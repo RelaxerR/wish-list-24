@@ -9,10 +9,24 @@
 :root{--bg:#f5f5f7;--card:rgba(255,255,255,.82);--text:#1d1d1f;--muted:#6e6e73;--line:rgba(0,0,0,.08);--blue:#0071e3;--shadow:0 14px 40px rgba(0,0,0,.07)}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 20% -10%,#fff 0,#f5f5f7 38%),var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif;-webkit-font-smoothing:antialiased}
 a{color:inherit}.wrap{max-width:1120px;margin:auto;padding:64px 22px 80px}.hero{padding:22px 2px 48px}.eyebrow{font-size:14px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}h1{font-size:clamp(44px,8vw,82px);line-height:.96;letter-spacing:-.055em;margin:12px 0 20px}.lead{max-width:720px;font-size:20px;line-height:1.45;color:var(--muted);margin:0}.note{margin-top:24px;display:inline-flex;gap:8px;align-items:center;padding:10px 14px;border:1px solid var(--line);border-radius:999px;background:rgba(255,255,255,.6);font-size:14px;color:var(--muted)}.filters{display:flex;gap:9px;flex-wrap:wrap;margin:4px 0 28px}.filter{border:0;background:#fff;border-radius:999px;padding:10px 15px;font:inherit;font-size:14px;cursor:pointer;box-shadow:0 1px 0 rgba(0,0,0,.04)}.filter.active{background:#1d1d1f;color:#fff}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}.card{position:relative;overflow:hidden;min-height:320px;padding:28px;border-radius:28px;background:var(--card);border:1px solid rgba(255,255,255,.8);box-shadow:var(--shadow);backdrop-filter:blur(18px);display:flex;flex-direction:column;transition:transform .2s ease,box-shadow .2s ease}.card:hover{transform:translateY(-2px);box-shadow:0 18px 50px rgba(0,0,0,.1)}.card.hero-card{grid-column:span 2;min-height:360px;background:linear-gradient(135deg,#161617,#303035);color:#fff}.tag{font-size:13px;font-weight:700;color:var(--muted);margin-bottom:16px}.hero-card .tag{color:#b8b8bd}.icon{font-size:38px;margin-bottom:18px}.card h2{font-size:30px;line-height:1.05;letter-spacing:-.035em;margin:0 0 10px}.price{font-size:18px;font-weight:700;margin-bottom:15px}.desc{font-size:16px;line-height:1.5;color:var(--muted);max-width:650px;margin:0 0 24px}.hero-card .desc{color:#c7c7cc}.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:auto}.btn{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;border-radius:999px;padding:11px 16px;background:var(--blue);color:white;font-size:14px;font-weight:650}.btn.secondary{background:#e8e8ed;color:#1d1d1f}.hero-card .btn.secondary{background:#fff;color:#1d1d1f}.small{font-size:12px;color:var(--muted);margin-top:13px;line-height:1.4}.hero-card .small{color:#a7a7ad}.section-title{font-size:28px;letter-spacing:-.03em;margin:56px 0 18px}.footer{margin-top:58px;padding-top:24px;border-top:1px solid var(--line);color:var(--muted);font-size:14px;line-height:1.6}.hidden{display:none!important}@media(max-width:720px){.wrap{padding:38px 16px 60px}.hero{padding-bottom:34px}.lead{font-size:18px}.grid{grid-template-columns:1fr}.card,.card.hero-card{grid-column:auto;min-height:300px;padding:24px;border-radius:24px}.card h2{font-size:27px}.filters{overflow-x:auto;flex-wrap:nowrap;padding-bottom:4px}.filter{white-space:nowrap}}
+.tabs{display:inline-flex;gap:4px;padding:4px;margin:0 0 30px;border-radius:999px;background:rgba(0,0,0,.05)}.tab{border:0;background:transparent;border-radius:999px;padding:9px 16px;font:inherit;font-size:14px;font-weight:650;color:var(--muted);cursor:pointer}.tab.active{background:#fff;color:var(--text);box-shadow:0 1px 4px rgba(0,0,0,.08)}
+.tracks-hero{min-height:0!important;margin-bottom:28px}.tracks-meta{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;color:var(--muted);font-size:14px;margin:0 2px 14px}.tracks{list-style:none;margin:0;padding:0;display:grid;gap:10px}.track{display:flex;align-items:center;gap:16px;padding:16px 20px;border-radius:20px;background:var(--card);border:1px solid rgba(255,255,255,.8);box-shadow:0 6px 20px rgba(0,0,0,.05)}.track .num{min-width:28px;font-size:15px;font-weight:700;color:var(--muted);font-variant-numeric:tabular-nums}.track .info{flex:1;min-width:0}.track a.t{display:block;text-decoration:none;color:var(--blue)}.track .t{font-size:17px;font-weight:650;letter-spacing:-.01em;overflow-wrap:anywhere}.track .a{font-size:15px;color:var(--muted);margin-top:2px;overflow-wrap:anywhere}.track .by{font-size:12px;color:var(--muted);margin-top:6px}.badge{flex-shrink:0;font-size:12px;font-weight:700;padding:5px 9px;border-radius:999px;background:#e8e8ed;color:var(--text)}.badge.hot{background:var(--blue);color:#fff}.track.played{opacity:.5}.track.played .t{text-decoration:line-through}.empty{padding:34px 20px;text-align:center;color:var(--muted);border:1px dashed rgba(0,0,0,.15);border-radius:20px;line-height:1.5}
+.countdown{display:grid;grid-template-columns:1.4fr 1fr;gap:14px;margin:0 0 40px}.cd-card{padding:20px 24px;border-radius:24px;background:var(--card);border:1px solid rgba(255,255,255,.8);box-shadow:var(--shadow)}.cd-card.cd-main{background:linear-gradient(135deg,#161617,#303035);color:#fff;border-color:transparent}.cd-label{font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:var(--muted)}.cd-main .cd-label{color:#b8b8bd}.cd-time{font-size:clamp(26px,4vw,38px);font-weight:700;letter-spacing:-.03em;margin:8px 0 6px;font-variant-numeric:tabular-nums}.cd-time small{font-size:.5em;font-weight:600;color:var(--muted);margin:0 8px 0 3px;letter-spacing:0}.cd-main .cd-time small{color:#a7a7ad}.cd-when{font-size:14px;color:var(--muted);line-height:1.4}.cd-main .cd-when{color:#c7c7cc}@media(max-width:720px){.countdown{grid-template-columns:1fr;margin-bottom:30px}}
 </style>
 </head>
 <body>
 <main class="wrap">
+<nav class="tabs" aria-label="Разделы">
+<button class="tab active" data-view="wish">🎁 Вишлист</button>
+<button class="tab" data-view="tracks">🎧 Трек-лист</button>
+</nav>
+
+<section class="countdown" aria-label="Обратный отсчёт">
+<div class="cd-card cd-main"><div class="cd-label">🎉 До вечеринки</div><div class="cd-time" id="cd-party"></div><div class="cd-when" id="cd-party-when"></div></div>
+<div class="cd-card"><div class="cd-label">🎂 До дня рождения</div><div class="cd-time" id="cd-bday"></div><div class="cd-when" id="cd-bday-when"></div></div>
+</section>
+
+<div id="wish-view">
 <section class="hero">
 <div class="eyebrow">Birthday wishlist · 24</div>
 <h1>Вишлист<br>Славы.</h1>
@@ -95,10 +109,138 @@ a{color:inherit}.wrap{max-width:1120px;margin:auto;padding:64px 22px 80px}.hero{
 <p><strong>Небольшая просьба:</strong> цены здесь ориентировочные и со временем меняются. Яндекс Маркет, Ozon и Wildberries — ок; главное, чтобы продавец и товар выглядели надёжно.</p>
 <p>Если хочется подарить что-то не из списка — технологии, Apple, умный дом и сложный LEGO почти всегда хорошее направление. Но лучше не брать мелкие аксессуары «в дополнение» к вещи, которой у меня ещё нет.</p>
 </footer>
+</div>
+
+<div id="tracks-view" class="hidden">
+<section class="hero">
+<div class="eyebrow">DJ set · 24</div>
+<h1>Трек-лист<br>вечеринки.</h1>
+<p class="lead">На ДР я буду играть DJ-сет. Накидай треки, которые хочешь услышать: постараюсь вплести их в сет. Чем больше людей просят трек, тем выше он в списке.</p>
+</section>
+<article class="card hero-card tracks-hero">
+<div class="tag">ЗАКАЖИ ТРЕК</div>
+<h2>Что поставить?</h2>
+<p class="desc">Заполни короткую форму: можно сразу несколько треков, по одному на строку. Новые треки появляются здесь в течение пары минут.</p>
+<div class="actions"><a class="btn" id="form-link" href="#" target="_blank" rel="noopener">Добавить трек ↗</a></div>
+</article>
+<div class="tracks-meta"><span id="tracks-count"></span><span id="tracks-updated"></span></div>
+<ol class="tracks" id="tracks"></ol>
+</div>
 </main>
 <script>
-const buttons=document.querySelectorAll('.filter'), cards=document.querySelectorAll('.card');
+/* ===== Настройки трек-листа ===== */
+const TRACKS_CONFIG = {
+  formUrl: 'https://docs.google.com/forms/d/e/1FAIpQLScbUKEqQElL0g2Fc0I4_YcpULmJ190XXyyWmkrdBk2F1tKsKw/viewform', // ссылка на Google Form (для гостей)
+  csvUrl:  'https://docs.google.com/spreadsheets/d/e/2PACX-1vRK64frfEztj59uKf1slmXNl18mc1P21TyLF1mqcQEVhg1eT4I3dYQ3h7Owdsh7NZJhdEz88-quGJQ6/pub?gid=109961266&single=true&output=csv', // Таблица ответов → Файл → Поделиться → Опубликовать в интернете → лист ответов → CSV
+  refreshMs: 60000
+};
+
+const buttons=document.querySelectorAll('.filter'), cards=document.querySelectorAll('.card[data-cat]');
 buttons.forEach(b=>b.addEventListener('click',()=>{buttons.forEach(x=>x.classList.remove('active'));b.classList.add('active');const f=b.dataset.filter;cards.forEach(c=>c.classList.toggle('hidden',f!=='all'&&!c.dataset.cat.split(' ').includes(f)));}));
+
+/* ===== Вкладки ===== */
+const tabs=document.querySelectorAll('.tab');
+function showView(v){
+  tabs.forEach(t=>t.classList.toggle('active',t.dataset.view===v));
+  document.getElementById('wish-view').classList.toggle('hidden',v!=='wish');
+  document.getElementById('tracks-view').classList.toggle('hidden',v!=='tracks');
+  if(v==='tracks') loadTracks();
+}
+tabs.forEach(t=>t.addEventListener('click',()=>{history.replaceState(null,'',t.dataset.view==='tracks'?'#tracks':location.pathname);showView(t.dataset.view);}));
+window.addEventListener('hashchange',()=>showView(location.hash==='#tracks'?'tracks':'wish'));
+
+/* ===== Трек-лист ===== */
+document.getElementById('form-link').href=TRACKS_CONFIG.formUrl||'#';
+const listEl=document.getElementById('tracks'), countEl=document.getElementById('tracks-count'), updEl=document.getElementById('tracks-updated');
+
+function parseCSV(text){
+  const rows=[];let row=[],f='',q=false;
+  for(let i=0;i<text.length;i++){const c=text[i];
+    if(q){if(c==='"'){if(text[i+1]==='"'){f+='"';i++;}else q=false;}else f+=c;}
+    else if(c==='"')q=true;else if(c===',' ){row.push(f);f='';}
+    else if(c==='\n'||c==='\r'){if(c==='\r'&&text[i+1]==='\n')i++;row.push(f);rows.push(row);row=[];f='';}
+    else f+=c;}
+  if(f||row.length){row.push(f);rows.push(row);}
+  return rows.filter(r=>r.some(x=>x.trim()));
+}
+function col(h,re,fb){const i=h.findIndex(x=>re.test(x));return i>=0?i:fb;}
+function el(tag,cls,text){const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e;}
+function message(t){listEl.replaceChildren(el('li','empty',t));}
+
+async function loadTracks(){
+  if(!TRACKS_CONFIG.csvUrl){message('Трек-лист скоро откроется 🎧');return;}
+  try{
+    const r=await fetch(TRACKS_CONFIG.csvUrl,{cache:'no-store'});
+    if(!r.ok)throw new Error(r.status);
+    const rows=parseCSV(await r.text()); if(!rows.length){message('Пока пусто. Будь первым!');return;}
+    const h=rows[0].map(x=>x.toLowerCase());
+    const iA=col(h,/исполн|артист|artist/,-1), iT=col(h,/назван|песн|title/,-1), iL=col(h,/^треки|tracks/,-1),
+          iN=col(h,/имя|кто|name/,-1), iS=col(h,/статус|status/,-1);
+    const map=new Map();
+    const add=(artist,title,url,name,played,idx)=>{
+      artist=artist.trim().slice(0,120); title=title.trim().slice(0,160);
+      if(!artist&&!title&&!url)return;
+      const key=(url||artist+'|'+title).toLowerCase().replace(/\s+/g,' ');
+      const g=map.get(key)||{artist,title,url,names:[],count:0,played:false,order:idx};
+      g.count++; g.order=idx;
+      if(name&&!g.names.includes(name))g.names.push(name);
+      if(played)g.played=true;
+      map.set(key,g);
+    };
+    rows.slice(1).forEach((r,idx)=>{
+      const name=iN>=0?(r[iN]||'').trim().slice(0,40):'';
+      const played=iS>=0&&/сыгр|played|✓|✔|^да$|^\+$/i.test((r[iS]||'').trim());
+      if(iA>=0||iT>=0) add(iA>=0?r[iA]||'':'', iT>=0?r[iT]||'':'', '', name, played, idx);
+      if(iL>=0) (r[iL]||'').split(/\r?\n/).forEach(line=>{
+        line=line.replace(/^\s*(\d+[.)]|[-•*])\s*/,'').trim(); if(!line)return;
+        const u=line.match(/https?:\/\/\S+/);
+        if(u&&line.replace(u[0],'').trim()===''){add('','',u[0].slice(0,300),name,played,idx);return;}
+        const m=line.match(/^(.+?)\s+[—–-]\s+(.+)$/);
+        m?add(m[1],m[2],'',name,played,idx):add('',line,'',name,played,idx);
+      });
+    });
+    const list=[...map.values()].sort((a,b)=>a.played-b.played||b.count-a.count||b.order-a.order);
+    if(!list.length){message('Пока пусто. Будь первым!');return;}
+    listEl.replaceChildren(...list.map((g,i)=>{
+      const li=el('li','track'+(g.played?' played':''));
+      li.append(el('div','num',String(i+1)));
+      const info=el('div','info');
+      if(g.url){const a=el('a','t','Ссылка на трек ↗');a.href=/^https?:/.test(g.url)?g.url:'#';a.target='_blank';a.rel='noopener nofollow';info.append(a,el('div','a',g.url.replace(/^https?:\/\/(www\.)?/,'').slice(0,60)));}
+      else{info.append(el('div','t',g.title||'Без названия'));if(g.artist)info.append(el('div','a',g.artist));}
+      if(g.names.length)info.append(el('div','by','от '+g.names.join(', ')));
+      li.append(info);
+      if(g.played)li.append(el('span','badge','сыграно'));
+      else if(g.count>1)li.append(el('span','badge hot','×'+g.count));
+      return li;
+    }));
+    const played=list.filter(g=>g.played).length;
+    countEl.textContent=`${list.length} ${plural(list.length,['трек','трека','треков'])}`+(played?` · сыграно ${played}`:'');
+    updEl.textContent='обновлено в '+new Date().toLocaleTimeString('ru-RU',{hour:'2-digit',minute:'2-digit'});
+  }catch(e){ if(!listEl.querySelector('.track'))message('Не получилось загрузить список. Попробуй обновить страницу чуть позже.'); }
+}
+function plural(n,f){const a=n%100,b=n%10;return f[a>10&&a<20?2:b===1?0:b>=2&&b<=4?1:2];}
+setInterval(()=>{if(!document.getElementById('tracks-view').classList.contains('hidden'))loadTracks();},TRACKS_CONFIG.refreshMs);
+showView(location.hash==='#tracks'?'tracks':'wish');
+
+/* ===== Обратный отсчёт (время задано в GMT+4, показывается в часовом поясе гостя) ===== */
+const EVENTS=[
+  {id:'party',at:new Date('2026-10-31T15:00:00+04:00'),done:'Уже тусим 🎉'},
+  {id:'bday', at:new Date('2026-10-28T13:00:00+04:00'),done:'Мне уже 24 🥳'}
+];
+EVENTS.forEach(e=>{
+  const w=e.at.toLocaleString('ru-RU',{weekday:'long',day:'numeric',month:'long',hour:'2-digit',minute:'2-digit',timeZoneName:'short'});
+  document.getElementById('cd-'+e.id+'-when').textContent=w.charAt(0).toUpperCase()+w.slice(1)+' · по вашему времени';
+});
+function tickCountdown(){
+  const now=Date.now();
+  EVENTS.forEach(e=>{
+    const el=document.getElementById('cd-'+e.id); let ms=e.at-now;
+    if(ms<=0){el.textContent=e.done;return;}
+    const d=Math.floor(ms/864e5),h=Math.floor(ms/36e5)%24,m=Math.floor(ms/6e4)%60,sec=Math.floor(ms/1e3)%60,p=n=>String(n).padStart(2,'0');
+    el.innerHTML=(d?`${d}<small>${plural(d,['день','дня','дней'])}</small>`:'')+`${p(h)}<small>ч</small>${p(m)}<small>мин</small>${p(sec)}<small>с</small>`;
+  });
+}
+tickCountdown(); setInterval(tickCountdown,1000);
 </script>
 </body>
 </html>
