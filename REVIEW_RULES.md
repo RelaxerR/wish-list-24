@@ -68,9 +68,9 @@
   "version": 1,
   "updatedAt": "ISO-8601 с часовым поясом, например 2026-10-13T00:05:00+04:00",
   "responsesSeen": 0,
-  "summary": "2–4 предложения по-русски: что нового, как выглядит сет, на что обратить внимание",
+  "summary": "1–2 коротких предложения для ГОСТЕЙ (страница публичная): без слов «папка», «скачать», «Claude», без диджейской кухни",
   "set": [{ "artist": "", "title": "", "from": ["имя"], "suggested": false,
-            "block": "tech|sing|ukg|dubstep|other", "genre": "", "bpm": 0, "key": "", "camelot": "",
+            "wave": 1, "block": "tech|sing|ukg|dubstep|other", "genre": "", "bpm": 0, "key": "", "camelot": "",
             "note": "", "sources": ["url"],
             "inCrate": true, "pack": "папка в DJ", "download": "url для скачивания, если нет в папке" }],
   "rejected": [{ "artist": "", "title": "", "from": ["имя"], "reason": "" }],
@@ -79,5 +79,8 @@
   "library": { "исполнитель|название": { "bpm": 0, "key": "", "camelot": "", "genre": "", "sources": [] } }
 }
 ```
+
+Страница показывает только порядок, исполнителя, название, кто заказал, BPM и Camelot. `note`, `inCrate`, `download`
+и `suggestions` — служебные, для диджея (видны в JSON и в отчёте задачи), держать их короткими.
 
 `index.html` не трогать — страница сама рендерит `review.json`.
