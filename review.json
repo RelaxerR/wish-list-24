@@ -1,8 +1,8 @@
 {
  "version": 1,
- "updatedAt": "2026-10-13T00:03:48+04:00",
- "responsesSeen": 1,
- "summary": "Пришла первая заявка: Zivert и Ёлка уже в сете — в первой и третьей волне. «Cold Carti» найти не удалось — напиши, пожалуйста, исполнителя и точное название.",
+ "updatedAt": "2026-10-14T00:18:09+04:00",
+ "responsesSeen": 2,
+ "summary": "Пришла заявка от Марика: «Династия», «Jealous», «утекай» тёмного принца и два трека Хаски уже расставлены по волнам. «так по**й» не ложится по темпу — вместо него предложен Malo 3.0 в UK garage-версии. Алёна, «Cold Carti» всё ещё ждёт точного названия.",
  "set": [
   {
    "artist": "DJ BALDIN",
@@ -88,20 +88,25 @@
    "download": null
   },
   {
-   "artist": "Макс Корж",
-   "title": "Жить в кайф (Denis Repin intro)",
-   "from": [],
+   "artist": "Хаски",
+   "title": "Ветром снегом зноем",
    "suggested": false,
-   "inCrate": true,
+   "wave": 1,
    "block": "sing",
-   "genre": "Pop",
-   "bpm": 127,
-   "key": "Am",
-   "camelot": "8A",
-   "note": "8A → 8A: длинный бленд.",
-   "pack": "918-holi-fest-2025",
-   "sources": [],
-   "wave": 1
+   "genre": "Hip-Hop",
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "note": "BPM/тональность в открытых базах не нашлись — сверь в rekordbox. После Zivert заходи катом с фразы. На Muzvizor/PromoDJ нет — оригинал из стриминга.",
+   "sources": [
+    "https://soundcloud.com/huskymus/vetrom-snegom-znoem-12"
+   ],
+   "inCrate": false,
+   "pack": null,
+   "download": null,
+   "from": [
+    "Марик"
+   ]
   },
   {
    "artist": "JFL",
@@ -114,7 +119,7 @@
    "bpm": 135,
    "key": "Am",
    "camelot": "8A",
-   "note": "Вход в UKG (волна 1). Та же тональность, что у предыдущего (8A): можно длинный бленд. Скачок темпа 127 → 135 BPM: не тяни бленд, заходи с фразы.",
+   "note": "Вход в UKG (волна 1). Тональность предыдущего неизвестна: заходи катом с фразы, без длинного бленда.",
    "pack": "806-wiike-uk-prime-time",
    "sources": [],
    "wave": 1
@@ -267,20 +272,26 @@
    "wave": 2
   },
   {
-   "artist": "Валерий Меладзе",
-   "title": "Салют, Вера! (SLIM X CORTO Remix Extended)",
-   "from": [],
+   "artist": "Хаски",
+   "title": "Бит шатает голову",
    "suggested": false,
-   "inCrate": true,
+   "wave": 2,
    "block": "sing",
-   "genre": "POP",
-   "bpm": 128,
-   "key": "Cm",
-   "camelot": "5A",
-   "note": "Та же тональность, что у предыдущего (5A): можно длинный бленд.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 2
+   "genre": "Hip-Hop",
+   "bpm": 130,
+   "key": "Gm",
+   "camelot": "6A",
+   "note": "Гармоничный переход 5A → 6A, 126 → 130 BPM. В папке нет. Есть house-ремикс Dimas & D-Music на PromoDJ.",
+   "sources": [
+    "https://songbpm.com/@husky/bit-shataet-golovu",
+    "https://songdata.io/track/6VehXaOKqK4mzqTu7MTogd/-by-Husky"
+   ],
+   "inCrate": false,
+   "pack": null,
+   "download": "https://promodj.com/musicbydimas/remixes/7923922/Haski_Bit_shataet_golovu_Dimas_D_Music_Remix",
+   "from": [
+    "Марик"
+   ]
   },
   {
    "artist": "Entype X Club Angel",
@@ -293,7 +304,7 @@
    "bpm": 135,
    "key": "Gm",
    "camelot": "6A",
-   "note": "Вход в UKG (волна 2). Гармоничный переход 5A → 6A. Скачок темпа 128 → 135 BPM: не тяни бленд, заходи с фразы.",
+   "note": "Вход в UKG (волна 2). Та же тональность (6A): можно длинный бленд. Подтяни темп 130 → 135.",
    "pack": "1127-himik-blend-pack-part-2",
    "sources": [],
    "wave": 2
@@ -446,20 +457,26 @@
    "wave": 3
   },
   {
-   "artist": "Джиган feat. Artik & Asti & Niletto",
-   "title": "Худи (DJ Brooklyn Edit)",
-   "from": [],
+   "artist": "9mice, madk1d, неон крис, тёмный принц",
+   "title": "Jealous",
    "suggested": false,
-   "inCrate": true,
+   "wave": 3,
    "block": "sing",
-   "genre": "POP",
-   "bpm": 126,
-   "key": "4A",
-   "camelot": "4A",
-   "note": "Та же тональность, что у предыдущего (4A): можно длинный бленд.",
-   "pack": "918-holi-fest-2025",
-   "sources": [],
-   "wave": 3
+   "genre": "Hip-Hop",
+   "bpm": 132,
+   "key": "C#",
+   "camelot": "3B",
+   "note": "4A → 3B не дружат: кат/эхо-аут. Темп 125 → 132 — мостик к UKG. В папке нет, ремиксов на PromoDJ/Muzvizor не нашёл.",
+   "sources": [
+    "https://songbpm.com/@9mice/jealous-vbmiy",
+    "https://alarmify.com/wake-up-to/madk1d/"
+   ],
+   "inCrate": false,
+   "pack": null,
+   "download": null,
+   "from": [
+    "Марик"
+   ]
   },
   {
    "artist": "Aarne, BUSHIDO ZHO, ANIKV",
@@ -472,7 +489,7 @@
    "bpm": 132,
    "key": "Dm",
    "camelot": "7A",
-   "note": "Вход в UKG (волна 3). 4A → 7A не дружат: переход катом, эхо-аутом или на перкуссии. Скачок темпа 126 → 132 BPM: не тяни бленд, заходи с фразы.",
+   "note": "Вход в UKG (волна 3). 3B → 7A не дружат: заходи катом. Темп тот же (132) — можно сводить по биту.",
    "pack": "27-02-2026",
    "sources": [],
    "wave": 3
@@ -580,20 +597,26 @@
    "wave": 4
   },
   {
-   "artist": "Joey Negro and The Sunburst Band",
-   "title": "Journey To The Sun (Dennis Ferrer Remix) (Edit)",
-   "from": [],
+   "artist": "VILLIAN, madk1d",
+   "title": "ДИНАСТИЯ (RomaBravo Remix)",
    "suggested": false,
-   "inCrate": true,
+   "wave": 4,
    "block": "tech",
-   "genre": "House",
-   "bpm": 126,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
-   "pack": "374-ricky-stark-deep-style-mix-part-6",
-   "sources": [],
-   "wave": 4
+   "genre": "Club House",
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "note": "BPM/тональность ремикса не указаны (оригинал 155 BPM, 11B) — сверь в rekordbox. Альтернатива: Hardovich & Hankti Baile Funk Blend.",
+   "sources": [
+    "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix",
+    "https://tunebat.com/Info/-madk1d-/36DnMjOyWBOZLgWYm2KWFz"
+   ],
+   "inCrate": false,
+   "pack": null,
+   "download": "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix",
+   "from": [
+    "Марик"
+   ]
   },
   {
    "artist": "PHARAOH",
@@ -606,26 +629,32 @@
    "bpm": 130,
    "key": "Dm",
    "camelot": "7A",
-   "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
+   "note": "Тональность предыдущего неизвестна — сверь на слух; если не ложится, вход на перкуссии.",
    "pack": "09-02-26",
    "sources": [],
    "wave": 4
   },
   {
-   "artist": "Мумий Тролль",
-   "title": "Утекай",
-   "from": [],
+   "artist": "тёмный принц",
+   "title": "утекай",
    "suggested": false,
-   "inCrate": true,
+   "wave": 4,
    "block": "sing",
-   "genre": "Disco",
-   "bpm": 124,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Вход в «попеть» (волна 4). 7A → 9A не дружат: переход катом, эхо-аутом или на перкуссии. Скачок темпа 130 → 124 BPM: не тяни бленд, заходи с фразы.",
-   "pack": "21.12.2024 - disco 80-90",
-   "sources": [],
-   "wave": 4
+   "genre": "Hip-Hop",
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "note": "Вход в «попеть» (волна 4). BPM/тональность не нашлись. В папке есть оригинал Мумий Тролль — Утекай (124, 9A) — можно сыграть рядом. На Muzvizor/PromoDJ нет.",
+   "sources": [
+    "https://www.shazam.com/song/6788463411/d183d182d0b5d0bad0b0d0b9",
+    "https://lyricsraag.com/utekai-flow-away-militantum-translation/"
+   ],
+   "inCrate": false,
+   "pack": null,
+   "download": null,
+   "from": [
+    "Марик"
+   ]
   },
   {
    "artist": "Барбарики",
@@ -638,7 +667,7 @@
    "bpm": 140,
    "key": "Dm",
    "camelot": "7A",
-   "note": "9A → 7A не дружат: переход катом, эхо-аутом или на перкуссии. Скачок темпа 124 → 140 BPM: не тяни бленд, заходи с фразы.",
+   "note": "Тональность предыдущего неизвестна: переход катом. Скачок темпа до 140 BPM — заходи с фразы.",
    "pack": "09-02-26",
    "sources": [],
    "wave": 4
@@ -738,6 +767,14 @@
     "Алёна"
    ],
    "reason": "Трек не находится в открытых источниках — уточни исполнителя и название (возможно, Playboi Carti?)."
+  },
+  {
+   "artist": "madk1d",
+   "title": "так по**й",
+   "from": [
+    "Марик"
+   ],
+   "reason": "Оригинал 80 BPM, а клубная версия есть только в drum & bass (174 BPM) — в волны не ложится. Вместо него — Malo 3.0 в UK garage-версии."
   }
  ],
  "suggestions": [
@@ -780,6 +817,27 @@
    "key": null,
    "why": "Русскоязычный dubstep-пик на 150 BPM, если захочется добить волну.",
    "download": "https://muzvizor.com/genres/dubstep"
+  },
+  {
+   "artist": "Егор Крид, Дора, madk1d, тёмный принц x MIKIS",
+   "title": "Malo 3.0 (jeneocheck Edit)",
+   "block": "ukg",
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "why": "UK garage-версия с madk1d и тёмным принцем — для Марика вместо «так по**й».",
+   "instead": "madk1d — так по**й",
+   "download": "https://promodj.com/jeneocheck/remixes/7955532/Egor_Krid_Dora_madk1d_tyomniy_princ_x_MIKIS_Malo_3_0_jeneocheck_Edit"
+  },
+  {
+   "artist": "Хаски",
+   "title": "Бит шатает голову (Dimas & D-Music Remix)",
+   "block": "tech",
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "why": "House-версия заказа Марика, если оригинал (130) будет выбиваться из блока «попеть».",
+   "download": "https://promodj.com/musicbydimas/remixes/7923922/Haski_Bit_shataet_golovu_Dimas_D_Music_Remix"
   }
  ],
  "library": {
@@ -807,6 +865,73 @@
    "camelot": null,
    "genre": null,
    "sources": []
+  },
+  "хаски|ветром снегом зноем": {
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "genre": "Hip-Hop",
+   "sources": [
+    "https://soundcloud.com/huskymus/vetrom-snegom-znoem-12"
+   ]
+  },
+  "хаски|бит шатает голову": {
+   "bpm": 130,
+   "key": "Gm",
+   "camelot": "6A",
+   "genre": "Hip-Hop",
+   "sources": [
+    "https://songbpm.com/@husky/bit-shataet-golovu",
+    "https://songdata.io/track/6VehXaOKqK4mzqTu7MTogd/-by-Husky"
+   ]
+  },
+  "9mice, madk1d, неон крис, тёмный принц|jealous": {
+   "bpm": 132,
+   "key": "C#",
+   "camelot": "3B",
+   "genre": "Hip-Hop",
+   "sources": [
+    "https://songbpm.com/@9mice/jealous-vbmiy",
+    "https://alarmify.com/wake-up-to/madk1d/"
+   ]
+  },
+  "villian, madk1d|династия": {
+   "bpm": 155,
+   "key": "A",
+   "camelot": "11B",
+   "genre": "Hip-Hop",
+   "sources": [
+    "https://tunebat.com/Info/-madk1d-/36DnMjOyWBOZLgWYm2KWFz"
+   ]
+  },
+  "villian, madk1d|династия (romabravo remix)": {
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "genre": "Club House",
+   "sources": [
+    "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix"
+   ]
+  },
+  "тёмный принц|утекай": {
+   "bpm": null,
+   "key": null,
+   "camelot": null,
+   "genre": "Hip-Hop",
+   "sources": [
+    "https://www.shazam.com/song/6788463411/d183d182d0b5d0bad0b0d0b9",
+    "https://lyricsraag.com/utekai-flow-away-militantum-translation/"
+   ]
+  },
+  "madk1d|так похуй": {
+   "bpm": 80,
+   "key": null,
+   "camelot": null,
+   "genre": "Hip-Hop",
+   "sources": [
+    "https://alarmify.com/wake-up-to/madk1d/",
+    "https://promodj.com/djflasher/remixes/7749916/Madk1d_tak_po_DJ_Flasher_Blend"
+   ]
   }
  }
 }
