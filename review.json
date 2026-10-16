@@ -1,937 +1,1112 @@
 {
- "version": 1,
- "updatedAt": "2026-10-14T00:18:09+04:00",
- "responsesSeen": 2,
- "summary": "Пришла заявка от Марика: «Династия», «Jealous», «утекай» тёмного принца и два трека Хаски уже расставлены по волнам. «так по**й» не ложится по темпу — вместо него предложен Malo 3.0 в UK garage-версии. Алёна, «Cold Carti» всё ещё ждёт точного названия.",
- "set": [
-  {
-   "artist": "DJ BALDIN",
-   "title": "Ты меня забудь (2024 Version)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "TECHNO",
-   "bpm": 126,
-   "key": "Bm",
-   "camelot": "10A",
-   "note": "Открывает сет: мягкий 126 BPM, есть куда разгонять.",
-   "pack": "2166-dj-baldin-special-blend-pack",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "Gwen Stefani",
-   "title": "Hollaback girl (Coka Cobra & Kaya remix)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "TECH, BASS",
-   "bpm": 126,
-   "key": "9A",
-   "camelot": "9A",
-   "note": "Гармоничный переход 10A → 9A.",
-   "pack": "83-dj-denis-repin-club-bar-5",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "Robin S, Kuba & Neitan",
-   "title": "Show me love (Alex Shik mashup)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "TECH, BASS",
-   "bpm": 126,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-   "pack": "83-dj-denis-repin-club-bar-5",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "SQWOZ BAB, O-SHUN",
-   "title": "TOKYO (Festus Mash Up)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "Tech, Bass",
-   "bpm": 128,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "Zivert",
-   "title": "Эгоистка (Silver Ace & Onix Remix)",
-   "from": [
-    "Алёна"
-   ],
-   "suggested": false,
-   "wave": 1,
-   "block": "sing",
-   "genre": "Club",
-   "bpm": 126,
-   "key": "Am",
-   "camelot": "8A",
-   "note": "Заказ «Zivert» (без названия) — взят ремикс из папки. Вход в «попеть»: 9A → 8A гармонично.",
-   "sources": [],
-   "inCrate": true,
-   "pack": null,
-   "download": null
-  },
-  {
-   "artist": "Хаски",
-   "title": "Ветром снегом зноем",
-   "suggested": false,
-   "wave": 1,
-   "block": "sing",
-   "genre": "Hip-Hop",
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "note": "BPM/тональность в открытых базах не нашлись — сверь в rekordbox. После Zivert заходи катом с фразы. На Muzvizor/PromoDJ нет — оригинал из стриминга.",
-   "sources": [
-    "https://soundcloud.com/huskymus/vetrom-snegom-znoem-12"
-   ],
-   "inCrate": false,
-   "pack": null,
-   "download": null,
-   "from": [
-    "Марик"
-   ]
-  },
-  {
-   "artist": "JFL",
-   "title": "No Diet",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "UK, 2 Step",
-   "bpm": 135,
-   "key": "Am",
-   "camelot": "8A",
-   "note": "Вход в UKG (волна 1). Тональность предыдущего неизвестна: заходи катом с фразы, без длинного бленда.",
-   "pack": "806-wiike-uk-prime-time",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "Flowdan",
-   "title": "Welcome To London (Bakey Edit)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "UK, 2 Step",
-   "bpm": 136,
-   "key": "Am",
-   "camelot": "8A",
-   "note": "Та же тональность, что у предыдущего (8A): можно длинный бленд.",
-   "pack": "806-wiike-uk-prime-time",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "IsGwan",
-   "title": "On a Ragga Tip Dub",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "UK, 2 Step",
-   "bpm": 138,
-   "key": "Am",
-   "camelot": "8A",
-   "note": "Та же тональность, что у предыдущего (8A): можно длинный бленд.",
-   "pack": "806-wiike-uk-prime-time",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "Travis Scott",
-   "title": "Goosebumps (Gorillat X Fraxure Remix) Final",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 142,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Вход в dubstep (волна 1). Гармоничный переход 8A → 9A.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 1
-  },
-  {
-   "artist": "ZEDD",
-   "title": "CLARITY (MAYETRIX, Endless Remix)",
-   "from": [],
-   "suggested": true,
-   "inCrate": false,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 140,
-   "key": null,
-   "camelot": "9A",
-   "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
-   "pack": null,
-   "sources": [
-    "https://muzvizor.com/genres/dubstep"
-   ],
-   "download": "https://muzvizor.com/genres/dubstep",
-   "wave": 1
-  },
-  {
-   "artist": "Tommy Cash",
-   "title": "Espresso Macchiato (Denis Repin edit)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "Tech",
-   "bpm": 125,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Вход в tech (волна 2). Та же тональность, что у предыдущего (9A): можно длинный бленд. Скачок темпа 140 → 125 BPM: не тяни бленд, заходи с фразы.",
-   "pack": "2088-dj-denis-repin-club-bar-7",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Doug Bass",
-   "title": "Be Light (Original Mix)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "House",
-   "bpm": 123,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-   "pack": "374-ricky-stark-deep-style-mix-part-6",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "DJ BALDIN",
-   "title": "Ветер меняет направление",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "TECHNO",
-   "bpm": 128,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-   "pack": "2166-dj-baldin-special-blend-pack",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Freejak",
-   "title": "Sol d'en Serra (Extended Mix)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "House",
-   "bpm": 130,
-   "key": "Em",
-   "camelot": "9A",
-   "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-   "pack": "249-stutter-house",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "ЕГОР КРИД x Eurythmics",
-   "title": "Самая самая (Ricky Stark Funky Blend)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "sing",
-   "genre": "POP",
-   "bpm": 126,
-   "key": "5A",
-   "camelot": "5A",
-   "note": "Вход в «попеть» (волна 2). 9A → 5A не дружат: переход катом, эхо-аутом или на перкуссии.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Хаски",
-   "title": "Бит шатает голову",
-   "suggested": false,
-   "wave": 2,
-   "block": "sing",
-   "genre": "Hip-Hop",
-   "bpm": 130,
-   "key": "Gm",
-   "camelot": "6A",
-   "note": "Гармоничный переход 5A → 6A, 126 → 130 BPM. В папке нет. Есть house-ремикс Dimas & D-Music на PromoDJ.",
-   "sources": [
-    "https://songbpm.com/@husky/bit-shataet-golovu",
-    "https://songdata.io/track/6VehXaOKqK4mzqTu7MTogd/-by-Husky"
-   ],
-   "inCrate": false,
-   "pack": null,
-   "download": "https://promodj.com/musicbydimas/remixes/7923922/Haski_Bit_shataet_golovu_Dimas_D_Music_Remix",
-   "from": [
-    "Марик"
-   ]
-  },
-  {
-   "artist": "Entype X Club Angel",
-   "title": "Не нужна (HIMIK blend)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "UK, 2 Step",
-   "bpm": 135,
-   "key": "Gm",
-   "camelot": "6A",
-   "note": "Вход в UKG (волна 2). Та же тональность (6A): можно длинный бленд. Подтяни темп 130 → 135.",
-   "pack": "1127-himik-blend-pack-part-2",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Club Angel",
-   "title": "Control Dem",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "Uk, 2 step",
-   "bpm": 135,
-   "key": "Gm",
-   "camelot": "6A",
-   "note": "Та же тональность, что у предыдущего (6A): можно длинный бленд.",
-   "pack": "816-vibe-uk-garage-prime-time",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Masters At Work",
-   "title": "Work (Nei 'sammy virji Blend)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "UK, 2 Step",
-   "bpm": 136,
-   "key": "6A",
-   "camelot": "6A",
-   "note": "Та же тональность, что у предыдущего (6A): можно длинный бленд.",
-   "pack": "28.09.25",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Fisher",
-   "title": "Losing It (Sportmode Rmx)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 140,
-   "key": "Gm",
-   "camelot": "6A",
-   "note": "Вход в dubstep (волна 2). Та же тональность, что у предыдущего (6A): можно длинный бленд.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Fraxy",
-   "title": "Mr. Saxobeat (Fraxy 2025 Remix) (Muzvizor Intro)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 140,
-   "key": "Cm",
-   "camelot": "5A",
-   "note": "Гармоничный переход 6A → 5A.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 2
-  },
-  {
-   "artist": "Ёлка X Dimitri Vegas x Vin Diesel x Zion",
-   "title": "Прованс (Eidly Blend)",
-   "from": [
-    "Алёна"
-   ],
-   "suggested": false,
-   "wave": 3,
-   "block": "tech",
-   "genre": "House",
-   "bpm": 126,
-   "key": "Ebm",
-   "camelot": "2A",
-   "note": "Заказ «Ёлка» (без названия) — взят бленд «Прованса» из папки. Вход в tech (волна 3) после 140 BPM: заходи катом с фразы. 2A → 5A не дружат: уходи на перкуссии.",
-   "sources": [],
-   "inCrate": true,
-   "pack": null,
-   "download": null
-  },
-  {
-   "artist": "Aki Bergen",
-   "title": "Get On",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "House",
-   "bpm": 125,
-   "key": "Cm",
-   "camelot": "5A",
-   "note": "2A → 5A не гармонично: переход на перкуссии/эффекте.",
-   "pack": "374-ricky-stark-deep-style-mix-part-6",
-   "sources": [],
-   "wave": 3
-  },
-  {
-   "artist": "Gorilla Zippo",
-   "title": "Танцую до утра (Nei 'nostatic' Blend)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "Tech",
-   "bpm": 130,
-   "key": "5A",
-   "camelot": "5A",
-   "note": "Та же тональность, что у предыдущего (5A): можно длинный бленд.",
-   "pack": "28.09.25",
-   "sources": [],
-   "wave": 3
-  },
-  {
-   "artist": "BUNT.",
-   "title": "Paperplanes (Ricky Stark Intro)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "House",
-   "bpm": 128,
-   "key": "Cm",
-   "camelot": "5A",
-   "note": "Та же тональность, что у предыдущего (5A): можно длинный бленд.",
-   "pack": "249-stutter-house",
-   "sources": [],
-   "wave": 3
-  },
-  {
-   "artist": "ANNA ASTI",
-   "title": "Царица (Kolya Funk Blend)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "sing",
-   "genre": "POP",
-   "bpm": 125,
-   "key": "4A",
-   "camelot": "4A",
-   "note": "Вход в «попеть» (волна 3). Гармоничный переход 5A → 4A.",
-   "pack": "918-holi-fest-2025",
-   "sources": [],
-   "wave": 3
-  },
-  {
-   "artist": "9mice, madk1d, неон крис, тёмный принц",
-   "title": "Jealous",
-   "suggested": false,
-   "wave": 3,
-   "block": "sing",
-   "genre": "Hip-Hop",
-   "bpm": 132,
-   "key": "C#",
-   "camelot": "3B",
-   "note": "4A → 3B не дружат: кат/эхо-аут. Темп 125 → 132 — мостик к UKG. В папке нет, ремиксов на PromoDJ/Muzvizor не нашёл.",
-   "sources": [
-    "https://songbpm.com/@9mice/jealous-vbmiy",
-    "https://alarmify.com/wake-up-to/madk1d/"
-   ],
-   "inCrate": false,
-   "pack": null,
-   "download": null,
-   "from": [
-    "Марик"
-   ]
-  },
-  {
-   "artist": "Aarne, BUSHIDO ZHO, ANIKV",
-   "title": "Тесно x Shakir (WZDQ Edit)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "Uk, 2 Step",
-   "bpm": 132,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Вход в UKG (волна 3). 3B → 7A не дружат: заходи катом. Темп тот же (132) — можно сводить по биту.",
-   "pack": "27-02-2026",
-   "sources": [],
-   "wave": 3
-  },
-  {
-   "artist": "bullet tooth, Xpansions",
-   "title": "Move Your Body",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "Uk, 2 step",
-   "bpm": 136,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
-   "pack": "816-vibe-uk-garage-prime-time",
-   "sources": [],
-   "wave": 3
-  },
-  {
-   "artist": "Basement Jaxx",
-   "title": "Fly Life (salute Remix)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "Uk, 2 step",
-   "bpm": 137,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
-   "pack": "816-vibe-uk-garage-prime-time",
-   "sources": [],
-   "wave": 3
-  },
-  {
-   "artist": "Kesha",
-   "title": "TikTok (MAYETRIX Remix)",
-   "from": [],
-   "suggested": true,
-   "inCrate": false,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 141,
-   "key": null,
-   "camelot": "7A",
-   "note": "Вход в dubstep (волна 3). Та же тональность, что у предыдущего (7A): можно длинный бленд. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
-   "pack": null,
-   "sources": [
-    "https://muzvizor.com/genres/dubstep"
-   ],
-   "download": "https://muzvizor.com/genres/dubstep",
-   "wave": 3
-  },
-  {
-   "artist": "Black Eyed Peas",
-   "title": "BOOM BOOM POW (K3ONI CLUB WEAPON EDIT)",
-   "from": [],
-   "suggested": true,
-   "inCrate": false,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 140,
-   "key": null,
-   "camelot": "7A",
-   "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
-   "pack": null,
-   "sources": [
-    "https://muzvizor.com/genres/dubstep"
-   ],
-   "download": "https://muzvizor.com/genres/dubstep",
-   "wave": 3
-  },
-  {
-   "artist": "Piero Pirupa, Gala, Sidepiece",
-   "title": "We don't need, Freed from desire, Don't keep me waiting (Aurelios mashup mix)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "TECH, BASS",
-   "bpm": 125,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Вход в tech (волна 4). Та же тональность, что у предыдущего (7A): можно длинный бленд. Скачок темпа 140 → 125 BPM: не тяни бленд, заходи с фразы.",
-   "pack": "83-dj-denis-repin-club-bar-5",
-   "sources": [],
-   "wave": 4
-  },
-  {
-   "artist": "Reel 2 Real",
-   "title": "I like to move it (Nome bootleg)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "TECH, BASS",
-   "bpm": 125,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
-   "pack": "83-dj-denis-repin-club-bar-5",
-   "sources": [],
-   "wave": 4
-  },
-  {
-   "artist": "VILLIAN, madk1d",
-   "title": "ДИНАСТИЯ (RomaBravo Remix)",
-   "suggested": false,
-   "wave": 4,
-   "block": "tech",
-   "genre": "Club House",
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "note": "BPM/тональность ремикса не указаны (оригинал 155 BPM, 11B) — сверь в rekordbox. Альтернатива: Hardovich & Hankti Baile Funk Blend.",
-   "sources": [
-    "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix",
-    "https://tunebat.com/Info/-madk1d-/36DnMjOyWBOZLgWYm2KWFz"
-   ],
-   "inCrate": false,
-   "pack": null,
-   "download": "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix",
-   "from": [
-    "Марик"
-   ]
-  },
-  {
-   "artist": "PHARAOH",
-   "title": "Black Siemens (Nei Blend)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "tech",
-   "genre": "Tech",
-   "bpm": 130,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Тональность предыдущего неизвестна — сверь на слух; если не ложится, вход на перкуссии.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 4
-  },
-  {
-   "artist": "тёмный принц",
-   "title": "утекай",
-   "suggested": false,
-   "wave": 4,
-   "block": "sing",
-   "genre": "Hip-Hop",
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "note": "Вход в «попеть» (волна 4). BPM/тональность не нашлись. В папке есть оригинал Мумий Тролль — Утекай (124, 9A) — можно сыграть рядом. На Muzvizor/PromoDJ нет.",
-   "sources": [
-    "https://www.shazam.com/song/6788463411/d183d182d0b5d0bad0b0d0b9",
-    "https://lyricsraag.com/utekai-flow-away-militantum-translation/"
-   ],
-   "inCrate": false,
-   "pack": null,
-   "download": null,
-   "from": [
-    "Марик"
-   ]
-  },
-  {
-   "artist": "Барбарики",
-   "title": "С днем рождения",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "sing",
-   "genre": "pop",
-   "bpm": 140,
-   "key": "Dm",
-   "camelot": "7A",
-   "note": "Тональность предыдущего неизвестна: переход катом. Скачок темпа до 140 BPM — заходи с фразы.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 4
-  },
-  {
-   "artist": "Skrillex feat. Sirah",
-   "title": "Kyoto (Spin Off Reboot)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "Uk, 2 step",
-   "bpm": 136,
-   "key": "F#m",
-   "camelot": "11A",
-   "note": "Вход в UKG (волна 4). 7A → 11A не дружат: переход катом, эхо-аутом или на перкуссии.",
-   "pack": "09-02-26",
-   "sources": [],
-   "wave": 4
-  },
-  {
-   "artist": "GRESHA",
-   "title": "i just want (u 2nite)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "UK, 2 Step",
-   "bpm": 136,
-   "key": "F#m",
-   "camelot": "11A",
-   "note": "Та же тональность, что у предыдущего (11A): можно длинный бленд.",
-   "pack": "806-wiike-uk-prime-time",
-   "sources": [],
-   "wave": 4
-  },
-  {
-   "artist": "Тима Белорусских",
-   "title": "МОКРЫЕ КРОССЫ (Nei 'Bushbaby' Blend)",
-   "from": [],
-   "suggested": false,
-   "inCrate": true,
-   "block": "ukg",
-   "genre": "UK, 2 STEP",
-   "bpm": 138,
-   "key": "Bm",
-   "camelot": "10A",
-   "note": "Гармоничный переход 11A → 10A.",
-   "pack": "29.06.25 - Party 9's class",
-   "sources": [],
-   "wave": 4
-  },
-  {
-   "artist": "PHARAOH, BOULEVARD DEPO, HOL!",
-   "title": "5 МИНУТ НАЗАД (ONEWIX MASHUP)",
-   "from": [],
-   "suggested": true,
-   "inCrate": false,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 145,
-   "key": null,
-   "camelot": "9A",
-   "note": "Вход в dubstep (волна 4). Гармоничный переход 10A → 9A. Скачок темпа 138 → 145 BPM: не тяни бленд, заходи с фразы. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
-   "pack": null,
-   "sources": [
-    "https://muzvizor.com/genres/dubstep"
-   ],
-   "download": "https://muzvizor.com/genres/dubstep",
-   "wave": 4
-  },
-  {
-   "artist": "Benny Benassi",
-   "title": "SATISFACTION (JOHN KHO REMIX)",
-   "from": [],
-   "suggested": true,
-   "inCrate": false,
-   "block": "dubstep",
-   "genre": "Dubstep",
-   "bpm": 140,
-   "key": null,
-   "camelot": "12A",
-   "note": "9A → 12A не дружат: переход катом, эхо-аутом или на перкуссии. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
-   "pack": null,
-   "sources": [
-    "https://muzvizor.com/genres/dubstep"
-   ],
-   "download": "https://muzvizor.com/genres/dubstep",
-   "wave": 4
+  "version": 1,
+  "updatedAt": "2026-10-17T00:12:41+04:00",
+  "responsesSeen": 3,
+  "summary": "Пришла большая заявка от Славика: Fred again.., Kizaru, SQWOZ BAB, Big Baby Tape, Miyagi, GONE.Fludd, Volac, LYNY и другие уже расставлены по всем четырём волнам, а в финале звучит «С днём рождения». Shakira пока не в сете — нужна конкретная песня.",
+  "set": [
+    {
+      "artist": "DJ BALDIN",
+      "title": "Ты меня забудь (2024 Version)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "TECHNO",
+      "bpm": 126,
+      "key": "Bm",
+      "camelot": "10A",
+      "note": "Открывает сет: мягкий 126 BPM, есть куда разгонять.",
+      "pack": "2166-dj-baldin-special-blend-pack",
+      "sources": [],
+      "wave": 1
+    },
+    {
+      "artist": "Gwen Stefani",
+      "title": "Hollaback girl (Coka Cobra & Kaya remix)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "TECH, BASS",
+      "bpm": 126,
+      "key": "9A",
+      "camelot": "9A",
+      "note": "Гармоничный переход 10A → 9A.",
+      "pack": "83-dj-denis-repin-club-bar-5",
+      "sources": [],
+      "wave": 1
+    },
+    {
+      "artist": "SQWOZ BAB, O-SHUN",
+      "title": "TOKYO (Festus Mash Up)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "Tech, Bass",
+      "bpm": 128,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "Заказ «SQWOZ_BAB» — взят мэшап TOKYO из папки. 9A → 9A: длинный бленд.",
+      "pack": "09-02-26",
+      "sources": [],
+      "wave": 1
+    },
+    {
+      "artist": "Skrillex, Fred Again.., Flowdan",
+      "title": "Rumble (Gusto Palace Bootleg)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "tech",
+      "genre": "TECH",
+      "bpm": 128,
+      "key": "Am",
+      "camelot": "8A",
+      "note": "Заказ «Fred Again» — бутлег из папки. 9A → 8A гармонично, дальше в Zivert (8A).",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 1
+    },
+    {
+      "artist": "Zivert",
+      "title": "Эгоистка (Silver Ace & Onix Remix)",
+      "from": [
+        "Алёна"
+      ],
+      "suggested": false,
+      "wave": 1,
+      "block": "sing",
+      "genre": "Club",
+      "bpm": 126,
+      "key": "Am",
+      "camelot": "8A",
+      "note": "Заказ «Zivert» (без названия) — взят ремикс из папки. Вход в «попеть»: 9A → 8A гармонично.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null
+    },
+    {
+      "artist": "Хаски",
+      "title": "Ветром снегом зноем",
+      "suggested": false,
+      "wave": 1,
+      "block": "sing",
+      "genre": "Hip-Hop",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "note": "BPM/тональность в открытых базах не нашлись — сверь в rekordbox. После Zivert заходи катом с фразы. На Muzvizor/PromoDJ нет — оригинал из стриминга.",
+      "sources": [
+        "https://soundcloud.com/huskymus/vetrom-snegom-znoem-12"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null,
+      "from": [
+        "Марик"
+      ]
+    },
+    {
+      "artist": "JFL",
+      "title": "No Diet",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "UK, 2 Step",
+      "bpm": 135,
+      "key": "Am",
+      "camelot": "8A",
+      "note": "Вход в UKG (волна 1). Тональность предыдущего неизвестна: заходи катом с фразы, без длинного бленда.",
+      "pack": "806-wiike-uk-prime-time",
+      "sources": [],
+      "wave": 1
+    },
+    {
+      "artist": "Flowdan",
+      "title": "Welcome To London (Bakey Edit)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "UK, 2 Step",
+      "bpm": 136,
+      "key": "Am",
+      "camelot": "8A",
+      "note": "Та же тональность, что у предыдущего (8A): можно длинный бленд.",
+      "pack": "806-wiike-uk-prime-time",
+      "sources": [],
+      "wave": 1
+    },
+    {
+      "artist": "IsGwan",
+      "title": "On a Ragga Tip Dub",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "UK, 2 Step",
+      "bpm": 138,
+      "key": "Am",
+      "camelot": "8A",
+      "note": "Та же тональность, что у предыдущего (8A): можно длинный бленд.",
+      "pack": "806-wiike-uk-prime-time",
+      "sources": [],
+      "wave": 1
+    },
+    {
+      "artist": "Travis Scott",
+      "title": "Goosebumps (Gorillat X Fraxure Remix) Final",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "dubstep",
+      "genre": "Dubstep",
+      "bpm": 142,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "Вход в dubstep (волна 1). Гармоничный переход 8A → 9A.",
+      "pack": "09-02-26",
+      "sources": [],
+      "wave": 1
+    },
+    {
+      "artist": "Kashin, DJ CURRY",
+      "title": "BADMAN",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "dubstep",
+      "genre": "NEW",
+      "bpm": 140,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "Заказ «Kashin» — единственный трек в папке. В тегах 70 BPM — по сетке это 140 half-time, проверь на слух. 9A → 9A гармонично. (тег: 70)",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 1
+    },
+    {
+      "artist": "Tommy Cash",
+      "title": "Espresso Macchiato (Denis Repin edit)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "Tech",
+      "bpm": 125,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "Вход в tech (волна 2). Та же тональность, что у предыдущего (9A): можно длинный бленд. Скачок темпа 140 → 125 BPM: не тяни бленд, заходи с фразы.",
+      "pack": "2088-dj-denis-repin-club-bar-7",
+      "sources": [],
+      "wave": 2
+    },
+    {
+      "artist": "Doug Bass",
+      "title": "Be Light (Original Mix)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "House",
+      "bpm": 123,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
+      "pack": "374-ricky-stark-deep-style-mix-part-6",
+      "sources": [],
+      "wave": 2
+    },
+    {
+      "artist": "DJ BALDIN",
+      "title": "Ветер меняет направление",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "TECHNO",
+      "bpm": 128,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
+      "pack": "2166-dj-baldin-special-blend-pack",
+      "sources": [],
+      "wave": 2
+    },
+    {
+      "artist": "Freejak",
+      "title": "Sol d'en Serra (Extended Mix)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "House",
+      "bpm": 130,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
+      "pack": "249-stutter-house",
+      "sources": [],
+      "wave": 2
+    },
+    {
+      "artist": "Bbno$, Rich Brian",
+      "title": "Edamame (Muzvizor intro)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "sing",
+      "genre": "POP",
+      "bpm": 106,
+      "key": "F#m",
+      "camelot": "11A",
+      "note": "Заказ «bbno$» — единственный трек в папке. 106 BPM после 130 — заходи катом с фразы; 11A → 6A (Хаски) тоже катом.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 2
+    },
+    {
+      "artist": "Хаски",
+      "title": "Бит шатает голову",
+      "suggested": false,
+      "wave": 2,
+      "block": "sing",
+      "genre": "Hip-Hop",
+      "bpm": 130,
+      "key": "Gm",
+      "camelot": "6A",
+      "note": "11A → 6A не дружат: кат. Дальше 6A в UKG. В папке нет — house-ремикс Dimas & D-Music на PromoDJ.",
+      "sources": [
+        "https://songbpm.com/@husky/bit-shataet-golovu",
+        "https://songdata.io/track/6VehXaOKqK4mzqTu7MTogd/-by-Husky"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": "https://promodj.com/musicbydimas/remixes/7923922/Haski_Bit_shataet_golovu_Dimas_D_Music_Remix",
+      "from": [
+        "Марик"
+      ]
+    },
+    {
+      "artist": "Entype X Club Angel",
+      "title": "Не нужна (HIMIK blend)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "UK, 2 Step",
+      "bpm": 135,
+      "key": "Gm",
+      "camelot": "6A",
+      "note": "Вход в UKG (волна 2). Та же тональность (6A): можно длинный бленд. Подтяни темп 130 → 135.",
+      "pack": "1127-himik-blend-pack-part-2",
+      "sources": [],
+      "wave": 2
+    },
+    {
+      "artist": "4eholl",
+      "title": "Самурай с бутылкой",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "ukg",
+      "genre": "electronics",
+      "bpm": 135,
+      "key": "Gm",
+      "camelot": "6A",
+      "note": "Заказ «4eholl» — трек из папки. Та же тональность 6A и 135 BPM, что у Не нужна: длинный бленд.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 2
+    },
+    {
+      "artist": "Masters At Work",
+      "title": "Work (Nei 'sammy virji Blend)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "UK, 2 Step",
+      "bpm": 136,
+      "key": "6A",
+      "camelot": "6A",
+      "note": "Та же тональность, что у предыдущего (6A): можно длинный бленд.",
+      "pack": "28.09.25",
+      "sources": [],
+      "wave": 2
+    },
+    {
+      "artist": "Fisher",
+      "title": "Losing It (Sportmode Rmx)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "dubstep",
+      "genre": "Dubstep",
+      "bpm": 140,
+      "key": "Gm",
+      "camelot": "6A",
+      "note": "Вход в dubstep (волна 2). Та же тональность, что у предыдущего (6A): можно длинный бленд.",
+      "pack": "09-02-26",
+      "sources": [],
+      "wave": 2
+    },
+    {
+      "artist": "LYNY",
+      "title": "Section",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "dubstep",
+      "genre": "electronics",
+      "bpm": 140,
+      "key": "Cm",
+      "camelot": "5A",
+      "note": "Заявка «LYNY — Section» — есть в папке. В тегах 70 BPM — играть как 140 half-time. 6A → 5A гармонично. (тег: 70)",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 2
+    },
+    {
+      "artist": "ALBLAK52 x Volac",
+      "title": "+7952812 (orbien x ALEXANDROV & NEDLIN Blend)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "tech",
+      "genre": "Tech",
+      "bpm": 125,
+      "key": "G#m",
+      "camelot": "1A",
+      "note": "Заказ «Volac» — бленд из папки. Вход в tech (волна 3) после 140 BPM: заходи катом с фразы.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 3
+    },
+    {
+      "artist": "Ёлка X Dimitri Vegas x Vin Diesel x Zion",
+      "title": "Прованс (Eidly Blend)",
+      "from": [
+        "Алёна"
+      ],
+      "suggested": false,
+      "wave": 3,
+      "block": "tech",
+      "genre": "House",
+      "bpm": 126,
+      "key": "Ebm",
+      "camelot": "2A",
+      "note": "Заказ «Ёлка» — бленд «Прованса» из папки. 1A → 2A гармонично, 125 → 126.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null
+    },
+    {
+      "artist": "Big Baby Tape, Aarne",
+      "title": "Supersonic (Ruslan Kam Blend)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "tech",
+      "genre": "Tech",
+      "bpm": 127,
+      "key": "G#m",
+      "camelot": "1A",
+      "note": "Заказ «Big Baby Tape» — tech-бленд из папки. 2A → 1A гармонично.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 3
+    },
+    {
+      "artist": "Kizaru, Big Baby Tape x Dillon Francis",
+      "title": "Stick Out (Excitation DFR Edit)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "tech",
+      "genre": "TECH, BASS",
+      "bpm": 128,
+      "key": "Ebm",
+      "camelot": "2A",
+      "note": "Заказ «Kizaru» — tech-эдит из папки. 1A → 2A гармонично.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 3
+    },
+    {
+      "artist": "ANNA ASTI",
+      "title": "Царица (Kolya Funk Blend)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "sing",
+      "genre": "POP",
+      "bpm": 125,
+      "key": "4A",
+      "camelot": "4A",
+      "note": "Вход в «попеть» (волна 3). 2A → 4A не дружат: кат/эхо-аут.",
+      "pack": "918-holi-fest-2025",
+      "sources": [],
+      "wave": 3
+    },
+    {
+      "artist": "9mice, madk1d, неон крис, тёмный принц",
+      "title": "Jealous",
+      "suggested": false,
+      "wave": 3,
+      "block": "sing",
+      "genre": "Hip-Hop",
+      "bpm": 132,
+      "key": "C#",
+      "camelot": "3B",
+      "note": "4A → 3B не дружат: кат/эхо-аут. Темп 125 → 132 — мостик к UKG. В папке нет, ремиксов на PromoDJ/Muzvizor не нашёл.",
+      "sources": [
+        "https://songbpm.com/@9mice/jealous-vbmiy",
+        "https://alarmify.com/wake-up-to/madk1d/"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null,
+      "from": [
+        "Марик"
+      ]
+    },
+    {
+      "artist": "Aarne, BUSHIDO ZHO, ANIKV",
+      "title": "Тесно x Shakir (WZDQ Edit)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "Uk, 2 Step",
+      "bpm": 132,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Вход в UKG (волна 3). 3B → 7A не дружат: заходи катом. Темп тот же (132) — можно сводить по биту.",
+      "pack": "27-02-2026",
+      "sources": [],
+      "wave": 3
+    },
+    {
+      "artist": "bullet tooth, Xpansions",
+      "title": "Move Your Body",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "Uk, 2 step",
+      "bpm": 136,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
+      "pack": "816-vibe-uk-garage-prime-time",
+      "sources": [],
+      "wave": 3
+    },
+    {
+      "artist": "Basement Jaxx",
+      "title": "Fly Life (salute Remix)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "Uk, 2 step",
+      "bpm": 137,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
+      "pack": "816-vibe-uk-garage-prime-time",
+      "sources": [],
+      "wave": 3
+    },
+    {
+      "artist": "Kesha",
+      "title": "TikTok (MAYETRIX Remix)",
+      "from": [],
+      "suggested": true,
+      "inCrate": false,
+      "block": "dubstep",
+      "genre": "Dubstep",
+      "bpm": 141,
+      "key": null,
+      "camelot": "7A",
+      "note": "Вход в dubstep (волна 3). Та же тональность, что у предыдущего (7A): можно длинный бленд. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
+      "pack": null,
+      "sources": [
+        "https://muzvizor.com/genres/dubstep"
+      ],
+      "download": "https://muzvizor.com/genres/dubstep",
+      "wave": 3
+    },
+    {
+      "artist": "Black Eyed Peas",
+      "title": "BOOM BOOM POW (K3ONI CLUB WEAPON EDIT)",
+      "from": [],
+      "suggested": true,
+      "inCrate": false,
+      "block": "dubstep",
+      "genre": "Dubstep",
+      "bpm": 140,
+      "key": null,
+      "camelot": "7A",
+      "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
+      "pack": null,
+      "sources": [
+        "https://muzvizor.com/genres/dubstep"
+      ],
+      "download": "https://muzvizor.com/genres/dubstep",
+      "wave": 3
+    },
+    {
+      "artist": "Piero Pirupa, Gala, Sidepiece",
+      "title": "We don't need, Freed from desire, Don't keep me waiting (Aurelios mashup mix)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "TECH, BASS",
+      "bpm": 125,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Вход в tech (волна 4). Та же тональность, что у предыдущего (7A): можно длинный бленд. Скачок темпа 140 → 125 BPM: не тяни бленд, заходи с фразы.",
+      "pack": "83-dj-denis-repin-club-bar-5",
+      "sources": [],
+      "wave": 4
+    },
+    {
+      "artist": "Reel 2 Real",
+      "title": "I like to move it (Nome bootleg)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "TECH, BASS",
+      "bpm": 125,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
+      "pack": "83-dj-denis-repin-club-bar-5",
+      "sources": [],
+      "wave": 4
+    },
+    {
+      "artist": "VILLIAN, madk1d",
+      "title": "ДИНАСТИЯ (RomaBravo Remix)",
+      "suggested": false,
+      "wave": 4,
+      "block": "tech",
+      "genre": "Club House",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "note": "BPM/тональность ремикса не указаны (оригинал 155 BPM, 11B) — сверь в rekordbox. Альтернатива: Hardovich & Hankti Baile Funk Blend.",
+      "sources": [
+        "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix",
+        "https://tunebat.com/Info/-madk1d-/36DnMjOyWBOZLgWYm2KWFz"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix",
+      "from": [
+        "Марик"
+      ]
+    },
+    {
+      "artist": "PHARAOH",
+      "title": "Black Siemens (Nei Blend)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "tech",
+      "genre": "Tech",
+      "bpm": 130,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Тональность предыдущего неизвестна — сверь на слух; если не ложится, вход на перкуссии.",
+      "pack": "09-02-26",
+      "sources": [],
+      "wave": 4
+    },
+    {
+      "artist": "тёмный принц",
+      "title": "утекай",
+      "suggested": false,
+      "wave": 4,
+      "block": "sing",
+      "genre": "Hip-Hop",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "note": "Вход в «попеть» (волна 4). BPM/тональность не нашлись — кат. В папке нет, на Muzvizor/PromoDJ нет.",
+      "sources": [
+        "https://www.shazam.com/song/6788463411/d183d182d0b5d0bad0b0d0b9",
+        "https://lyricsraag.com/utekai-flow-away-militantum-translation/"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null,
+      "from": [
+        "Марик"
+      ]
+    },
+    {
+      "artist": "Miyagi",
+      "title": "Бадабум (DJ NEI 'breaks' Blend)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "sing",
+      "genre": "HIP-HOP",
+      "bpm": 127,
+      "key": "11A",
+      "camelot": "11A",
+      "note": "Заказ «Miyagi» — бленд из папки. Тональность «утекай» неизвестна — заходи катом.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 4
+    },
+    {
+      "artist": "GONE.Fludd",
+      "title": "КУБИК ЛЬДА (Marshall Intro) (Clean)",
+      "from": [
+        "Славик"
+      ],
+      "suggested": false,
+      "block": "sing",
+      "genre": "Hip-Hop",
+      "bpm": 126,
+      "key": "11A",
+      "camelot": "11A",
+      "note": "Заказ «GONE.Fludd» — трек из папки. 11A → 11A, дальше Kyoto (11A): гармонично.",
+      "sources": [],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "wave": 4
+    },
+    {
+      "artist": "Skrillex feat. Sirah",
+      "title": "Kyoto (Spin Off Reboot)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "Uk, 2 step",
+      "bpm": 136,
+      "key": "F#m",
+      "camelot": "11A",
+      "note": "Вход в UKG (волна 4). 11A → 11A после GONE.Fludd: гармонично.",
+      "pack": "09-02-26",
+      "sources": [],
+      "wave": 4
+    },
+    {
+      "artist": "GRESHA",
+      "title": "i just want (u 2nite)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "UK, 2 Step",
+      "bpm": 136,
+      "key": "F#m",
+      "camelot": "11A",
+      "note": "Та же тональность, что у предыдущего (11A): можно длинный бленд.",
+      "pack": "806-wiike-uk-prime-time",
+      "sources": [],
+      "wave": 4
+    },
+    {
+      "artist": "Тима Белорусских",
+      "title": "МОКРЫЕ КРОССЫ (Nei 'Bushbaby' Blend)",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "ukg",
+      "genre": "UK, 2 STEP",
+      "bpm": 138,
+      "key": "Bm",
+      "camelot": "10A",
+      "note": "Гармоничный переход 11A → 10A.",
+      "pack": "29.06.25 - Party 9's class",
+      "sources": [],
+      "wave": 4
+    },
+    {
+      "artist": "PHARAOH, BOULEVARD DEPO, HOL!",
+      "title": "5 МИНУТ НАЗАД (ONEWIX MASHUP)",
+      "from": [],
+      "suggested": true,
+      "inCrate": false,
+      "block": "dubstep",
+      "genre": "Dubstep",
+      "bpm": 145,
+      "key": null,
+      "camelot": "9A",
+      "note": "Вход в dubstep (волна 4). Гармоничный переход 10A → 9A. Скачок темпа 138 → 145 BPM: не тяни бленд, заходи с фразы. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
+      "pack": null,
+      "sources": [
+        "https://muzvizor.com/genres/dubstep"
+      ],
+      "download": "https://muzvizor.com/genres/dubstep",
+      "wave": 4
+    },
+    {
+      "artist": "Benny Benassi",
+      "title": "SATISFACTION (JOHN KHO REMIX)",
+      "from": [],
+      "suggested": true,
+      "inCrate": false,
+      "block": "dubstep",
+      "genre": "Dubstep",
+      "bpm": 140,
+      "key": null,
+      "camelot": "12A",
+      "note": "9A → 12A не дружат: переход катом, эхо-аутом или на перкуссии. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
+      "pack": null,
+      "sources": [
+        "https://muzvizor.com/genres/dubstep"
+      ],
+      "download": "https://muzvizor.com/genres/dubstep",
+      "wave": 4
+    },
+    {
+      "artist": "Барбарики",
+      "title": "С днем рождения",
+      "from": [],
+      "suggested": false,
+      "inCrate": true,
+      "block": "other",
+      "genre": "pop",
+      "bpm": 140,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Финал сета — поздравление. После SATISFACTION (12A) катом.",
+      "pack": "09-02-26",
+      "sources": [],
+      "wave": 4
+    }
+  ],
+  "rejected": [
+    {
+      "artist": null,
+      "title": "Cold Carti",
+      "from": [
+        "Алёна"
+      ],
+      "reason": "Трек не находится в открытых источниках — уточни исполнителя и название (возможно, Playboi Carti?)."
+    },
+    {
+      "artist": "madk1d",
+      "title": "так по**й",
+      "from": [
+        "Марик"
+      ],
+      "reason": "Оригинал 80 BPM, а клубная версия есть только в drum & bass (174 BPM) — в волны не ложится. Вместо него — Malo 3.0 в UK garage-версии."
+    },
+    {
+      "artist": "Shakira",
+      "title": null,
+      "from": [
+        "Славик"
+      ],
+      "reason": "Указан только исполнитель, а клубной версии её треков в открытых источниках не нашлось — напиши конкретную песню."
+    }
+  ],
+  "suggestions": [
+    {
+      "artist": "BAAUER",
+      "title": "HARLEM SHAKE (TRINIST BOOTLEG)",
+      "block": "dubstep",
+      "bpm": 140,
+      "camelot": "12A",
+      "key": null,
+      "why": "Мем-гимн: на дропе весь зал делает «Harlem Shake». Подходит как резервный dubstep в любую волну с 12A/1A/11A.",
+      "download": "https://muzvizor.com/genres/dubstep"
+    },
+    {
+      "artist": "Beyonce",
+      "title": "Diva (VIRX REMIX)",
+      "block": "dubstep",
+      "bpm": 145,
+      "camelot": "12A",
+      "key": null,
+      "why": "Узнаваемый вокал + жёсткий дроп, хорошо идёт после Benny Benassi (та же 12A).",
+      "download": "https://muzvizor.com/genres/dubstep"
+    },
+    {
+      "artist": "BLACK EYED PEAS",
+      "title": "PUMP IT (BIG N SLIM SUPLEX)",
+      "block": "dubstep",
+      "bpm": 144,
+      "camelot": "9A",
+      "key": null,
+      "why": "Ещё один «все знают» dubstep. 9A — стыкуется с Goosebumps и Clarity.",
+      "download": "https://muzvizor.com/genres/dubstep"
+    },
+    {
+      "artist": "ЦУЕФА",
+      "title": "Я ТЕБЯ МОГНУ (SUNSHINE REMIX)",
+      "block": "dubstep",
+      "bpm": 150,
+      "camelot": "4A",
+      "key": null,
+      "why": "Русскоязычный dubstep-пик на 150 BPM, если захочется добить волну.",
+      "download": "https://muzvizor.com/genres/dubstep"
+    },
+    {
+      "artist": "Егор Крид, Дора, madk1d, тёмный принц x MIKIS",
+      "title": "Malo 3.0 (jeneocheck Edit)",
+      "block": "ukg",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "why": "UK garage-версия с madk1d и тёмным принцем — для Марика вместо «так по**й».",
+      "instead": "madk1d — так по**й",
+      "download": "https://promodj.com/jeneocheck/remixes/7955532/Egor_Krid_Dora_madk1d_tyomniy_princ_x_MIKIS_Malo_3_0_jeneocheck_Edit"
+    },
+    {
+      "artist": "Хаски",
+      "title": "Бит шатает голову (Dimas & D-Music Remix)",
+      "block": "tech",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "why": "House-версия заказа Марика, если оригинал (130) будет выбиваться из блока «попеть».",
+      "download": "https://promodj.com/musicbydimas/remixes/7923922/Haski_Bit_shataet_golovu_Dimas_D_Music_Remix"
+    }
+  ],
+  "library": {
+    "zivert|эгоистка (silver ace & onix remix)": {
+      "bpm": 126,
+      "key": "Am",
+      "camelot": "8A",
+      "genre": "Club",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "ёлка x dimitri vegas x vin diesel x zion|прованс (eidly blend)": {
+      "bpm": 126,
+      "key": "Ebm",
+      "camelot": "2A",
+      "genre": "House",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "|cold carti": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": null,
+      "sources": []
+    },
+    "хаски|ветром снегом зноем": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://soundcloud.com/huskymus/vetrom-snegom-znoem-12"
+      ]
+    },
+    "хаски|бит шатает голову": {
+      "bpm": 130,
+      "key": "Gm",
+      "camelot": "6A",
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://songbpm.com/@husky/bit-shataet-golovu",
+        "https://songdata.io/track/6VehXaOKqK4mzqTu7MTogd/-by-Husky"
+      ]
+    },
+    "9mice, madk1d, неон крис, тёмный принц|jealous": {
+      "bpm": 132,
+      "key": "C#",
+      "camelot": "3B",
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://songbpm.com/@9mice/jealous-vbmiy",
+        "https://alarmify.com/wake-up-to/madk1d/"
+      ]
+    },
+    "villian, madk1d|династия": {
+      "bpm": 155,
+      "key": "A",
+      "camelot": "11B",
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://tunebat.com/Info/-madk1d-/36DnMjOyWBOZLgWYm2KWFz"
+      ]
+    },
+    "villian, madk1d|династия (romabravo remix)": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": "Club House",
+      "sources": [
+        "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix"
+      ]
+    },
+    "тёмный принц|утекай": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://www.shazam.com/song/6788463411/d183d182d0b5d0bad0b0d0b9",
+        "https://lyricsraag.com/utekai-flow-away-militantum-translation/"
+      ]
+    },
+    "madk1d|так похуй": {
+      "bpm": 80,
+      "key": null,
+      "camelot": null,
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://alarmify.com/wake-up-to/madk1d/",
+        "https://promodj.com/djflasher/remixes/7749916/Madk1d_tak_po_DJ_Flasher_Blend"
+      ]
+    },
+    "skrillex, fred again.., flowdan|rumble (gusto palace bootleg)": {
+      "bpm": 128,
+      "key": "Am",
+      "camelot": "8A",
+      "genre": "TECH",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "kashin, dj curry|badman": {
+      "bpm": 140,
+      "key": "Em",
+      "camelot": "9A",
+      "genre": "NEW",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "bbno$, rich brian|edamame (muzvizor intro)": {
+      "bpm": 106,
+      "key": "F#m",
+      "camelot": "11A",
+      "genre": "POP",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "4eholl|самурай с бутылкой": {
+      "bpm": 135,
+      "key": "Gm",
+      "camelot": "6A",
+      "genre": "electronics",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "lyny|section": {
+      "bpm": 140,
+      "key": "Cm",
+      "camelot": "5A",
+      "genre": "electronics",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "alblak52 x volac|+7952812 (orbien x alexandrov & nedlin blend)": {
+      "bpm": 125,
+      "key": "G#m",
+      "camelot": "1A",
+      "genre": "Tech",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "big baby tape, aarne|supersonic (ruslan kam blend)": {
+      "bpm": 127,
+      "key": "G#m",
+      "camelot": "1A",
+      "genre": "Tech",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "kizaru, big baby tape x dillon francis|stick out (excitation dfr edit)": {
+      "bpm": 128,
+      "key": "Ebm",
+      "camelot": "2A",
+      "genre": "TECH, BASS",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "miyagi|бадабум (dj nei 'breaks' blend)": {
+      "bpm": 127,
+      "key": "11A",
+      "camelot": "11A",
+      "genre": "HIP-HOP",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "gone.fludd|кубик льда (marshall intro) (clean)": {
+      "bpm": 126,
+      "key": "11A",
+      "camelot": "11A",
+      "genre": "Hip-Hop",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "sqwoz bab, o-shun|tokyo (festus mash up)": {
+      "bpm": 128,
+      "key": "Em",
+      "camelot": "9A",
+      "genre": "Tech, Bass",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "shakira|": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": null,
+      "sources": []
+    }
   }
- ],
- "rejected": [
-  {
-   "artist": null,
-   "title": "Cold Carti",
-   "from": [
-    "Алёна"
-   ],
-   "reason": "Трек не находится в открытых источниках — уточни исполнителя и название (возможно, Playboi Carti?)."
-  },
-  {
-   "artist": "madk1d",
-   "title": "так по**й",
-   "from": [
-    "Марик"
-   ],
-   "reason": "Оригинал 80 BPM, а клубная версия есть только в drum & bass (174 BPM) — в волны не ложится. Вместо него — Malo 3.0 в UK garage-версии."
-  }
- ],
- "suggestions": [
-  {
-   "artist": "BAAUER",
-   "title": "HARLEM SHAKE (TRINIST BOOTLEG)",
-   "block": "dubstep",
-   "bpm": 140,
-   "camelot": "12A",
-   "key": null,
-   "why": "Мем-гимн: на дропе весь зал делает «Harlem Shake». Подходит как резервный dubstep в любую волну с 12A/1A/11A.",
-   "download": "https://muzvizor.com/genres/dubstep"
-  },
-  {
-   "artist": "Beyonce",
-   "title": "Diva (VIRX REMIX)",
-   "block": "dubstep",
-   "bpm": 145,
-   "camelot": "12A",
-   "key": null,
-   "why": "Узнаваемый вокал + жёсткий дроп, хорошо идёт после Benny Benassi (та же 12A).",
-   "download": "https://muzvizor.com/genres/dubstep"
-  },
-  {
-   "artist": "BLACK EYED PEAS",
-   "title": "PUMP IT (BIG N SLIM SUPLEX)",
-   "block": "dubstep",
-   "bpm": 144,
-   "camelot": "9A",
-   "key": null,
-   "why": "Ещё один «все знают» dubstep. 9A — стыкуется с Goosebumps и Clarity.",
-   "download": "https://muzvizor.com/genres/dubstep"
-  },
-  {
-   "artist": "ЦУЕФА",
-   "title": "Я ТЕБЯ МОГНУ (SUNSHINE REMIX)",
-   "block": "dubstep",
-   "bpm": 150,
-   "camelot": "4A",
-   "key": null,
-   "why": "Русскоязычный dubstep-пик на 150 BPM, если захочется добить волну.",
-   "download": "https://muzvizor.com/genres/dubstep"
-  },
-  {
-   "artist": "Егор Крид, Дора, madk1d, тёмный принц x MIKIS",
-   "title": "Malo 3.0 (jeneocheck Edit)",
-   "block": "ukg",
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "why": "UK garage-версия с madk1d и тёмным принцем — для Марика вместо «так по**й».",
-   "instead": "madk1d — так по**й",
-   "download": "https://promodj.com/jeneocheck/remixes/7955532/Egor_Krid_Dora_madk1d_tyomniy_princ_x_MIKIS_Malo_3_0_jeneocheck_Edit"
-  },
-  {
-   "artist": "Хаски",
-   "title": "Бит шатает голову (Dimas & D-Music Remix)",
-   "block": "tech",
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "why": "House-версия заказа Марика, если оригинал (130) будет выбиваться из блока «попеть».",
-   "download": "https://promodj.com/musicbydimas/remixes/7923922/Haski_Bit_shataet_golovu_Dimas_D_Music_Remix"
-  }
- ],
- "library": {
-  "zivert|эгоистка (silver ace & onix remix)": {
-   "bpm": 126,
-   "key": "Am",
-   "camelot": "8A",
-   "genre": "Club",
-   "sources": [
-    "crate.json"
-   ]
-  },
-  "ёлка x dimitri vegas x vin diesel x zion|прованс (eidly blend)": {
-   "bpm": 126,
-   "key": "Ebm",
-   "camelot": "2A",
-   "genre": "House",
-   "sources": [
-    "crate.json"
-   ]
-  },
-  "|cold carti": {
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "genre": null,
-   "sources": []
-  },
-  "хаски|ветром снегом зноем": {
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "genre": "Hip-Hop",
-   "sources": [
-    "https://soundcloud.com/huskymus/vetrom-snegom-znoem-12"
-   ]
-  },
-  "хаски|бит шатает голову": {
-   "bpm": 130,
-   "key": "Gm",
-   "camelot": "6A",
-   "genre": "Hip-Hop",
-   "sources": [
-    "https://songbpm.com/@husky/bit-shataet-golovu",
-    "https://songdata.io/track/6VehXaOKqK4mzqTu7MTogd/-by-Husky"
-   ]
-  },
-  "9mice, madk1d, неон крис, тёмный принц|jealous": {
-   "bpm": 132,
-   "key": "C#",
-   "camelot": "3B",
-   "genre": "Hip-Hop",
-   "sources": [
-    "https://songbpm.com/@9mice/jealous-vbmiy",
-    "https://alarmify.com/wake-up-to/madk1d/"
-   ]
-  },
-  "villian, madk1d|династия": {
-   "bpm": 155,
-   "key": "A",
-   "camelot": "11B",
-   "genre": "Hip-Hop",
-   "sources": [
-    "https://tunebat.com/Info/-madk1d-/36DnMjOyWBOZLgWYm2KWFz"
-   ]
-  },
-  "villian, madk1d|династия (romabravo remix)": {
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "genre": "Club House",
-   "sources": [
-    "https://promodj.com/romabravoofficial/remixes/7961444/VILLIAN_madk1d_DINASTIYa_RomaBravo_Remix"
-   ]
-  },
-  "тёмный принц|утекай": {
-   "bpm": null,
-   "key": null,
-   "camelot": null,
-   "genre": "Hip-Hop",
-   "sources": [
-    "https://www.shazam.com/song/6788463411/d183d182d0b5d0bad0b0d0b9",
-    "https://lyricsraag.com/utekai-flow-away-militantum-translation/"
-   ]
-  },
-  "madk1d|так похуй": {
-   "bpm": 80,
-   "key": null,
-   "camelot": null,
-   "genre": "Hip-Hop",
-   "sources": [
-    "https://alarmify.com/wake-up-to/madk1d/",
-    "https://promodj.com/djflasher/remixes/7749916/Madk1d_tak_po_DJ_Flasher_Blend"
-   ]
-  }
- }
 }
