@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T00:12:41+04:00",
-  "responsesSeen": 3,
-  "summary": "Пришла большая заявка от Славика: Fred again.., Kizaru, SQWOZ BAB, Big Baby Tape, Miyagi, GONE.Fludd, Volac, LYNY и другие уже расставлены по всем четырём волнам, а в финале звучит «С днём рождения». Shakira пока не в сете — нужна конкретная песня.",
+  "updatedAt": "2026-10-19T17:13:54+04:00",
+  "responsesSeen": 5,
+  "summary": "Новые заказы от Анастасии: MORGENSHTERN — «Yung Hefner» и «ПОВОД» уже в третьей волне, в блоке «попеть». Shakira ждёт конкретную песню, а «Cold Carti» — уточнения, что это за трек.",
   "set": [
     {
       "artist": "DJ BALDIN",
@@ -464,20 +464,49 @@
       "wave": 3
     },
     {
-      "artist": "ANNA ASTI",
-      "title": "Царица (Kolya Funk Blend)",
-      "from": [],
+      "artist": "MORGENSHTERN",
+      "title": "Yung Hefner (Muzvizor Intro) (Clean)",
+      "from": [
+        "Анастасия"
+      ],
       "suggested": false,
-      "inCrate": true,
+      "wave": 3,
       "block": "sing",
-      "genre": "POP",
-      "bpm": 125,
-      "key": "4A",
-      "camelot": "4A",
-      "note": "Вход в «попеть» (волна 3). 2A → 4A не дружат: кат/эхо-аут.",
-      "pack": "918-holi-fest-2025",
-      "sources": [],
-      "wave": 3
+      "genre": "Hip-Hop",
+      "bpm": 107,
+      "key": "Ebm",
+      "camelot": "2A",
+      "note": "Заказ «Моргенштерн Yung Hefner» — из папки. 2A → 2A гармонично; темп 128 → 107 — кат на интро.",
+      "sources": [
+        "crate.json",
+        "https://tunebat.com/Info/Yung-Hefner-MORGENSHTERN/2OHtlG0qUAHhy9YLfDEo0K"
+      ],
+      "inCrate": true,
+      "pack": null,
+      "download": null
+    },
+    {
+      "artist": "MORGENSHTERN",
+      "title": "ПОВОД",
+      "from": [
+        "Анастасия"
+      ],
+      "suggested": false,
+      "wave": 3,
+      "block": "sing",
+      "genre": "Hip-Hop",
+      "bpm": 130,
+      "key": "C#",
+      "camelot": "3B",
+      "note": "В папке нет. 2A → 3B не дружат: кат/эхо-аут, 107 → 130. Есть клубный бленд с Alex Shu (126 BPM, F) на PromoDJ.",
+      "sources": [
+        "https://tunebat.com/Info/-MORGENSHTERN/1SUguUEQfQokc535Ye7ttR",
+        "https://songbpm.com/@morgenshtern/povod-zz8xm",
+        "https://promodj.com/dj.darish/remixes/7715373/MORGENSHTERN_x_Alex_Shu_POVOD_KIRILLSLEM_DARISH_Blend"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": "https://promodj.com/dj.darish/remixes/7715373/MORGENSHTERN_x_Alex_Shu_POVOD_KIRILLSLEM_DARISH_Blend"
     },
     {
       "artist": "9mice, madk1d, неон крис, тёмный принц",
@@ -489,7 +518,7 @@
       "bpm": 132,
       "key": "C#",
       "camelot": "3B",
-      "note": "4A → 3B не дружат: кат/эхо-аут. Темп 125 → 132 — мостик к UKG. В папке нет, ремиксов на PromoDJ/Muzvizor не нашёл.",
+      "note": "3B → 3B гармонично, 130 → 132 — мостик к UKG. В папке нет, ремиксов на PromoDJ/Muzvizor не нашёл.",
       "sources": [
         "https://songbpm.com/@9mice/jealous-vbmiy",
         "https://alarmify.com/wake-up-to/madk1d/"
@@ -1107,6 +1136,28 @@
       "camelot": null,
       "genre": null,
       "sources": []
+    },
+    "morgenshtern|yung hefner": {
+      "bpm": 107,
+      "key": "Ebm",
+      "camelot": "2A",
+      "genre": "Hip-Hop",
+      "sources": [
+        "crate.json",
+        "https://tunebat.com/Info/Yung-Hefner-MORGENSHTERN/2OHtlG0qUAHhy9YLfDEo0K"
+      ]
+    },
+    "morgenshtern|повод": {
+      "bpm": 130,
+      "key": "C#",
+      "camelot": "3B",
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://tunebat.com/Info/-MORGENSHTERN/1SUguUEQfQokc535Ye7ttR",
+        "https://songbpm.com/@morgenshtern/povod-zz8xm",
+        "https://promodj.com/dj.darish/remixes/7715373/MORGENSHTERN_x_Alex_Shu_POVOD_KIRILLSLEM_DARISH_Blend"
+      ],
+      "note": "бленд KIRILLSLEM & DARISH: 126 BPM, F"
     }
   }
 }
