@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T17:13:54+04:00",
-  "responsesSeen": 5,
-  "summary": "Новые заказы от Анастасии: MORGENSHTERN — «Yung Hefner» и «ПОВОД» уже в третьей волне, в блоке «попеть». Shakira ждёт конкретную песню, а «Cold Carti» — уточнения, что это за трек.",
+  "updatedAt": "2026-10-20T18:15:00+04:00",
+  "responsesSeen": 6,
+  "summary": "Новый заказ от Вячеславика: АК-47 — «Здесь никто не курит» во второй волне и Jahmal TGK с АК-47 — «Я кладу на вас» в четвёртой, оба в блоке «попеть». Shakira по-прежнему ждёт конкретную песню, а «Cold Carti» — уточнения.",
   "set": [
     {
       "artist": "DJ BALDIN",
@@ -300,6 +300,25 @@
       "from": [
         "Марик"
       ]
+    },
+    {
+      "artist": "АК-47, De Lacure",
+      "title": "Здесь никто не курит",
+      "from": [
+        "Вячеславик"
+      ],
+      "suggested": false,
+      "wave": 2,
+      "block": "sing",
+      "genre": "rusrap",
+      "bpm": 130,
+      "key": "Cm",
+      "camelot": "5A",
+      "note": "Заказан исполнитель АК-47 — взят трек из папки; 6A→5A→6A гармонично.",
+      "sources": [],
+      "inCrate": true,
+      "pack": "rusrap",
+      "download": null
     },
     {
       "artist": "Entype X Club Angel",
@@ -726,6 +745,25 @@
       "pack": null,
       "download": null,
       "wave": 4
+    },
+    {
+      "artist": "АК-47, Триагрутрика, Витя АК, VibeTGK, Jahmal TGK",
+      "title": "Я кладу на вас",
+      "from": [
+        "Вячеславик"
+      ],
+      "suggested": false,
+      "wave": 4,
+      "block": "sing",
+      "genre": "rusrap",
+      "bpm": 85,
+      "key": "F#m",
+      "camelot": "11A",
+      "note": "Заказан исполнитель Jahmal TGK — трек из папки (с АК-47). 85 BPM: вход катом после Miyagi, выход в GONE.Fludd через эхо; 11A везде.",
+      "sources": [],
+      "inCrate": true,
+      "pack": "rusrap",
+      "download": null
     },
     {
       "artist": "GONE.Fludd",
@@ -1158,6 +1196,20 @@
         "https://promodj.com/dj.darish/remixes/7715373/MORGENSHTERN_x_Alex_Shu_POVOD_KIRILLSLEM_DARISH_Blend"
       ],
       "note": "бленд KIRILLSLEM & DARISH: 126 BPM, F"
+    },
+    "ак-47, de lacure|здесь никто не курит": {
+      "bpm": 130,
+      "key": "Cm",
+      "camelot": "5A",
+      "genre": "rusrap",
+      "sources": []
+    },
+    "ак-47, триагрутрика, витя ак, vibetgk, jahmal tgk|я кладу на вас": {
+      "bpm": 85,
+      "key": "F#m",
+      "camelot": "11A",
+      "genre": "rusrap",
+      "sources": []
     }
   }
 }
