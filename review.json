@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T18:15:00+04:00",
-  "responsesSeen": 6,
-  "summary": "Новый заказ от Вячеславика: АК-47 — «Здесь никто не курит» во второй волне и Jahmal TGK с АК-47 — «Я кладу на вас» в четвёртой, оба в блоке «попеть». Shakira по-прежнему ждёт конкретную песню, а «Cold Carti» — уточнения.",
+  "updatedAt": "2026-10-27T14:00:00+04:00",
+  "responsesSeen": 8,
+  "summary": "Добавили заказы Льва — OutKast, Spice Girls, Counting Crows, Post Malone, Red Hot Chili Peppers и Пошлую Молли — по всем четырём волнам в блоки «попеть», а для Алексея в финале перед «С днем рождения» появился drum & bass-отрезок. Shakira по-прежнему ждёт конкретную песню, а «Cold Carti» — уточнения.",
   "set": [
     {
       "artist": "DJ BALDIN",
@@ -17,22 +17,6 @@
       "camelot": "10A",
       "note": "Открывает сет: мягкий 126 BPM, есть куда разгонять.",
       "pack": "2166-dj-baldin-special-blend-pack",
-      "sources": [],
-      "wave": 1
-    },
-    {
-      "artist": "Gwen Stefani",
-      "title": "Hollaback girl (Coka Cobra & Kaya remix)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "tech",
-      "genre": "TECH, BASS",
-      "bpm": 126,
-      "key": "9A",
-      "camelot": "9A",
-      "note": "Гармоничный переход 10A → 9A.",
-      "pack": "83-dj-denis-repin-club-bar-5",
       "sources": [],
       "wave": 1
     },
@@ -66,12 +50,33 @@
       "bpm": 128,
       "key": "Am",
       "camelot": "8A",
-      "note": "Заказ «Fred Again» — бутлег из папки. 9A → 8A гармонично, дальше в Zivert (8A).",
+      "note": "Заказ «Fred Again» — бутлег из папки. 9A → 8A гармонично, дальше в Californication (8A).",
       "sources": [],
       "inCrate": true,
       "pack": null,
       "download": null,
       "wave": 1
+    },
+    {
+      "artist": "Red Hot Chili Peppers",
+      "title": "Californication",
+      "from": [
+        "Лев"
+      ],
+      "suggested": false,
+      "wave": 1,
+      "block": "sing",
+      "genre": "Alternative Rock",
+      "bpm": 97,
+      "key": "Am",
+      "camelot": "8A",
+      "note": "Сброс после Rumble: тот же 8A, темп падает 128→97 — заходи катом. Mixmeister 97, Traktor 154.5 (двойной счёт). В папке нет — докачать (клубной версии не нашёл).",
+      "sources": [
+        "https://cs.uwaterloo.ca/~dtompkin/music/track/HOTSTUFF_020/HOTSTUFF_020-18.html"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null
     },
     {
       "artist": "Zivert",
@@ -86,9 +91,51 @@
       "bpm": 126,
       "key": "Am",
       "camelot": "8A",
-      "note": "Заказ «Zivert» (без названия) — взят ремикс из папки. Вход в «попеть»: 9A → 8A гармонично.",
+      "note": "Заказ «Zivert» (без названия) — взят ремикс из папки. После Californication 8A → 8A гармонично, темп вверх 97 → 126.",
       "sources": [],
       "inCrate": true,
+      "pack": null,
+      "download": null
+    },
+    {
+      "artist": "OutKast",
+      "title": "Hey Ya!",
+      "from": [
+        "Лев"
+      ],
+      "suggested": false,
+      "wave": 1,
+      "block": "sing",
+      "genre": "Pop / Funk",
+      "bpm": 159,
+      "key": "Em",
+      "camelot": "9A",
+      "note": "159 BPM (≈80 в половинном счёте). Mixmeister даёт Em (9A), по нотам — G-мажор (9B): с Zivert 8A→9A гармонично. Докачать.",
+      "sources": [
+        "https://cs.uwaterloo.ca/~dtompkin/music/track/RADIO203_10A/RADIO203_10A-05.html"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null
+    },
+    {
+      "artist": "Counting Crows",
+      "title": "Accidentally in Love",
+      "from": [
+        "Лев"
+      ],
+      "suggested": false,
+      "wave": 1,
+      "block": "sing",
+      "genre": "Pop Rock",
+      "bpm": 138,
+      "key": "G",
+      "camelot": "9B",
+      "note": "138 BPM, G-мажор: 9A→9B — плавно после Hey Ya. Докачать.",
+      "sources": [
+        "https://songbpm.com/@counting-crows/accidentally-in-love"
+      ],
+      "inCrate": false,
       "pack": null,
       "download": null
     },
@@ -102,7 +149,7 @@
       "bpm": null,
       "key": null,
       "camelot": null,
-      "note": "BPM/тональность в открытых базах не нашлись — сверь в rekordbox. После Zivert заходи катом с фразы. На Muzvizor/PromoDJ нет — оригинал из стриминга.",
+      "note": "BPM/тональность в открытых базах не нашлись — сверь в rekordbox. После Accidentally in Love заходи катом с фразы. На Muzvizor/PromoDJ нет — оригинал из стриминга.",
       "sources": [
         "https://soundcloud.com/huskymus/vetrom-snegom-znoem-12"
       ],
@@ -138,22 +185,6 @@
       "block": "ukg",
       "genre": "UK, 2 Step",
       "bpm": 136,
-      "key": "Am",
-      "camelot": "8A",
-      "note": "Та же тональность, что у предыдущего (8A): можно длинный бленд.",
-      "pack": "806-wiike-uk-prime-time",
-      "sources": [],
-      "wave": 1
-    },
-    {
-      "artist": "IsGwan",
-      "title": "On a Ragga Tip Dub",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "ukg",
-      "genre": "UK, 2 Step",
-      "bpm": 138,
       "key": "Am",
       "camelot": "8A",
       "note": "Та же тональность, что у предыдущего (8A): можно длинный бленд.",
@@ -213,38 +244,6 @@
       "wave": 2
     },
     {
-      "artist": "Doug Bass",
-      "title": "Be Light (Original Mix)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "tech",
-      "genre": "House",
-      "bpm": 123,
-      "key": "Em",
-      "camelot": "9A",
-      "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-      "pack": "374-ricky-stark-deep-style-mix-part-6",
-      "sources": [],
-      "wave": 2
-    },
-    {
-      "artist": "DJ BALDIN",
-      "title": "Ветер меняет направление",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "tech",
-      "genre": "TECHNO",
-      "bpm": 128,
-      "key": "Em",
-      "camelot": "9A",
-      "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-      "pack": "2166-dj-baldin-special-blend-pack",
-      "sources": [],
-      "wave": 2
-    },
-    {
       "artist": "Freejak",
       "title": "Sol d'en Serra (Extended Mix)",
       "from": [],
@@ -261,6 +260,27 @@
       "wave": 2
     },
     {
+      "artist": "Spice Girls",
+      "title": "Wannabe",
+      "from": [
+        "Лев"
+      ],
+      "suggested": false,
+      "wave": 2,
+      "block": "sing",
+      "genre": "Pop",
+      "bpm": 110,
+      "key": "Bm",
+      "camelot": "10A",
+      "note": "110 BPM. Mixmeister: Bm (10A), по нотам часто B-мажор (1B) — сверь. 9A→10A→11A цепочкой к Edamame. В заявке «Space girls» — это Spice Girls. Докачать.",
+      "sources": [
+        "https://cs.uwaterloo.ca/~dtompkin/music/track/HOTTRACK_032/HOTTRACK_032-01.html"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null
+    },
+    {
       "artist": "Bbno$, Rich Brian",
       "title": "Edamame (Muzvizor intro)",
       "from": [
@@ -272,7 +292,7 @@
       "bpm": 106,
       "key": "F#m",
       "camelot": "11A",
-      "note": "Заказ «bbno$» — единственный трек в папке. 106 BPM после 130 — заходи катом с фразы; 11A → 6A (Хаски) тоже катом.",
+      "note": "Заказ «bbno$» — единственный трек в папке. После Wannabe 10A → 11A гармонично, 110 → 106; 11A → 6A (Хаски) — катом.",
       "sources": [],
       "inCrate": true,
       "pack": null,
@@ -353,22 +373,6 @@
       "inCrate": true,
       "pack": null,
       "download": null,
-      "wave": 2
-    },
-    {
-      "artist": "Masters At Work",
-      "title": "Work (Nei 'sammy virji Blend)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "ukg",
-      "genre": "UK, 2 Step",
-      "bpm": 136,
-      "key": "6A",
-      "camelot": "6A",
-      "note": "Та же тональность, что у предыдущего (6A): можно длинный бленд.",
-      "pack": "28.09.25",
-      "sources": [],
       "wave": 2
     },
     {
@@ -550,6 +554,48 @@
       ]
     },
     {
+      "artist": "Пошлая Молли",
+      "title": "Супермаркет",
+      "from": [
+        "Лев"
+      ],
+      "suggested": false,
+      "wave": 3,
+      "block": "sing",
+      "genre": "Pop Punk",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "note": "BPM/тональность в открытых базах не нашлись — сверь в rekordbox. После Jealous заходи катом. Докачать.",
+      "sources": [
+        "https://music.apple.com/ru/song/%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82/1680749714"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null
+    },
+    {
+      "artist": "Post Malone",
+      "title": "Circles",
+      "from": [
+        "Лев"
+      ],
+      "suggested": false,
+      "wave": 3,
+      "block": "sing",
+      "genre": "Pop",
+      "bpm": 120,
+      "key": "C",
+      "camelot": "8B",
+      "note": "120 BPM, C-мажор (8B) → 8A→7A мостиком в UKG (Тесно). Докачать.",
+      "sources": [
+        "https://jamzone.musicwill.org/songs/circles"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null
+    },
+    {
       "artist": "Aarne, BUSHIDO ZHO, ANIKV",
       "title": "Тесно x Shakir (WZDQ Edit)",
       "from": [],
@@ -560,7 +606,7 @@
       "bpm": 132,
       "key": "Dm",
       "camelot": "7A",
-      "note": "Вход в UKG (волна 3). 3B → 7A не дружат: заходи катом. Темп тот же (132) — можно сводить по биту.",
+      "note": "Вход в UKG (волна 3). После Circles 8B → 7A близко (через 8A), но темп 120 → 132 — заходи с фразы.",
       "pack": "27-02-2026",
       "sources": [],
       "wave": 3
@@ -574,22 +620,6 @@
       "block": "ukg",
       "genre": "Uk, 2 step",
       "bpm": 136,
-      "key": "Dm",
-      "camelot": "7A",
-      "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
-      "pack": "816-vibe-uk-garage-prime-time",
-      "sources": [],
-      "wave": 3
-    },
-    {
-      "artist": "Basement Jaxx",
-      "title": "Fly Life (salute Remix)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "ukg",
-      "genre": "Uk, 2 step",
-      "bpm": 137,
       "key": "Dm",
       "camelot": "7A",
       "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
@@ -647,22 +677,6 @@
       "key": "Dm",
       "camelot": "7A",
       "note": "Вход в tech (волна 4). Та же тональность, что у предыдущего (7A): можно длинный бленд. Скачок темпа 140 → 125 BPM: не тяни бленд, заходи с фразы.",
-      "pack": "83-dj-denis-repin-club-bar-5",
-      "sources": [],
-      "wave": 4
-    },
-    {
-      "artist": "Reel 2 Real",
-      "title": "I like to move it (Nome bootleg)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "tech",
-      "genre": "TECH, BASS",
-      "bpm": 125,
-      "key": "Dm",
-      "camelot": "7A",
-      "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд.",
       "pack": "83-dj-denis-repin-club-bar-5",
       "sources": [],
       "wave": 4
@@ -747,6 +761,27 @@
       "wave": 4
     },
     {
+      "artist": "Red Hot Chili Peppers",
+      "title": "Can't Stop",
+      "from": [
+        "Лев"
+      ],
+      "suggested": false,
+      "wave": 4,
+      "block": "sing",
+      "genre": "Funk Rock",
+      "bpm": 91,
+      "key": "A",
+      "camelot": "11B",
+      "note": "91 BPM, A-мажор (11B): с 11A-блоком (Бадабум/Я кладу на вас) гармонично. Докачать.",
+      "sources": [
+        "https://songdata.io/charts/91bpm"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": null
+    },
+    {
       "artist": "АК-47, Триагрутрика, Витя АК, VibeTGK, Jahmal TGK",
       "title": "Я кладу на вас",
       "from": [
@@ -759,7 +794,7 @@
       "bpm": 85,
       "key": "F#m",
       "camelot": "11A",
-      "note": "Заказан исполнитель Jahmal TGK — трек из папки (с АК-47). 85 BPM: вход катом после Miyagi, выход в GONE.Fludd через эхо; 11A везде.",
+      "note": "Заказан исполнитель Jahmal TGK — трек из папки (с АК-47). После Can't Stop 11B → 11A гармонично, 91 → 85; выход в GONE.Fludd через эхо.",
       "sources": [],
       "inCrate": true,
       "pack": "rusrap",
@@ -797,22 +832,6 @@
       "camelot": "11A",
       "note": "Вход в UKG (волна 4). 11A → 11A после GONE.Fludd: гармонично.",
       "pack": "09-02-26",
-      "sources": [],
-      "wave": 4
-    },
-    {
-      "artist": "GRESHA",
-      "title": "i just want (u 2nite)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "ukg",
-      "genre": "UK, 2 Step",
-      "bpm": 136,
-      "key": "F#m",
-      "camelot": "11A",
-      "note": "Та же тональность, что у предыдущего (11A): можно длинный бленд.",
-      "pack": "806-wiike-uk-prime-time",
       "sources": [],
       "wave": 4
     },
@@ -871,6 +890,48 @@
       "wave": 4
     },
     {
+      "artist": "КАЗАКИ ДЕЛАЮТ ХИТЫ",
+      "title": "Мой ненаглядный (Nei DNB Blend)",
+      "from": [
+        "Алексей"
+      ],
+      "suggested": false,
+      "wave": 4,
+      "block": "other",
+      "genre": "DnB",
+      "bpm": 174,
+      "key": "C#m",
+      "camelot": "12A",
+      "note": "Заказ Алексея (DnB). 140→174: после Benny Benassi тот же 12A, заходи на дропе.",
+      "sources": [
+        "crate.json"
+      ],
+      "inCrate": true,
+      "pack": null,
+      "download": null
+    },
+    {
+      "artist": "Keeno / Telomic",
+      "title": "Listen Close",
+      "from": [
+        "Алексей"
+      ],
+      "suggested": false,
+      "wave": 4,
+      "block": "other",
+      "genre": "DnB",
+      "bpm": 174,
+      "key": "Dm",
+      "camelot": "7A",
+      "note": "Atmospheric DnB для Алексея. 12A→7A негармонично — кат/эхо-аут, затем 7A в Барбариков.",
+      "sources": [
+        "crate.json"
+      ],
+      "inCrate": true,
+      "pack": null,
+      "download": null
+    },
+    {
       "artist": "Барбарики",
       "title": "С днем рождения",
       "from": [],
@@ -881,7 +942,7 @@
       "bpm": 140,
       "key": "Dm",
       "camelot": "7A",
-      "note": "Финал сета — поздравление. После SATISFACTION (12A) катом.",
+      "note": "Финал сета — поздравление. После Listen Close тот же 7A, 174 → 140: заходи катом на фразе.",
       "pack": "09-02-26",
       "sources": [],
       "wave": 4
@@ -945,16 +1006,6 @@
       "download": "https://muzvizor.com/genres/dubstep"
     },
     {
-      "artist": "ЦУЕФА",
-      "title": "Я ТЕБЯ МОГНУ (SUNSHINE REMIX)",
-      "block": "dubstep",
-      "bpm": 150,
-      "camelot": "4A",
-      "key": null,
-      "why": "Русскоязычный dubstep-пик на 150 BPM, если захочется добить волну.",
-      "download": "https://muzvizor.com/genres/dubstep"
-    },
-    {
       "artist": "Егор Крид, Дора, madk1d, тёмный принц x MIKIS",
       "title": "Malo 3.0 (jeneocheck Edit)",
       "block": "ukg",
@@ -964,6 +1015,16 @@
       "why": "UK garage-версия с madk1d и тёмным принцем — для Марика вместо «так по**й».",
       "instead": "madk1d — так по**й",
       "download": "https://promodj.com/jeneocheck/remixes/7955532/Egor_Krid_Dora_madk1d_tyomniy_princ_x_MIKIS_Malo_3_0_jeneocheck_Edit"
+    },
+    {
+      "artist": "Sub Focus, Fireboy DML & IRAH",
+      "title": "Original Don (Extended Mix)",
+      "block": "other",
+      "bpm": 174,
+      "key": "Fm",
+      "camelot": "4A",
+      "why": "Запасной энергичный DnB для Алексея (есть в папке), если зайдёт DnB-отрезок.",
+      "download": null
     },
     {
       "artist": "Хаски",
@@ -1210,6 +1271,87 @@
       "camelot": "11A",
       "genre": "rusrap",
       "sources": []
+    },
+    "red hot chili peppers|californication": {
+      "bpm": 97,
+      "key": "Am",
+      "camelot": "8A",
+      "genre": "Alternative Rock",
+      "sources": [
+        "https://cs.uwaterloo.ca/~dtompkin/music/track/HOTSTUFF_020/HOTSTUFF_020-18.html"
+      ]
+    },
+    "outkast|hey ya!": {
+      "bpm": 159,
+      "key": "Em",
+      "camelot": "9A",
+      "genre": "Pop / Funk",
+      "sources": [
+        "https://cs.uwaterloo.ca/~dtompkin/music/track/RADIO203_10A/RADIO203_10A-05.html"
+      ]
+    },
+    "counting crows|accidentally in love": {
+      "bpm": 138,
+      "key": "G",
+      "camelot": "9B",
+      "genre": "Pop Rock",
+      "sources": [
+        "https://songbpm.com/@counting-crows/accidentally-in-love"
+      ]
+    },
+    "spice girls|wannabe": {
+      "bpm": 110,
+      "key": "Bm",
+      "camelot": "10A",
+      "genre": "Pop",
+      "sources": [
+        "https://cs.uwaterloo.ca/~dtompkin/music/track/HOTTRACK_032/HOTTRACK_032-01.html"
+      ]
+    },
+    "пошлая молли|супермаркет": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": "Pop Punk",
+      "sources": [
+        "https://music.apple.com/ru/song/%D1%81%D1%83%D0%BF%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82/1680749714"
+      ]
+    },
+    "post malone|circles": {
+      "bpm": 120,
+      "key": "C",
+      "camelot": "8B",
+      "genre": "Pop",
+      "sources": [
+        "https://jamzone.musicwill.org/songs/circles"
+      ]
+    },
+    "red hot chili peppers|can't stop": {
+      "bpm": 91,
+      "key": "A",
+      "camelot": "11B",
+      "genre": "Funk Rock",
+      "sources": [
+        "https://songdata.io/charts/91bpm"
+      ]
+    },
+    "казаки делают хиты|мой ненаглядный (nei dnb blend)": {
+      "bpm": 174,
+      "key": "C#m",
+      "camelot": "12A",
+      "genre": "DnB",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "keeno / telomic|listen close": {
+      "bpm": 174,
+      "key": "Dm",
+      "camelot": "7A",
+      "genre": "DnB",
+      "sources": [
+        "crate.json"
+      ]
     }
   }
 }
