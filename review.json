@@ -1,25 +1,9 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T14:00:00+04:00",
-  "responsesSeen": 8,
-  "summary": "Добавили заказы Льва — OutKast, Spice Girls, Counting Crows, Post Malone, Red Hot Chili Peppers и Пошлую Молли — по всем четырём волнам в блоки «попеть», а для Алексея в финале перед «С днем рождения» появился drum & bass-отрезок. Shakira по-прежнему ждёт конкретную песню, а «Cold Carti» — уточнения.",
+  "updatedAt": "2026-10-28T00:12:19+04:00",
+  "responsesSeen": 10,
+  "summary": "Добавили заказы Дена — SQWOZ BAB, Пошлую Молли с Иваном Дорном, Big Baby Tape, Saluki и Baby Melo — и новые треки Алёны: «Знак» Toxi$ и Доры в UK garage-версии и «Шиншиллы» ЛСП. Shakira всё ещё ждёт конкретную песню, а «Cold Carti» — уточнения.",
   "set": [
-    {
-      "artist": "DJ BALDIN",
-      "title": "Ты меня забудь (2024 Version)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "tech",
-      "genre": "TECHNO",
-      "bpm": 126,
-      "key": "Bm",
-      "camelot": "10A",
-      "note": "Открывает сет: мягкий 126 BPM, есть куда разгонять.",
-      "pack": "2166-dj-baldin-special-blend-pack",
-      "sources": [],
-      "wave": 1
-    },
     {
       "artist": "SQWOZ BAB, O-SHUN",
       "title": "TOKYO (Festus Mash Up)",
@@ -33,7 +17,7 @@
       "bpm": 128,
       "key": "Em",
       "camelot": "9A",
-      "note": "Заказ «SQWOZ_BAB» — взят мэшап TOKYO из папки. 9A → 9A: длинный бленд.",
+      "note": "Открывает сет: 128 BPM, 9A, дальше Rumble 8A гармонично.",
       "pack": "09-02-26",
       "sources": [],
       "wave": 1
@@ -96,6 +80,27 @@
       "inCrate": true,
       "pack": null,
       "download": null
+    },
+    {
+      "artist": "Big Baby Tape",
+      "title": "Turbo (Majestic) (Index-1 Remix)",
+      "suggested": false,
+      "wave": 1,
+      "block": "sing",
+      "genre": "Pop",
+      "bpm": 128,
+      "key": null,
+      "camelot": "9A",
+      "note": "После Zivert 8A → 9A гармонично, 126 → 128; дальше Hey Ya! в той же 9A.",
+      "sources": [
+        "crate.json"
+      ],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "from": [
+        "Ден"
+      ]
     },
     {
       "artist": "OutKast",
@@ -161,22 +166,6 @@
       ]
     },
     {
-      "artist": "JFL",
-      "title": "No Diet",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "ukg",
-      "genre": "UK, 2 Step",
-      "bpm": 135,
-      "key": "Am",
-      "camelot": "8A",
-      "note": "Вход в UKG (волна 1). Тональность предыдущего неизвестна: заходи катом с фразы, без длинного бленда.",
-      "pack": "806-wiike-uk-prime-time",
-      "sources": [],
-      "wave": 1
-    },
-    {
       "artist": "Flowdan",
       "title": "Welcome To London (Bakey Edit)",
       "from": [],
@@ -187,7 +176,7 @@
       "bpm": 136,
       "key": "Am",
       "camelot": "8A",
-      "note": "Та же тональность, что у предыдущего (8A): можно длинный бленд.",
+      "note": "Вход в UKG (волна 1) после Хаски (тональность неизвестна): заходи катом с фразы.",
       "pack": "806-wiike-uk-prime-time",
       "sources": [],
       "wave": 1
@@ -228,36 +217,47 @@
       "wave": 1
     },
     {
-      "artist": "Tommy Cash",
-      "title": "Espresso Macchiato (Denis Repin edit)",
-      "from": [],
+      "artist": "Saluki, Volac",
+      "title": "Огней (Roman Vertigo & Mixon Spencer & Kuriev Blend)",
       "suggested": false,
-      "inCrate": true,
+      "wave": 2,
       "block": "tech",
-      "genre": "Tech",
-      "bpm": 125,
-      "key": "Em",
-      "camelot": "9A",
-      "note": "Вход в tech (волна 2). Та же тональность, что у предыдущего (9A): можно длинный бленд. Скачок темпа 140 → 125 BPM: не тяни бленд, заходи с фразы.",
-      "pack": "2088-dj-denis-repin-club-bar-7",
-      "sources": [],
-      "wave": 2
+      "genre": "Tech House",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "note": "Вход в tech (волна 2) после dubstep 140: сброс темпа, заходи с фразы. Оригинал 125 BPM, Fm (4A) по songbpm — бленд сверь на слух. Нет в папке.",
+      "sources": [
+        "https://promodj.com/romanvertigo/remixes/7939629/Saluki_Volac_Ognei_Roman_Vertigo_Mixon_Spencer_Kuriev_Blend",
+        "https://songbpm.com/@saluki/ogney-ODSGQE-CgH"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": "https://promodj.com/romanvertigo/remixes/7939629/Saluki_Volac_Ognei_Roman_Vertigo_Mixon_Spencer_Kuriev_Blend",
+      "from": [
+        "Ден"
+      ]
     },
     {
-      "artist": "Freejak",
-      "title": "Sol d'en Serra (Extended Mix)",
-      "from": [],
+      "artist": "ЛСП",
+      "title": "Шиншиллы (DJ Flasher Blend)",
       "suggested": false,
-      "inCrate": true,
+      "wave": 2,
       "block": "tech",
-      "genre": "House",
-      "bpm": 130,
-      "key": "Em",
-      "camelot": "9A",
-      "note": "Та же тональность, что у предыдущего (9A): можно длинный бленд.",
-      "pack": "249-stutter-house",
-      "sources": [],
-      "wave": 2
+      "genre": "Progressive House",
+      "bpm": 126,
+      "key": "Cm",
+      "camelot": "5A",
+      "note": "Если Огней в 4A — 4A → 5A гармонично. Дальше Wannabe 10A: кат/эффект. Нет в папке.",
+      "sources": [
+        "https://promodj.com/djflasher/remixes/7831894/LSP_Shinshilli_DJ_Flasher_Blend"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": "https://promodj.com/djflasher/remixes/7831894/LSP_Shinshilli_DJ_Flasher_Blend",
+      "from": [
+        "Алёна"
+      ]
     },
     {
       "artist": "Spice Girls",
@@ -341,20 +341,25 @@
       "download": null
     },
     {
-      "artist": "Entype X Club Angel",
-      "title": "Не нужна (HIMIK blend)",
-      "from": [],
+      "artist": "Toxi$ & Дора x RDCL",
+      "title": "Знак (Alexx Slam UKG Edit Short)",
       "suggested": false,
-      "inCrate": true,
+      "wave": 2,
       "block": "ukg",
-      "genre": "UK, 2 Step",
-      "bpm": 135,
-      "key": "Gm",
-      "camelot": "6A",
-      "note": "Вход в UKG (волна 2). Та же тональность (6A): можно длинный бленд. Подтяни темп 130 → 135.",
-      "pack": "1127-himik-blend-pack-part-2",
-      "sources": [],
-      "wave": 2
+      "genre": "UK Garage",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "note": "Вход в UKG (волна 2), BPM/тональность на странице не указаны — сверь на слух; короткая версия 1:54. Нет в папке.",
+      "sources": [
+        "https://promodj.com/alexxslam/remixes/7959348/Toxi_Dora_x_RDCL_Znak_Alexx_Slam_UKG_Edit_Short"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": "https://promodj.com/alexxslam/remixes/7959348/Toxi_Dora_x_RDCL_Znak_Alexx_Slam_UKG_Edit_Short",
+      "from": [
+        "Алёна"
+      ]
     },
     {
       "artist": "4eholl",
@@ -368,7 +373,7 @@
       "bpm": 135,
       "key": "Gm",
       "camelot": "6A",
-      "note": "Заказ «4eholl» — трек из папки. Та же тональность 6A и 135 BPM, что у Не нужна: длинный бленд.",
+      "note": "После «Знак» (тональность неизвестна) — сверь на слух, подтяни темп к 135.",
       "sources": [],
       "inCrate": true,
       "pack": null,
@@ -509,6 +514,28 @@
       "download": null
     },
     {
+      "artist": "Baby Melo, FADE031",
+      "title": "Сломана",
+      "suggested": false,
+      "wave": 3,
+      "block": "sing",
+      "genre": "Hip-Hop",
+      "bpm": 85,
+      "key": "D#m",
+      "camelot": "2A",
+      "note": "85 BPM (songbpm: 170, half-time 85). После Yung Hefner 2A → 2A гармонично. Клубной версии не нашлось — оригинал. Нет в папке.",
+      "sources": [
+        "https://songbpm.com/@baby-melo/slomana-gpm3s",
+        "https://open.spotify.com/track/4OjB6FkYwCeWqsSpTFF7O9"
+      ],
+      "inCrate": false,
+      "pack": null,
+      "download": "https://sefon.pro/mp3/2135708-baby-melo-feat-fade031-slomana/",
+      "from": [
+        "Ден"
+      ]
+    },
+    {
       "artist": "MORGENSHTERN",
       "title": "ПОВОД",
       "from": [
@@ -638,7 +665,7 @@
       "bpm": 141,
       "key": null,
       "camelot": "7A",
-      "note": "Вход в dubstep (волна 3). Та же тональность, что у предыдущего (7A): можно длинный бленд. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
+      "note": "В папке нет, нужно докачать: Dubstep на Muzvizor. Дальше ОДИНОКАЯ СКУПАЯ 144 — сверь тональность на слух.",
       "pack": null,
       "sources": [
         "https://muzvizor.com/genres/dubstep"
@@ -647,23 +674,25 @@
       "wave": 3
     },
     {
-      "artist": "Black Eyed Peas",
-      "title": "BOOM BOOM POW (K3ONI CLUB WEAPON EDIT)",
-      "from": [],
-      "suggested": true,
-      "inCrate": false,
+      "artist": "SQWOZ BAB",
+      "title": "ОДИНОКАЯ СКУПАЯ",
+      "suggested": false,
+      "wave": 3,
       "block": "dubstep",
-      "genre": "Dubstep",
-      "bpm": 140,
+      "genre": "Hip-Hop",
+      "bpm": 144,
       "key": null,
-      "camelot": "7A",
-      "note": "Та же тональность, что у предыдущего (7A): можно длинный бленд. В папке нет, нужно докачать: в жанре Dubstep на Muzvizor.",
-      "pack": null,
+      "camelot": null,
+      "note": "Хип-хоп 144 BPM (Shazam) — финал волны 3 на темпе дабстепа, как выдох перед tech. Тональность неизвестна, ремиксов не нашлось — оригинал с альбома WOMANIZER. Нет в папке.",
       "sources": [
-        "https://muzvizor.com/genres/dubstep"
+        "https://www.shazam.com/song/1883012942/d0bed0b4d0b8d0bdd0bed0bad0b0d18f-d181d0bad183d0bfd0b0d18f"
       ],
-      "download": "https://muzvizor.com/genres/dubstep",
-      "wave": 3
+      "inCrate": false,
+      "pack": null,
+      "download": null,
+      "from": [
+        "Ден"
+      ]
     },
     {
       "artist": "Piero Pirupa, Gala, Sidepiece",
@@ -676,7 +705,7 @@
       "bpm": 125,
       "key": "Dm",
       "camelot": "7A",
-      "note": "Вход в tech (волна 4). Та же тональность, что у предыдущего (7A): можно длинный бленд. Скачок темпа 140 → 125 BPM: не тяни бленд, заходи с фразы.",
+      "note": "Вход в tech (волна 4) после хип-хопа 144: сброс темпа, заходи с фразы.",
       "pack": "83-dj-denis-repin-club-bar-5",
       "sources": [],
       "wave": 4
@@ -702,22 +731,6 @@
       "from": [
         "Марик"
       ]
-    },
-    {
-      "artist": "PHARAOH",
-      "title": "Black Siemens (Nei Blend)",
-      "from": [],
-      "suggested": false,
-      "inCrate": true,
-      "block": "tech",
-      "genre": "Tech",
-      "bpm": 130,
-      "key": "Dm",
-      "camelot": "7A",
-      "note": "Тональность предыдущего неизвестна — сверь на слух; если не ложится, вход на перкуссии.",
-      "pack": "09-02-26",
-      "sources": [],
-      "wave": 4
     },
     {
       "artist": "тёмный принц",
@@ -818,6 +831,27 @@
       "pack": null,
       "download": null,
       "wave": 4
+    },
+    {
+      "artist": "Пошлая Молли x Иван Дорн",
+      "title": "Нон_стоп x Стыцамен (BOGOWDAN Mash Up)",
+      "suggested": false,
+      "wave": 4,
+      "block": "sing",
+      "genre": "Pop",
+      "bpm": 130,
+      "key": "C#m",
+      "camelot": "12A",
+      "note": "Два заказа Дена в одном мэшапе. После GONE.Fludd 11A → 12A гармонично, дальше Kyoto 11A.",
+      "sources": [
+        "crate.json"
+      ],
+      "inCrate": true,
+      "pack": null,
+      "download": null,
+      "from": [
+        "Ден"
+      ]
     },
     {
       "artist": "Skrillex feat. Sirah",
@@ -996,16 +1030,6 @@
       "download": "https://muzvizor.com/genres/dubstep"
     },
     {
-      "artist": "BLACK EYED PEAS",
-      "title": "PUMP IT (BIG N SLIM SUPLEX)",
-      "block": "dubstep",
-      "bpm": 144,
-      "camelot": "9A",
-      "key": null,
-      "why": "Ещё один «все знают» dubstep. 9A — стыкуется с Goosebumps и Clarity.",
-      "download": "https://muzvizor.com/genres/dubstep"
-    },
-    {
       "artist": "Егор Крид, Дора, madk1d, тёмный принц x MIKIS",
       "title": "Malo 3.0 (jeneocheck Edit)",
       "block": "ukg",
@@ -1035,6 +1059,16 @@
       "camelot": null,
       "why": "House-версия заказа Марика, если оригинал (130) будет выбиваться из блока «попеть».",
       "download": "https://promodj.com/musicbydimas/remixes/7923922/Haski_Bit_shataet_golovu_Dimas_D_Music_Remix"
+    },
+    {
+      "artist": "Toxi$, Дора",
+      "title": "ЗНАК (CORTO X SLIM Remix Extended)",
+      "block": "tech",
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "why": "Полная клубная версия заказа Алёны, если короткий UKG-эдит (1:54) не зайдёт.",
+      "download": "https://promodj.com/corto/remixes/7985456/Toxi_Dora_ZNAK_CORTO_X_SLIM_Remix_Extended"
     }
   ],
   "library": {
@@ -1351,6 +1385,80 @@
       "genre": "DnB",
       "sources": [
         "crate.json"
+      ]
+    },
+    "big baby tape|turbo (majestic) (index-1 remix)": {
+      "bpm": 128,
+      "key": null,
+      "camelot": "9A",
+      "genre": "Pop",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "saluki, volac|огней (roman vertigo & mixon spencer & kuriev blend)": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": "Tech House",
+      "sources": [
+        "https://promodj.com/romanvertigo/remixes/7939629/Saluki_Volac_Ognei_Roman_Vertigo_Mixon_Spencer_Kuriev_Blend",
+        "https://songbpm.com/@saluki/ogney-ODSGQE-CgH"
+      ]
+    },
+    "лсп|шиншиллы (dj flasher blend)": {
+      "bpm": 126,
+      "key": "Cm",
+      "camelot": "5A",
+      "genre": "Progressive House",
+      "sources": [
+        "https://promodj.com/djflasher/remixes/7831894/LSP_Shinshilli_DJ_Flasher_Blend"
+      ]
+    },
+    "toxi$ & дора x rdcl|знак (alexx slam ukg edit short)": {
+      "bpm": null,
+      "key": null,
+      "camelot": null,
+      "genre": "UK Garage",
+      "sources": [
+        "https://promodj.com/alexxslam/remixes/7959348/Toxi_Dora_x_RDCL_Znak_Alexx_Slam_UKG_Edit_Short"
+      ]
+    },
+    "baby melo, fade031|сломана": {
+      "bpm": 85,
+      "key": "D#m",
+      "camelot": "2A",
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://songbpm.com/@baby-melo/slomana-gpm3s",
+        "https://open.spotify.com/track/4OjB6FkYwCeWqsSpTFF7O9"
+      ]
+    },
+    "sqwoz bab|одинокая скупая": {
+      "bpm": 144,
+      "key": null,
+      "camelot": null,
+      "genre": "Hip-Hop",
+      "sources": [
+        "https://www.shazam.com/song/1883012942/d0bed0b4d0b8d0bdd0bed0bad0b0d18f-d181d0bad183d0bfd0b0d18f"
+      ]
+    },
+    "пошлая молли x иван дорн|нон_стоп x стыцамен (bogowdan mash up)": {
+      "bpm": 130,
+      "key": "C#m",
+      "camelot": "12A",
+      "genre": "Pop",
+      "sources": [
+        "crate.json"
+      ]
+    },
+    "saluki|огней": {
+      "bpm": 125,
+      "key": "Fm",
+      "camelot": "4A",
+      "genre": "Pop",
+      "sources": [
+        "https://songbpm.com/@saluki/ogney-ODSGQE-CgH"
       ]
     }
   }
